@@ -1,5 +1,13 @@
-.venv/
+# Python
 __pycache__/
 *.pyc
+.venv/
+
+# AWS credentials
+.aws/
+*accessKeys.csv
 .env
-.ipynb_checkpoints/
+.env.*
+
+# Build logs
+lambda_build_log*.txt

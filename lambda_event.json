@@ -1,0 +1,19 @@
+{
+  "version": "2.0",
+  "routeKey": "POST /api/v1/used-ev/price",
+  "rawPath": "/api/v1/used-ev/price",
+  "rawQueryString": "",
+  "headers": {
+    "content-type": "application/json"
+  },
+  "requestContext": {
+    "http": {
+      "method": "POST",
+      "path": "/api/v1/used-ev/price",
+      "sourceIp": "127.0.0.1",
+      "userAgent": "local-test"
+    }
+  },
+  "body": "{\"make\":\"Tesla\",\"model_line\":\"Tesla Model 3\",\"model_year\":2020,\"mileage\":35000,\"drivetrain\":\"All-wheel Drive\",\"trim_name\":null,\"seller_rating\":null,\"driver_rating\":null,\"accidents_or_damage\":0,\"one_owner\":1,\"personal_use_only\":1}",
+  "isBase64Encoded": false
+}

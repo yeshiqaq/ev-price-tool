@@ -1,0 +1,13 @@
+FROM public.ecr.aws/lambda/python:3.12
+
+COPY requirements-lambda.txt ${LAMBDA_TASK_ROOT}/requirements-lambda.txt
+
+RUN pip install --no-cache-dir \
+    --only-binary=:all: \
+    -r ${LAMBDA_TASK_ROOT}/requirements-lambda.txt \
+    --target ${LAMBDA_TASK_ROOT}
+
+COPY src/ ${LAMBDA_TASK_ROOT}/src/
+COPY models/ ${LAMBDA_TASK_ROOT}/models/
+
+CMD ["src.app.handler"]

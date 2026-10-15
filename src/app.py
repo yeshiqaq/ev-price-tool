@@ -178,3 +178,7 @@ def predict_price(car: CarInput):
         "market_basis": "April 2023",
         "model_version": "v1"
     }
+
+from mangum import Mangum
+
+handler = Mangum(app)
