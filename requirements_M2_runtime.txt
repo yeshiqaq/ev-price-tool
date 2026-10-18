@@ -1,0 +1,10 @@
+# M2 runtime used for training and the scoring checks (Python 3.12.14).
+# This subset is separate from M5's original team requirements.txt, kept unchanged.
+pandas==2.2.3
+numpy==2.3.5
+scipy==1.17.0
+scikit-learn==1.8.0
+joblib==1.6.0
+mlflow-skinny==3.3.2
+matplotlib==3.10.8
+xgboost==2.1.1
