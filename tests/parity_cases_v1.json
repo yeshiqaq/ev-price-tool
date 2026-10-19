@@ -1,0 +1,58 @@
+{
+  "model_file": "models/price_model_v3.joblib",
+  "prep_version": "v6",
+  "tolerance_usd": 1.0,
+  "cases": [
+    {
+      "listing_id": 11836,
+      "request": {
+        "make": "Tesla",
+        "model_line": "Tesla Model 3",
+        "model_year": 2020,
+        "mileage": 61534,
+        "drivetrain": "Rear-wheel Drive",
+        "trim_name": "Model 3 Standard Range Plus",
+        "seller_rating": 4.7,
+        "accidents_or_damage": 1,
+        "one_owner": 1,
+        "personal_use_only": 1
+      },
+      "expected_price_usd": 31773.72,
+      "actual_listing_price_usd": 27999.0
+    },
+    {
+      "listing_id": 6415,
+      "request": {
+        "make": "Nissan",
+        "model_line": "Nissan Leaf",
+        "model_year": 2018,
+        "mileage": 16464,
+        "drivetrain": "Front-wheel Drive",
+        "trim_name": "Leaf SV",
+        "seller_rating": 2.5,
+        "accidents_or_damage": 0,
+        "one_owner": 0,
+        "personal_use_only": 1
+      },
+      "expected_price_usd": 20591.26,
+      "actual_listing_price_usd": 23500.0
+    },
+    {
+      "listing_id": 7803,
+      "request": {
+        "make": "Porsche",
+        "model_line": "Porsche Taycan",
+        "model_year": 2021,
+        "mileage": 9960,
+        "drivetrain": "All-wheel Drive",
+        "trim_name": "Taycan 4S",
+        "seller_rating": 4.6,
+        "accidents_or_damage": 0,
+        "one_owner": 1,
+        "personal_use_only": 1
+      },
+      "expected_price_usd": 106193.18,
+      "actual_listing_price_usd": 114990.0
+    }
+  ]
+}
