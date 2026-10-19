@@ -1,0 +1,11 @@
+# Docker / AWS Lambda image only (M3). Same versions as requirements.txt.
+# Base image: public.ecr.aws/lambda/python:3.13
+pandas==2.2.3
+numpy==2.3.5
+scipy==1.18.1
+scikit-learn==1.8.0
+xgboost==2.1.1
+joblib==1.6.0
+fastapi==0.143.0
+pydantic==2.14.1
+mangum==0.22.0
