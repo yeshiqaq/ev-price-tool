@@ -1,140 +1,74 @@
-# EV Resale Value Prediction Tool
+# PriceSpark — EV Fair Price & Price-Cut Review API
 
-**PAL Group 21 | M3 — Data Warehouse & Deployment**  
+**Group 21 | EBA5012 Predictive Analytics Lifecycle (PAL)**  
 **Repository:** https://github.com/yeshiqaq/ev-price-tool  
-**Project status:** Local FastAPI, Docker and Lambda-container inference tested; AWS cloud deployment pending verification.
+**Deployment status:** Live on AWS Lambda; dual-model endpoint tested (October 2026)  
+**Region:** `ap-southeast-1` (Singapore)  
+**Deployment image tag:** `v3-cut`
 
-## 1. Project overview
+## 1. Overview
 
-This project supports used-electric-vehicle (EV) pricing decisions. Its first deployed service estimates a vehicle's **fair price in USD**, based on the historical April 2023 market represented by the modelling data. The broader group project also aims to estimate the **probability of a listing price cut**, once the final M2 classifier and its preprocessing requirements have been integrated.
+PriceSpark is a decision-support prototype for U.S. used-electric-vehicle (EV) dealers. It provides a reference **fair asking price** and, when a planned asking price is supplied, a **price-cut review score and review flag**. The models reflect the **April 2023 U.S. listing market**, not current transaction prices.
 
-The API is a decision-support prototype, **not** a guaranteed current-market valuation, transaction price or production-grade pricing service. The model has been trained on historical listings; the fairness and accuracy of individual predictions must be assessed separately from successful API execution.
+The service combines:
 
-### Team interfaces
+- **M5 Fair Price model:** an XGBoost-based v3 price predictor using vehicle details and model-year complaint/reliability features.
+- **M2 Price-cut review model:** a decision-tree classifier and scoring helper using the planned asking price and the model's reference fair price.
 
-| Member | Contribution to the deployment workflow |
+**Important:** The price-cut review score is **not a calibrated probability** that a future price cut will occur. It is intended to support human review, not automated repricing.
+
+## 2. Live API
+
+| Item | Address / value |
 |---|---|
-| M1 | Clean EV listings and data dictionary |
-| M2 | Complaint matching and forthcoming price-cut classifier |
-| M3 | MySQL star schema, SQL extraction, FastAPI, Docker, GitHub and cloud deployment |
-| M4 | Model-year complaint/reliability features and presentation integration |
-| M5 | Shared preprocessing (`src/prep.py`), price model, model evaluation and dependency guidance |
+| AWS Lambda function | `ev-price-predictor` |
+| Base URL | https://ncnbucti2my7ygmwzpdf5vq3b40etqnp.lambda-url.ap-southeast-1.on.aws/ |
+| Interactive Swagger UI | https://ncnbucti2my7ygmwzpdf5vq3b40etqnp.lambda-url.ap-southeast-1.on.aws/docs |
+| Health check | `GET /health` |
+| Prediction | `POST /api/v1/used-ev/price` |
+| API region | `ap-southeast-1` |
 
-## 2. Current implementation status
+The API is exposed directly through an **AWS Lambda Function URL**. **API Gateway is not part of the current deployment**; it is a possible future enhancement. The Function URL can remain unchanged when the Lambda container image is updated, provided the URL configuration is retained.
 
-| Component | Status | Evidence / note |
-|---|---|---|
-| MySQL `ev_dw` star schema and SQL handover | Completed in M3 handover | See OneDrive `M3_EV Handover` for SQL, EER diagram, validation results and modelling extract |
-| Local FastAPI `/health` | Tested | HTTP 200 |
-| Local fair-price POST inference | Tested | HTTP 200 |
-| Standard Docker image `ev-price-api:1.0` | Built and tested | Swagger POST returned HTTP 200 |
-| GitHub repository | Initial code pushed | `main` branch; subsequent Lambda changes require another push |
-| Lambda-specific image `ev-price-lambda:1.0` | Built | Local Docker image |
-| Local Lambda runtime invocation | Tested | HTTP response payload `statusCode: 200` |
-| Amazon ECR image upload | Pending verification | No successful cloud upload evidenced yet |
-| AWS Lambda cloud function | Pending verification | Local Lambda container is not a deployed AWS function |
-| API Gateway HTTPS endpoint | Pending verification | Do not report a live URL until tested |
-| M2 price-cut model integration | Pending | Requires final model, input schema and test cases |
-| Input/performance drift analysis | Planned | Requires request data and/or labelled holdout data |
-
-**Reference smoke-test case (not a model-accuracy claim):** A 2020 Tesla Model 3, 35,000 miles, all-wheel drive, with the example history flags and unspecified optional ratings/trim, returned `fair_price_usd: 56649.33` in both the standard Docker API and the locally invoked Lambda container. A single matching prediction does not establish broad version compatibility or valuation accuracy.
+> This is a public-facing prototype endpoint. Availability, access policy, costs and the deployed version may change; confirm the live service before a demonstration.
 
 ## 3. Architecture
 
 ```text
-EV listing JSON
-      |
-      v
-API Gateway HTTPS route [planned cloud entry point]
-      |
-      v
-AWS Lambda container (Python runtime + Mangum)
-      |
-      v
-FastAPI input validation
-      |
-      v
-Model-year reliability lookup (dim_reliability.csv)
-      |
-      v
-Feature construction + M5 shared preprocessing pipeline
-      |
-      v
-Saved M5 price model (price_model_v1.joblib)
-      |
-      v
-Fair-price JSON response + application logs -> CloudWatch [once deployed]
+Client / Swagger UI
+       |
+       | HTTPS JSON request
+       v
+AWS Lambda Function URL
+       |
+       v
+AWS Lambda container (Python 3.13)
+       |
+       v
+FastAPI + Mangum
+       |
+       +--> Pydantic input validation
+       +--> model-year reliability lookup
+       +--> M5 fair-price model (XGBoost v3)
+       +--> M2 price-cut scoring helper / decision tree
+       |
+       v
+JSON response: fair price + review score / flag
+
+Amazon ECR: container image storage
+Amazon CloudWatch: Lambda execution logs and metrics
+GitHub: application, Docker and SQL source files
 ```
 
-**Local development path:** Client -> Uvicorn -> FastAPI -> saved model.  
-**Lambda path:** API Gateway event -> Mangum handler -> FastAPI -> saved model.  
-The normal Docker image and Lambda image package the same application/model files but use different base images and entry points.
+The application uses separate Dockerfiles for a conventional Uvicorn container and the AWS Lambda container runtime.
 
-## 4. Repository layout
+## 4. API input and output
 
-```text
-EV_Deployment/
-├── models/
-│   ├── price_model_v1.joblib
-│   └── dim_reliability.csv
-├── src/
-│   ├── __init__.py
-│   ├── prep.py
-│   ├── app.py
-│   └── server.py
-├── test_model.py
-├── test_api.py
-├── lambda_event.json              # optional, synthetic test event
-├── Dockerfile                     # Uvicorn-based container
-├── Dockerfile.lambda              # Lambda base image + Mangum
-├── requirements.txt               # standard Docker dependencies
-├── requirements-lambda.txt        # Lambda-specific dependency set
-├── .gitignore
-└── README.md
-```
+The prediction endpoint accepts vehicle attributes such as make, model line, year, mileage, drivetrain, trim, seller/driver ratings, and vehicle-history flags. `asking_price` is the dealer's proposed listing price in USD.
 
-The **full group repository** is expected to add `sql/`, `notebooks/`, cleaned/model data and final M2/M5 artifacts when handed over. Do not assume these folders already exist in the initial deployment-only commit.
+**Input checks implemented in the API:** model year **2010–2023**, mileage **0–250,000**, binary history flags, positive asking price when supplied, and a supported make/model/year reliability lookup. Optional rating and trim fields can be `null`; missing values can materially change the prediction.
 
-## 5. Data warehouse (M3 Part A)
-
-**Database:** MySQL `ev_dw`. **Fact grain:** one row per EV listing.  
-**Fact:** `fact_listing`. **Dimensions:** `dim_vehicle`, `dim_model_year`, `dim_seller`, `dim_history`, `dim_reliability`.
-
-The warehouse work comprises:
-
-1. `01_create_tables.sql` — star-schema tables, primary keys and foreign keys.
-2. `02_load.sql` — staging-to-dimension/fact loading.
-3. `03_business_questions.sql` — six management-analysis queries (e.g., price by brand/age, accident history, model counts, complaints, price-cut rate and seller ratings).
-4. `04_extract.sql` — joined modelling view / CSV export for M2 and M5.
-
-**Handover artifacts:** EER diagram, SQL scripts, business-query CSV outputs, `data_validation_results`, and `model_dataset.csv` are maintained in the shared OneDrive `PAL Group 21 / M3_EV Handover` folder. Warehouse row counts should be quoted from the final validation export, not from targets in the planning guide. Source and fact-table counts must be reconciled before a final validation claim.
-
-## 6. Prerequisites and dependency compatibility
-
-- Windows + VS Code, Python, Docker Desktop and Git for local development.
-- AWS CLI v2 and an authorized AWS identity for ECR/Lambda/API Gateway deployment.
-- M5's `src/prep.py` is required to unpickle the saved model; keep its module path unchanged.
-- The joblib artifact must be loaded only from a trusted source.
-- The tested local Python/Docker environment and the Lambda environment **do not have identical dependencies**. The Lambda build uses Python 3.12 and a separate `requirements-lambda.txt`; the ordinary Docker image uses Python 3.11.
-
-**Compatibility warning:** A successful image build or HTTP 200 does not guarantee numerical equivalence for all vehicles. The saved model previously raised scikit-learn/XGBoost version warnings. Coordinate exact training/export versions with M5 and compare predictions on multiple representative records before accepting a final deployment. Preserve the original model and dependency manifests.
-
-**Prediction scale:** The current saved model returns price-scale values directly (the smoke test returned approximately 56,649 USD). Do **not** apply another `np.exp()` in `src/app.py`. M5 should confirm the saved model's target-transform configuration; applying `np.exp()` twice can overflow and cause HTTP 500.
-
-## 7. Run FastAPI locally
-
-From the project root in Windows CMD:
-
-```cmd
-py -m venv .venv
-.venv\Scripts\activate.bat
-python -m pip install -r requirements.txt
-python -m src.server
-```
-
-Open `http://127.0.0.1:8000/docs` for Swagger UI, or `http://127.0.0.1:8000/health` for the health check. Keep the server terminal running while testing in a second terminal.
-
-**Prediction endpoint:** `POST /api/v1/used-ev/price`.
+### Example request
 
 ```json
 {
@@ -143,164 +77,228 @@ Open `http://127.0.0.1:8000/docs` for Swagger UI, or `http://127.0.0.1:8000/heal
   "model_year": 2020,
   "mileage": 35000,
   "drivetrain": "All-wheel Drive",
-  "trim_name": null,
-  "seller_rating": null,
-  "driver_rating": null,
+  "trim_name": "Model 3 Long Range",
+  "seller_rating": 4.5,
+  "driver_rating": 4.2,
   "accidents_or_damage": 0,
   "one_owner": 1,
-  "personal_use_only": 1
+  "personal_use_only": 1,
+  "asking_price": 42000
 }
 ```
 
-Example observed response (from the existing smoke test, not a guaranteed output for a future model version):
+### Verified example response (AWS Swagger test)
+
+The deployed API returned **HTTP 200** for the above request. Key fields were:
 
 ```json
 {
-  "fair_price_usd": 56649.33,
-  "market_basis": "April 2023",
-  "model_version": "v1"
+  "fair_price_usd": 38814.0,
+  "asking_price_usd": 42000.0,
+  "ask_gap_pct": 0.08208378420157675,
+  "price_cut_review_score": 0.620093469415517,
+  "price_cut_review_flag": true,
+  "price_cut_threshold": 0.4821645328711008,
+  "reliability_matched": true,
+  "price_model_version": "v3"
 }
 ```
 
-The actual input must match the saved pipeline's feature requirements. Invalid years/mileage may return HTTP 422; unsupported model-year combinations may return HTTP 400; inference failures should return a controlled HTTP 500 and be diagnosed from server logs.
+The `ask_gap_pct` field is a **fractional ratio**: `0.08208` means approximately **8.21%** above the predicted fair price. `price_cut_review_flag` indicates that the score meets the review threshold; it is not a recommendation to reduce the asking price automatically.
 
-## 8. Standard Docker (local API)
+### Missing-rating sensitivity
 
-```cmd
-docker build -t ev-price-api:1.0 .
-docker run -d -p 8000:8000 --name ev-price-container ev-price-api:1.0
-docker ps
-docker logs ev-price-container
-```
+For the same Tesla example, changing only `seller_rating` and `driver_rating` from `4.5`/`4.2` to `null` changed the locally observed fair-price prediction from **$38,814** to **$54,011**. This demonstrates input sensitivity; it does **not** prove which field caused the change or which valuation is more accurate. Use verified ratings where available, and do not insert invented values simply to obtain a preferred price.
 
-Open `http://localhost:8000/docs` and run the same POST test. Stop any local Uvicorn process using port 8000 first. To stop the container:
+**Pending independent check:** the original M5 reference case (2020 Tesla Model 3, 35,000 miles, AWD, blank trim and missing ratings) still needs a documented like-for-like comparison with M5's reference output. The example above is **not** that reference case.
 
-```cmd
-docker stop ev-price-container
-```
+## 5. Project structure
 
-The ordinary `Dockerfile` uses `python:3.11-slim` and starts Uvicorn on port 8000.
-
-## 9. Lambda container (local runtime test)
-
-`src/app.py` exposes `handler = Mangum(app)`. The Lambda image uses `public.ecr.aws/lambda/python:3.12`, installs `requirements-lambda.txt`, copies `src/` and `models/`, and sets `CMD ["src.app.handler"]`.
-
-```cmd
-docker build --platform linux/amd64 -f Dockerfile.lambda -t ev-price-lambda:1.0 .
-docker run --rm -d -p 9000:8080 --name ev-lambda-test ev-price-lambda:1.0
-docker ps
-docker logs ev-lambda-test
-```
-
-With `lambda_event.json` containing a valid API Gateway HTTP API v2.0 event for the POST route, invoke the local Lambda runtime:
-
-```cmd
-curl.exe -X POST "http://localhost:9000/2015-03-31/functions/function/invocations" -H "Content-Type: application/json" --data-binary "@lambda_event.json"
-```
-
-**Observed local test:** The Lambda invocation returned `statusCode: 200` and a response body containing `fair_price_usd: 56649.33`. This proves the local Lambda runtime can execute that example request; it does **not** prove that an AWS Lambda function has been created.
-
-If the image cannot start locally, check whether the Lambda Runtime Interface Emulator is available in the container/test setup, then inspect `docker logs ev-lambda-test`.
-
-## 10. AWS cloud deployment — next actions
-
-### 10.1 Authentication and region
-
-Use AWS SSO/temporary credentials or another approved authentication method. Verify:
-
-```cmd
-aws --version
-aws sts get-caller-identity
-```
-
-The examples use `ap-southeast-1` (Singapore). Replace the account ID placeholder with the output of `aws sts get-caller-identity --query Account --output text`.
-
-### 10.2 ECR repository and image push
-
-```cmd
-aws ecr create-repository --repository-name ev-price-api --region ap-southeast-1
-aws ecr get-login-password --region ap-southeast-1 | docker login --username AWS --password-stdin ACCOUNT_ID.dkr.ecr.ap-southeast-1.amazonaws.com
-docker tag ev-price-lambda:1.0 ACCOUNT_ID.dkr.ecr.ap-southeast-1.amazonaws.com/ev-price-api:1.0
-docker push ACCOUNT_ID.dkr.ecr.ap-southeast-1.amazonaws.com/ev-price-api:1.0
-```
-
-If the repository already exists, skip creation. Ensure the pushed image is a Lambda-compatible, single-architecture Linux `amd64` image. If AWS rejects its manifest, rebuild with a compatible manifest (for example using Buildx with `--provenance=false --load`) and push again.
-
-### 10.3 Lambda function
-
-In AWS Lambda Console, create a **Container image** function named `ev-price-api`, select the ECR image, and use architecture `x86_64`. Give its execution role basic CloudWatch Logs permissions. Start with a test configuration such as 2048 MB memory and 30 seconds timeout; adjust based on actual runtime logs and cost.
-
-Run the same API Gateway-shaped event in Lambda's **Test** tab. Do not proceed until the cloud function returns `statusCode: 200` and the expected price-scale response.
-
-### 10.4 API Gateway HTTP API
-
-Create an HTTP API integrated with the Lambda function. Configure at least:
-
-- `POST /api/v1/used-ev/price`
-- `GET /health` (optional but useful)
-
-Deploy a stage and copy the actual HTTPS invoke URL. Test the POST route using the same JSON input as local Docker. **No live AWS URL is documented yet; add it only after a successful cloud test.**
-
-Before exposing the endpoint broadly, configure suitable authentication/access restrictions, throttling and an AWS budget alert. AWS services may incur charges.
-
-## 11. Logging, monitoring and drift
-
-The application uses Python logging to record the model/version, vehicle model/year, predicted price and latency. In AWS Lambda, stdout/stderr application logs can be viewed through CloudWatch Logs once permissions are configured. Avoid logging secrets or unnecessary personal information.
-
-**Operational monitoring:** requests, failures, latency, timeouts and memory usage.  
-**Input drift (planned):** compare production/request distributions of age, mileage and model-line shares with training data.  
-**Performance drift (planned):** compare predictions with actual later prices or an appropriately labelled held-back dataset, reporting MAE and percentage error. Without ground truth, performance drift cannot be measured.  
-**Retraining proposal from the team guide:** review/retrain with newer listings and register a new version if average percentage error exceeds 10%; verify the metric definition and validation window with M5.
-
-## 12. Validation checklist and evidence
-
-- [x] FastAPI local `/health` test
-- [x] FastAPI local POST test
-- [x] Standard Docker image built
-- [x] Standard Docker POST returned HTTP 200
-- [x] Initial GitHub repository pushed
-- [x] Lambda-specific Docker image built
-- [x] Local Lambda invocation returned `statusCode: 200`
-- [ ] Validate multiple representative records across both dependency environments
-- [ ] Upload image to Amazon ECR
-- [ ] Test cloud AWS Lambda function
-- [ ] Test API Gateway HTTPS POST endpoint
-- [ ] Capture CloudWatch logs
-- [ ] Integrate final M2 price-cut classifier and verify its features
-- [ ] Complete input/performance drift analysis
-- [ ] Merge final notebooks, SQL and models from all group members
-
-Suggested screenshot filenames:
+The following is the **intended final deployment layout**. Check the actual repository before publishing and update names/paths if the team has organized files differently.
 
 ```text
-Docker_Image_Build.png
-Docker_Container_Running.png
-Docker_API_Prediction.png
-Lambda_Local_Invocation.png
-AWS_ECR_Image.png
-AWS_Lambda_Test.png
-AWS_API_Gateway.png
-AWS_API_Prediction.png
-AWS_CloudWatch_Logs.png
+ev-price-tool/
+├── src/
+│   ├── __init__.py
+│   ├── app.py                 # FastAPI routes and Mangum handler
+│   ├── server.py              # Local server entry point, if used
+│   ├── prep.py                # Shared M5 preprocessing
+│   ├── condition_features.py  # Shared feature definitions
+│   └── price_cut.py           # M2 scoring helper
+├── models/
+│   ├── price_model_v3.joblib
+│   ├── price_cut_model.joblib
+│   ├── price_cut_metadata.json
+│   └── dim_reliability.csv
+├── data/                      # Local deployment data; see privacy notes
+├── sql/                       # SQL scripts; see Section 9
+├── Dockerfile
+├── Dockerfile.lambda
+├── requirements-serve.txt
+├── test_api.py
+├── test_model.py
+├── .dockerignore
+├── .gitignore
+└── README.md
 ```
 
-## 13. Limitations and pending integration
+The Lambda Dockerfile must copy every runtime path required by the scoring helper. In the tested integration this includes `src/`, `models/`, and `data/` as applicable. The precise model artifacts and permitted distribution should be confirmed with their owners before committing them to a public repository.
 
-1. The demonstrated fair-price model is `price_model_v1.joblib`, not necessarily M5's final registered model.
-2. The price-cut probability is **not yet implemented** in the deployed API; it requires M2's final artifact, shared feature list and validation.
-3. Predictions reflect the April 2023 modelling context, not live 2026 EV prices.
-4. The local Docker and Lambda dependency versions differ; a single matching result is insufficient to certify model reproducibility.
-5. Reliability features require a supported make/model/year match; unsupported cases should return a clear error rather than silently substituting unrelated features.
-6. A public GitHub repository should contain only files the group is authorized to share. Never commit AWS credentials, `.env`, private datasets or proprietary model artifacts without permission.
+## 6. Runtime and dependencies
 
-## 14. Team handover and project references
+The deployed container uses **Python 3.13** and the team's pinned serving requirements, including:
 
-- **M3 shared deliverables:** OneDrive `PAL Group 21 / M3_EV Handover` (SQL, EER, data validation, modelling extract and deployment evidence).
-- **Code repository:** https://github.com/yeshiqaq/ev-price-tool
-- **M2/M5:** Use the extracted `model_dataset.csv` from the shared folder and the agreed split/preprocessing files. Confirm feature/schema changes with M3 before integrating a new saved model.
-- **M4:** Use the EER diagram for slide 7 and architecture diagram, cloud endpoint and test evidence for slide 11 after cloud deployment succeeds.
-- **Guide:** *EV Resale Value Project — Team Work Split & Step-by-Step Guide (v2)*, M3 Steps 1–14.
+| Package | Version |
+|---|---|
+| Python | 3.13 |
+| scikit-learn | 1.8.0 |
+| XGBoost | 2.1.1 |
+| pandas | 2.2.3 |
+| NumPy | 2.3.5 |
+| joblib | 1.6.0 |
 
-### Maintaining this README
+Additional serving dependencies, including **FastAPI**, **Pydantic**, **Mangum**, and their compatible transitive dependencies, are specified in `requirements-serve.txt`. Use that file as the authoritative install list rather than mixing it with the broader training/analysis `requirements.txt`.
 
-Update status and evidence when each cloud step is verified. Replace version `v1` references only after integrating and testing the final model. Add the real AWS endpoint, deployment date, package versions, final model metrics and relevant screenshot links before final submission.
+**Why versions matter:** the original cloud build used scikit-learn 1.7.2 with a model saved under 1.8.0. An API can return HTTP 200 while still producing an unexpected model output. Keep model artifacts, preprocessing and library versions aligned, and validate predictions against reference cases.
+
+## 7. Run locally with Docker
+
+From the repository root, with Docker Desktop running:
+
+```bash
+docker build --no-cache -t ev-price-api:v3-cut .
+docker run --rm -p 8002:8000 --name ev-price-v3-cut ev-price-api:v3-cut
+```
+
+Open **http://localhost:8002/docs**, expand `POST /api/v1/used-ev/price`, click **Try it out**, paste the example JSON, and click **Execute**.
+
+If port `8002` is already in use, choose another free host port (for example `8003:8000`). If the container name already exists, remove or rename the old test container before starting another one.
+
+## 8. AWS Lambda container deployment
+
+The project uses **Amazon ECR** to store a Linux `amd64` Lambda-compatible container image, then deploys that image to the existing `ev-price-predictor` function.
+
+### Build the Lambda image
+
+```bash
+docker buildx build --platform linux/amd64 --provenance=false --load \
+  -f Dockerfile.lambda -t ev-price-lambda:v3-cut .
+```
+
+### Test Lambda locally
+
+```bash
+docker run --rm -d -p 9002:8080 \
+  --name ev-lambda-v3-cut ev-price-lambda:v3-cut
+```
+
+Invoke the Lambda Runtime Interface Emulator using a properly formatted API Gateway HTTP API v2 / Lambda Function URL event saved as `lambda_event_cut.json`:
+
+```bash
+curl -X POST \
+  http://localhost:9002/2015-03-31/functions/function/invocations \
+  -H 'Content-Type: application/json' \
+  --data-binary @lambda_event_cut.json
+```
+
+The tested local Lambda invocation returned a payload with `statusCode: 200` and matching dual-model results. Check logs with `docker logs ev-lambda-v3-cut` if an invocation fails.
+
+### Push to Amazon ECR
+
+The following example uses a Unix-like shell. On Windows **CMD**, use `set` and `%VARIABLE%` instead of `export` and `$VARIABLE`.
+
+```bash
+export AWS_REGION=ap-southeast-1
+export AWS_ACCOUNT_ID="$(aws sts get-caller-identity --query Account --output text)"
+export ECR_URI="${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_REGION}.amazonaws.com/ev-price-api"
+
+aws ecr get-login-password --region "$AWS_REGION" \
+  | docker login --username AWS --password-stdin \
+    "${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_REGION}.amazonaws.com"
+
+docker tag ev-price-lambda:v3-cut "${ECR_URI}:v3-cut"
+docker push "${ECR_URI}:v3-cut"
+```
+
+The AWS identity must have the necessary ECR permissions. Never put AWS access keys, session tokens, or account credentials into this repository.
+
+### Update the existing Lambda function
+
+In **AWS Console → Lambda → `ev-price-predictor` → Code → Deploy new image**, select the ECR image `ev-price-api:v3-cut` and deploy. Confirm the deployed image **digest**, not just a human-readable model-version string. The existing Lambda Function URL remains available unless its configuration is changed or removed.
+
+Finally, test the **live** `/docs` page with the same JSON and compare the response to the local Docker and Lambda-container outputs.
+
+## 9. Data warehouse and SQL
+
+The M3 data engineering component uses MySQL database **`ev_dw`** with a star schema at **one listing per fact row**:
+
+- Fact table: `fact_listing`
+- Dimensions: `dim_vehicle`, `dim_model_year`, `dim_seller`, `dim_history`, `dim_reliability`
+- Modelling view: `v_model_dataset`
+
+The final report documents **15,155 fact listings**, **15,155 modelling-view rows**, **zero duplicate listing keys**, and **zero invalid foreign-key references**. These are the reported warehouse-validation results; rerun the SQL against the delivered database when reproducing the project.
+
+### SQL deliverables
+
+| File | Purpose |
+|---|---|
+| `sql/01_create_tables.sql` | Create the database and star-schema tables |
+| `sql/02_load.sql` | Load staging data into dimension and fact tables |
+| `sql/03_business_questions.sql` | Six descriptive business-analysis queries |
+| `sql/04_extract.sql` | Create/query `v_model_dataset` for modelling |
+| `sql/05_validation.sql` | Reconcile row counts, uniqueness and foreign keys |
+
+**Important:** These filenames are the final-report handover specification. Verify that each file actually exists in GitHub; the README does not create the SQL scripts. Staging CSVs, raw datasets and database credentials are not bundled in this public repository.
+
+To reproduce the warehouse, obtain the authorized source files from the team, create the schema, import the staging tables, run the loading script once, validate counts and keys, and then run the business queries and model extract. See the M3 handover notes for staging-column and import details.
+
+## 10. Testing and monitoring
+
+| Test | Evidence / current state |
+|---|---|
+| Standard Docker FastAPI | Tested; HTTP 200 with both model outputs |
+| Local Lambda runtime | Tested; `statusCode: 200` |
+| AWS Lambda Function URL | Tested; HTTP 200 with both model outputs |
+| Same-input local vs cloud output | Matched for the documented Tesla example |
+| AWS CloudWatch | Invocation logs and execution metrics visible |
+| M5 original missing-value reference comparison | Awaiting documented confirmation |
+| Automated data-drift detection | **Planned, not implemented** |
+| Production-grade authentication/rate limiting | **Not implemented in this prototype** |
+
+**Deployment evidence:** the team stores `M3_AWS_DualModel_Swagger.png` and `M3_AWS_CloudWatch_v3cut.png` in **OneDrive → M3 → AWS_Deployment_Oct20**. The final report's **Section 14.4** and **Appendix F** contain or reference the deployment validation evidence.
+
+CloudWatch confirms that Lambda was invoked and records metrics such as duration and memory use. It does **not**, by itself, establish that a prediction is accurate or that automatic drift monitoring has been implemented.
+
+## 11. Known limitations and future work
+
+1. **Historical asking prices:** the reference price is learned from April 2023 listings, not verified sale prices or today's market.
+2. **Missing values:** seller/driver ratings and trim can change model predictions substantially; input sensitivity requires further investigation.
+3. **Price-cut score:** the classifier has modest discrimination (test ROC-AUC approximately **0.630**, recall **73.77%**, precision **70.40%**) and its output is **uncalibrated**. The 80% test-recall target was not met.
+4. **Data coverage:** the project covers U.S. used battery-electric listings and mapped model-year complaint features; unsupported vehicles should not be treated as valid predictions.
+5. **Battery health:** direct battery state-of-health measurements are unavailable.
+6. **Operational hardening:** add API Gateway or another access-control layer as appropriate, rate limiting, structured monitoring, automated drift checks, CI/CD and updated data before production use.
+
+## 12. Project ownership and reproducibility
+
+| Member | Main area |
+|---|---|
+| M1 Zihao | Listing cleaning, data dictionary and profiling |
+| M2 Ruijing | Complaint matching and price-cut model |
+| M3 Zhishuo | MySQL warehouse, SQL, FastAPI integration, Docker and AWS Lambda deployment |
+| M4 Caleb | Project coordination, reporting and complaint text analytics |
+| M5 Hyunbin | Fair-price model, shared preprocessing, evaluation and MLflow model registry |
+
+Model training, evaluation, feature engineering and cloud deployment are separate stages. The public API demonstrates **inference**, not that a model was trained in Lambda. Model registry status and artifact ownership should be verified with M5 before making additional registry claims.
+
+**Security:** do not commit AWS keys, `.env` files, raw restricted datasets, database credentials, or model artifacts without the owner's permission. Review `.gitignore` and `.dockerignore` before pushing changes.
+
+## 13. References
+
+- Team PriceSpark (2026), *What Drives EV Resale Value?*, Group 21 PAL final report.
+- [Project GitHub repository](https://github.com/yeshiqaq/ev-price-tool)
+- [AWS Lambda documentation](https://docs.aws.amazon.com/lambda/)
+- [FastAPI documentation](https://fastapi.tiangolo.com/)
+
+---
+
+**Project status summary:** Dual-model inference is live and smoke-tested on AWS Lambda. Independent M5 reference-case reconciliation and additional validation remain necessary before treating this as a fully validated dealer-facing production service.
