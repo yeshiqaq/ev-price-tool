@@ -1,0 +1,49 @@
+﻿field,type,description_en,description_zh,source,role,missing_count
+listing_id,int64,Stable zero-based ID assigned once after non-BEV exclusions and exact deduplication,去除非纯电与重复后统一分配的稳定编号,M1 transformation of supplied source,identifier,0
+manufacturer,object,Vehicle manufacturer/brand,品牌,Supplied cars.xlsx / Cars.com listings via Kaggle,candidate feature,0
+model,object,Original model and trim description; retained for traceability,原始车型及配置名称,Supplied cars.xlsx / Cars.com listings via Kaggle,candidate feature,0
+year,int64,"Model year, not exact manufacture/registration date",车型年份，不是准确登记日期,Supplied cars.xlsx / Cars.com listings via Kaggle,candidate feature,0
+mileage,float64,Reported odometer reading in miles; gaps remain missing,里程，单位英里；保留缺失,Supplied cars.xlsx / Cars.com listings via Kaggle,candidate feature,6
+engine,object,Original engine description; electric-labelled generic models need review if description absent/0,原始动力描述；缺失或0不能独立证实纯电身份,Supplied cars.xlsx / Cars.com listings via Kaggle,candidate feature,115
+transmission,object,Original transmission description,原始变速箱描述,Supplied cars.xlsx / Cars.com listings via Kaggle,candidate feature,45
+drivetrain,object,Drive layout; AWD/RWD/FWD/4WD variants harmonised; Unknown mapped to missing,驱动方式，统一缩写；Unknown保留为缺失,Supplied cars.xlsx / Cars.com listings via Kaggle,candidate feature,112
+exterior_color,object,Original exterior colour description,外观颜色,Supplied cars.xlsx / Cars.com listings via Kaggle,candidate feature,249
+interior_color,object,Original interior colour description,内饰颜色,Supplied cars.xlsx / Cars.com listings via Kaggle,candidate feature,1231
+accidents_or_damage,float64,"1 = recorded accident/damage, 0 = no recorded accident/damage; missing = unknown",1有事故或损伤记录，0无相关记录，缺失表示未知,Supplied cars.xlsx / Cars.com listings via Kaggle,candidate feature,811
+one_owner,float64,"1 = one owner recorded, 0 = not one owner; missing = unknown",1记录为单一车主，0不是单一车主，缺失未知,Supplied cars.xlsx / Cars.com listings via Kaggle,candidate feature,975
+personal_use_only,float64,"1 = personal use only recorded, 0 = other recorded usage; missing = unknown",1仅个人使用，0其他使用记录，缺失未知,Supplied cars.xlsx / Cars.com listings via Kaggle,candidate feature,813
+seller_name,object,"Seller/dealer label, not a reliable seller-size measure",卖家名称，不能当作卖家规模,Supplied cars.xlsx / Cars.com listings via Kaggle,metadata; optional only after justification,501
+seller_rating,float64,Reported seller rating on 1–5 scale; not filled in handover,卖家评分1–5；交接不填补,Supplied cars.xlsx / Cars.com listings via Kaggle,candidate feature,3539
+driver_rating,float64,Reported driver/model rating on 1–5 scale; not vehicle-specific battery health,车主／车型评分1–5，不是单车电池健康,Supplied cars.xlsx / Cars.com listings via Kaggle,candidate feature,1630
+driver_reviews_num,int64,Reported number of driver reviews; zero does not imply zero reliability risk,车主评论数量；0不代表没有可靠性风险,Supplied cars.xlsx / Cars.com listings via Kaggle,candidate feature,0
+price_drop,float64,Recorded reduction; missing filled with zero under project assumption; original preserved separately,降价金额；按项目假设将缺失设为0，另存原值,Supplied cars.xlsx / Cars.com listings via Kaggle,target-derived; exclude from price inputs,0
+price,int64,"Recorded April 2023 asking price, USD; not completed sale price",2023年4月挂牌价，美元；不是成交价,Supplied cars.xlsx / Cars.com listings via Kaggle,regression target,0
+source_excel_row,int64,Header-inclusive original workbook row number (1-based); provenance only,原始Excel行号，含表头，追溯用,M1 transformation of supplied source,identifier,0
+model_line,object,Explicit canonical model family; original model retained; M2 validates complaint match,归并后的车型系列；M2仍需验证投诉对应关系,M1 transformation of supplied source,candidate feature,0
+model_line_review_flag,int64,1 = generic/original label needs model-family mapping review,1表示原始名称不明确、需核实归并,M1 transformation of supplied source,review only,0
+age,int64,2023 − model year; approximate snapshot age,2023减车型年份，近似车龄,M1 transformation of supplied source,candidate feature,0
+miles_per_year,float64,"mileage / max(age, 0.5); annualised proxy, not observed yearly driving","里程除以max(车龄,0.5)，年均里程代理值",M1 transformation of supplied source,candidate feature,6
+high_mileage_flag,float64,1 if annualised mileage exceeds 15000; missing mileage remains missing,年均里程超过15000为1；缺失仍缺失,M1 transformation of supplied source,candidate feature,6
+premium_brand_flag,int64,"Project-defined premium-brand indicator, not empirical retention ranking",项目指定高端品牌标签，不是保值率排名,M1 transformation of supplied source,candidate feature,0
+price_drop_raw,float64,Unmodified recorded reduction with original gaps; not MSRP depreciation,原始降价金额和缺失，不是相对新车价的贬值,M1 transformation of supplied source,target-derived; exclude from price inputs,5614
+price_drop_was_missing,int64,1 if original price_drop was missing; project zero-fill assumption remains visible,1表示原始降价缺失，保留假设痕迹,M1 transformation of supplied source,target-derived; exclude from price inputs,0
+initial_price,float64,"price + zero-filled price_drop; reconstructed listing reference under unverified project assumption, not original new-car price",现价加降价的重建挂牌参考价；不是新车原价,M1 transformation of supplied source,target-derived; exclude from all default model inputs,0
+price_cut_flag,int64,1 if recorded price_drop > 0; target for historical recorded-cut classification,记录降价金额大于0为1，用作历史降价分类目标,M1 transformation of supplied source,classification target,0
+log_price,float64,Natural logarithm of positive USD asking price; regression target,正挂牌价的自然对数，回归目标,M1 transformation of supplied source,regression target,0
+very_low_mileage_flag,float64,"Legacy marker: mileage < 100 miles, regardless of vehicle age; NOT the new near-new definition.",保留旧标记：里程不足100英里，不考虑车龄。,M1 transformation of supplied source,candidate feature / review,6
+bev_status_review_flag,int64,Historical BEV-identity review flag. Eight listings retained by team decision communicated 19 Oct 2026 (8/15155 = 0.0528%). Review item closed; identity not independently confirmed.,历史纯电身份复核标记；小组2026年10月19日反馈决定保留8条（0.0528%），事项关闭，不代表身份已独立证实。,M1 transformation of supplied source,review only,0
+bev_status_review_reason,object,Original reason for historical BEV-identity flag; kept for provenance after team retention decision.,保留原纯电身份疑点原因用于追溯；小组已决定保留。,M1 transformation of supplied source,review only,0
+iqr_reference_n,int64,Number of cars used for descriptive IQR reference,IQR描述性参考组样本数,M1 transformation of supplied source,audit only,0
+iqr_reference_scope,object,"model_line_and_year if >=10, otherwise all rows of whole_model_line",车型年份组至少10辆，否则参考整个车型系列,M1 transformation of supplied source,audit only,0
+iqr_outlier,int64,Descriptive full-cohort groupwise log-price IQR flag; not error certainty,全样本分组对数价格IQR标记，不代表确定错误,M1 transformation of supplied source,target-derived diagnostic; NEVER price input,0
+iso_outlier,int64,Descriptive full-cohort Isolation Forest flag with .01 contamination,全样本Isolation Forest标记，比例参数0.01,M1 transformation of supplied source,target-derived diagnostic; NEVER price input,0
+iso_anomaly_score,float64,Isolation Forest decision score fitted to full cohort for descriptive review only,仅用于描述性复核的Isolation Forest分数,M1 transformation of supplied source,target-derived diagnostic; NEVER price input,0
+confirmed_error_flag,int64,1 only for the project-designated Toyota bZ4X USD333333 record; not independently verified,仅标记项目指定的Toyota bZ4X 333333美元记录，未独立核实,M1 transformation of supplied source,training-only exclusion control; NEVER price input,0
+error_review_status,object,Distinguishes project-designated error from statistical flag retained,区分项目指定错误和仅统计异常、保留的记录,M1 transformation of supplied source,audit only,0
+low_mileage_for_age_flag,float64,"1 if mileage / max(age, 0.5) < 7,500 miles/year; 0 otherwise; invalid/missing age or mileage stays missing.",年均里程低于7500英里为1；缺失保持未知。,"M1 fixed project rules, 2026-10-15; supplied age/mileage/history",engineered candidate; tested by M5; excluded from final XGBoost (team feedback 19 Oct),6
+near_new_flag,float64,"1 if age <= 1 and mileage < 5,000; 0 when either criterion is known to fail; otherwise missing.",车龄不超过1年且里程少于5000英里为1；已知不满足为0；否则未知。,"M1 fixed project rules, 2026-10-15; supplied age/mileage/history",engineered candidate; tested by M5; excluded from final XGBoost (team feedback 19 Oct),4
+clean_history_flag,float64,1 if accidents_or_damage=0; 0 if =1; missing/invalid history stays missing. Only covers recorded accident/damage history.,无事故或损伤记录为1，有记录为0；未记录保持未知。,"M1 fixed project rules, 2026-10-15; supplied age/mileage/history",engineered candidate; tested by M5; excluded from final XGBoost (team feedback 19 Oct),811
+condition_score,float64,"Sum of the three condition flags, 0–3; missing if any flag is missing. Equal weights are a project assumption.",三个标记相加得0至3分；任一缺失则不评分；等权为项目假设。,"M1 fixed project rules, 2026-10-15; supplied age/mileage/history",engineered candidate; tested by M5; excluded from final XGBoost (team feedback 19 Oct),817
+age_band,object,"Approximate model-year age: 0–1, 2–3, 4–5, 6+ years.",车龄分组：0至1、2至3、4至5、6年以上。,"M1 fixed project rules, 2026-10-15; supplied age/mileage/history",engineered candidate; tested by M5; excluded from final XGBoost (team feedback 19 Oct),0
+mileage_band,object,"Miles: [0,10000), [10000,30000), [30000,60000), [60000,infinity).",里程分组：不足1万、1至不足3万、3至不足6万、6万以上英里。,"M1 fixed project rules, 2026-10-15; supplied age/mileage/history",engineered candidate; tested by M5; excluded from final XGBoost (team feedback 19 Oct),6
+battery_wear_proxy,float64,"Cumulative-use exposure = mileage / 10,000 (10k-mile units). No observed battery health, no estimated SOH or degradation %. Redundant linear rescaling of mileage; no overall condition-feature gain for XGBoost was reported by M5; not measured battery health.",累计使用程度=里程/10000；不代表电池健康度或损耗百分比，与里程完全线性重复。,"M1 fixed project rules, 2026-10-15; supplied age/mileage/history",engineered candidate; tested by M5; excluded from final XGBoost (team feedback 19 Oct),6
