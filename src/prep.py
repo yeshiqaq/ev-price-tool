@@ -23,7 +23,9 @@ from sklearn.impute import SimpleImputer
 from sklearn.pipeline import Pipeline, make_pipeline
 from sklearn.preprocessing import FunctionTransformer, OneHotEncoder, StandardScaler
 
-VERSION = "v4"           # announce each new version in the group chat
+from src import condition_features as m1_rules
+
+VERSION = "v6"           # v6 (17 Oct): add_lookups() for the API; v5: rules="m1" option
 SNAPSHOT_YEAR = 2023     # listings collected April 2023
 RANDOM_STATE = 42
 TARGET = "price"
@@ -47,6 +49,9 @@ NUM = ["age", "mileage", "miles_per_year", "accidents_or_damage", "one_owner",
 CONDITION = ["low_mileage_for_age_flag", "near_new_flag", "clean_history_flag",
              "condition_score", "battery_wear_proxy"]
 CONDITION_CAT = ["mileage_band", "age_band"]
+# M1's condition rules (src/condition_features.py, owned by M1). rules="m1" uses these.
+M1_CONDITION = m1_rules.CONDITION_BINARY + m1_rules.CONDITION_NUMERIC
+M1_CONDITION_CAT = m1_rules.CONDITION_CATEGORY
 COMPLAINT_RAW = ["complaints_per_listing", "avg_sentiment", "battery_charging_share",
                  "braking_assist_share", "software_screen_share", "crash_fire_share"]
 # complaints_per_listing is extreme for rare model-years (up to 33), so the model uses log1p of it.
@@ -58,9 +63,10 @@ CAT = ["make", "model_line", "trim_name", "drivetrain"]
 RENAME = {"manufacturer": "make", "model": "trim_name", "model_year": "year"}
 
 
-def build_features(X):
+def build_features(X, rules="m5"):
     """Derive every engineered input from the raw fields. Fixed rules only (no fitting),
-    so it is safe to run on any row, at training or at inference."""
+    so it is safe to run on any row, at training or at inference.
+    rules="m1" replaces the condition features with M1's definitions."""
     df = pd.DataFrame(X).rename(columns=RENAME).copy()
     for col in RAW_INPUTS + COMPLAINT_RAW:
         if col not in df.columns:
@@ -90,14 +96,21 @@ def build_features(X):
                                 labels=["<10k", "10-30k", "30-60k", "60-100k", "100k+"]).astype(str)
     df["age_band"] = pd.cut(df["age"], [-1, 1, 3, 6, np.inf],
                             labels=["0-1", "2-3", "4-6", "7+"]).astype(str)
+    if rules == "m1":
+        df = m1_rules.add_condition_features(df)
     return df
 
 
-def make_prep(use_complaints=True, use_condition=True, extra_num=(), scale=True):
-    """Impute, scale and one-hot encode. Fitted inside each CV fold, so no leakage."""
-    num = (NUM + (CONDITION if use_condition else []) + (COMPLAINT if use_complaints else [])
+def make_prep(use_complaints=True, use_condition=True, extra_num=(), scale=True, rules="m5",
+              drop=()):
+    """Impute, scale and one-hot encode. Fitted inside each CV fold, so no leakage.
+    `drop` removes named columns (for sensitivity checks)."""
+    cond, cond_cat = (M1_CONDITION, M1_CONDITION_CAT) if rules == "m1" else (CONDITION, CONDITION_CAT)
+    num = (NUM + (cond if use_condition else []) + (COMPLAINT if use_complaints else [])
            + list(extra_num))
-    cat = CAT + (CONDITION_CAT if use_condition else [])
+    cat = CAT + (cond_cat if use_condition else [])
+    num = [c for c in num if c not in drop]
+    cat = [c for c in cat if c not in drop]
     num_steps = [SimpleImputer(strategy="median", add_indicator=True)]
     if scale:
         num_steps.append(StandardScaler())
@@ -108,12 +121,13 @@ def make_prep(use_complaints=True, use_condition=True, extra_num=(), scale=True)
     ])
 
 
-def make_model(regressor, use_complaints=True, use_condition=True, extra_num=(), scale=True):
+def make_model(regressor, use_complaints=True, use_condition=True, extra_num=(), scale=True,
+               rules="m5", drop=()):
     """Full model: raw fields in, US$ out. Trains on log(price).
     Tune with parameter names like 'regressor__model__max_depth'."""
     pipe = Pipeline([
-        ("features", FunctionTransformer(build_features)),
-        ("prep", make_prep(use_complaints, use_condition, extra_num, scale)),
+        ("features", FunctionTransformer(build_features, kw_args={"rules": rules})),
+        ("prep", make_prep(use_complaints, use_condition, extra_num, scale, rules, drop)),
         ("model", regressor),
     ])
     return TransformedTargetRegressor(regressor=pipe, func=np.log, inverse_func=np.exp,
@@ -127,12 +141,13 @@ def raw_frame(df):
     return df[cols].copy()
 
 
-def make_classifier(classifier, use_complaints=True, use_condition=True, extra_num=("ask_gap_pct",)):
+def make_classifier(classifier, use_complaints=True, use_condition=True, extra_num=("ask_gap_pct",),
+                    rules="m5"):
     """Price-cut model (M2): same features and preparation, plus the gap between the
     planned asking price and M5's fair price. Raw fields + 'ask_gap_pct' in."""
     return Pipeline([
-        ("features", FunctionTransformer(build_features)),
-        ("prep", make_prep(use_complaints, use_condition, extra_num)),
+        ("features", FunctionTransformer(build_features, kw_args={"rules": rules})),
+        ("prep", make_prep(use_complaints, use_condition, extra_num, rules=rules)),
         ("clf", classifier),
     ])
 
@@ -145,3 +160,34 @@ def add_reliability(df, rel):
     rel = rel[["make", "model_line", "year"] + COMPLAINT_RAW]
     return df.drop(columns=[c for c in COMPLAINT_RAW if c in df.columns]).merge(
         rel, on=["make", "model_line", "year"], how="left")
+
+
+def add_lookups(df, models_dir="models"):
+    """Everything the API must add before model.predict (v6). Use it in the app:
+
+        X = prep.add_lookups(pd.DataFrame([request_dict]))
+        price = float(model.predict(X)[0])          # US$, no np.exp
+
+    1. driver_rating is Cars.com's rating of the vehicle: one fixed value per trim and year,
+       so it is looked up, never typed by the dealer. Leaving it blank makes the model treat
+       the car like a new, unreviewed luxury model (about +40% on a 2020 Model 3).
+    2. M4's complaint summary is joined by make + model_line + year (add_reliability).
+    Both tables ship in models/, so the Docker image needs no data folder."""
+    from pathlib import Path
+    d = Path(models_dir)
+    df = pd.DataFrame(df).rename(columns=RENAME)
+    dr = pd.read_csv(d / "driver_rating_lookup_v1.csv")
+    keys = ["model_line", "trim_name", "year"]
+    if "driver_rating" not in df.columns:
+        df["driver_rating"] = np.nan
+    df["driver_rating"] = pd.to_numeric(df["driver_rating"], errors="coerce")
+    hit = df[keys].merge(dr.assign(_known=True), on=keys, how="left")
+    df["driver_rating"] = df["driver_rating"].fillna(pd.Series(hit["driver_rating"].to_numpy(), index=df.index))
+    # Trim missing or not in the data: fall back to the model line + year median. A known
+    # trim-year with no rating stays blank, exactly as in training.
+    unknown = pd.Series(hit["_known"].isna().to_numpy(), index=df.index)
+    by_line = dr.groupby(["model_line", "year"], as_index=False)["driver_rating"].median()
+    fb = df[["model_line", "year"]].merge(by_line, on=["model_line", "year"], how="left")["driver_rating"]
+    df.loc[unknown, "driver_rating"] = df.loc[unknown, "driver_rating"].fillna(
+        pd.Series(fb.to_numpy(), index=df.index)[unknown])
+    return add_reliability(df, pd.read_csv(d / "reliability_lookup_v1.csv"))
