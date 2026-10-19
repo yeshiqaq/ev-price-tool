@@ -1,0 +1,652 @@
+model_line,trim_name,year,driver_rating
+Audi Q4 e-tron,Q4 e-tron 40 Premium Plus,2023,
+Audi Q4 e-tron,Q4 e-tron 50 Premium,2022,4.2
+Audi Q4 e-tron,Q4 e-tron 50 Premium Plus,2022,4.2
+Audi Q4 e-tron,Q4 e-tron 50 Premium Plus,2023,
+Audi Q4 e-tron,Q4 e-tron 50 Prestige,2022,4.2
+Audi Q4 e-tron,Q4 e-tron Prestige 50 quattro,2022,4.2
+Audi e-tron,e-tron Chronos,2022,
+Audi e-tron,e-tron Premium,2021,5.0
+Audi e-tron,e-tron Premium,2022,
+Audi e-tron,e-tron Premium,2023,
+Audi e-tron,e-tron Premium Plus,2019,4.5
+Audi e-tron,e-tron Premium Plus,2020,4.9
+Audi e-tron,e-tron Premium Plus,2021,5.0
+Audi e-tron,e-tron Premium Plus,2022,
+Audi e-tron,e-tron Premium Plus,2023,
+Audi e-tron,e-tron Premiumwe,2023,
+Audi e-tron,e-tron Prestige,2019,4.5
+Audi e-tron,e-tron Prestige,2021,5.0
+Audi e-tron,e-tron S Premium Plus,2022,1.0
+Audi e-tron,e-tron S Prestige,2022,1.0
+Audi e-tron,e-tron S Prestige,2023,
+Audi e-tron,e-tron S line Premium,2022,
+Audi e-tron,e-tron S line Premium,2023,
+Audi e-tron,e-tron Sportback Premium,2021,
+Audi e-tron,e-tron Sportback Premium Plus,2020,
+Audi e-tron,e-tron Sportback Premium Plus,2021,
+Audi e-tron,e-tron Sportback Prestige,2021,
+Audi e-tron,e-tron Sportback S line Premium,2022,
+Audi e-tron,e-tron Sportback S line Prestige,2022,
+Audi e-tron,e-tron quattro Premium Plus,2019,4.5
+Audi e-tron GT,RS e-tron GT Base,2022,
+Audi e-tron GT,RS e-tron GT Base,2023,
+Audi e-tron GT,RS e-tron GT quattro,2022,
+BMW i3,i3,2014,4.8
+BMW i3,i3,2015,4.6
+BMW i3,i3,2017,4.4
+BMW i3,i3,2018,4.9
+BMW i3,i3,2021,4.9
+BMW i3,i3 120Ah,2019,4.2
+BMW i3,i3 120Ah,2020,
+BMW i3,i3 120Ah,2021,4.9
+BMW i3,i3 120Ah s,2019,4.2
+BMW i3,i3 120Ah s,2020,
+BMW i3,i3 60 Ah,2017,4.4
+BMW i3,i3 94 Ah,2017,4.4
+BMW i3,i3 94 Ah,2018,4.9
+BMW i3,i3 94Ah s,2018,4.9
+BMW i3,i3 Base,2014,4.8
+BMW i3,i3 Base,2015,4.6
+BMW i3,i3 Base,2016,4.2
+BMW i3,i3 DEKA WORLD,2017,4.4
+BMW i3,i3 Mega World,2014,4.8
+BMW i3,i3 W MOONROOF AND HK SOUND SYSTEM,2018,4.9
+BMW i4,i4 Gran Coupe,2022,5.0
+BMW i4,i4 Gran Coupe M50,2022,5.0
+BMW i4,i4 Gran Coupe M50,2023,
+BMW i4,i4 Gran Coupe eDrive40,2022,5.0
+BMW i4,i4 Gran Coupe eDrive40,2023,
+BMW i7,i7 xDrive60,2023,
+BMW iX,iX M60,2023,
+BMW iX,iX xDrive50,2022,3.9
+BMW iX,iX xDrive50,2023,
+Cadillac LYRIQ,LYRIQ Luxury,2023,5.0
+Chevrolet Bolt EUV,Bolt EUV FWD LT,2022,4.2
+Chevrolet Bolt EUV,Bolt EUV FWD Premier,2022,4.2
+Chevrolet Bolt EUV,Bolt EUV FWD Premier,2023,5.0
+Chevrolet Bolt EUV,Bolt EUV LT,2022,4.2
+Chevrolet Bolt EUV,Bolt EUV LT,2023,5.0
+Chevrolet Bolt EUV,Bolt EUV Premier,2022,4.2
+Chevrolet Bolt EUV,Bolt EUV Premier,2023,5.0
+Chevrolet Bolt EV,Bolt EV,2021,4.5
+Chevrolet Bolt EV,Bolt EV 1LT,2022,
+Chevrolet Bolt EV,Bolt EV 1LT,2023,4.9
+Chevrolet Bolt EV,Bolt EV 2LT,2022,
+Chevrolet Bolt EV,Bolt EV 2LT,2023,4.9
+Chevrolet Bolt EV,Bolt EV FWD 1LT,2022,
+Chevrolet Bolt EV,Bolt EV FWD LT,2020,4.5
+Chevrolet Bolt EV,Bolt EV FWD LT,2021,4.5
+Chevrolet Bolt EV,Bolt EV FWD Premier,2020,4.5
+Chevrolet Bolt EV,Bolt EV LT,2017,4.5
+Chevrolet Bolt EV,Bolt EV LT,2018,4.6
+Chevrolet Bolt EV,Bolt EV LT,2019,4.5
+Chevrolet Bolt EV,Bolt EV LT,2020,4.5
+Chevrolet Bolt EV,Bolt EV LT,2021,4.5
+Chevrolet Bolt EV,Bolt EV Premier,2017,4.5
+Chevrolet Bolt EV,Bolt EV Premier,2018,4.6
+Chevrolet Bolt EV,Bolt EV Premier,2019,4.5
+Chevrolet Bolt EV,Bolt EV Premier,2020,4.5
+Chevrolet Bolt EV,Bolt EV Premier,2021,4.5
+Chevrolet Spark EV,Spark EV 1LT,2014,4.5
+Chevrolet Spark EV,Spark EV 1LT,2015,4.9
+Chevrolet Spark EV,Spark EV 1LT,2016,4.4
+Chevrolet Spark EV,Spark EV 2LT,2014,4.5
+Chevrolet Spark EV,Spark EV 2LT,2015,4.9
+Chevrolet Spark EV,Spark EV 2LT,2016,4.4
+Chevrolet Spark EV,Spark EV LT,2015,4.9
+Ford E-Transit,E-Transit,2023,
+Ford E-Transit,E-Transit Base,2022,
+Ford E-Transit,E-Transit Base,2023,
+Ford E-Transit,E-Transit T-350 Medium Roof,2022,
+Ford E-Transit,Transit-150 Base,2022,
+Ford E-Transit,Transit-350 Base,2022,
+Ford E-Transit,Transit-350 Base,2023,
+Ford F-150 Lightning,F-150 Lariat,2022,4.8
+Ford F-150 Lightning,F-150 Lightning,2022,4.2
+Ford F-150 Lightning,F-150 Lightning,2023,
+Ford F-150 Lightning,F-150 Lightning BATTERY,2022,4.2
+Ford F-150 Lightning,F-150 Lightning ELECTRIC/ LARIAT/ MAX TOW/ LEATHER/ 360 CAMERA/ B&,2022,4.2
+Ford F-150 Lightning,F-150 Lightning LARIAT,2022,4.2
+Ford F-150 Lightning,F-150 Lightning LARIAT,2023,
+Ford F-150 Lightning,F-150 Lightning LARIATAWD,2022,4.2
+Ford F-150 Lightning,F-150 Lightning Platinum,2022,4.2
+Ford F-150 Lightning,F-150 Lightning Platinum,2023,
+Ford F-150 Lightning,F-150 Lightning Platinum 4WD,2023,
+Ford F-150 Lightning,F-150 Lightning Pro,2022,4.2
+Ford F-150 Lightning,F-150 Lightning Pro,2023,
+Ford F-150 Lightning,F-150 Lightning XLT,2022,4.2
+Ford F-150 Lightning,F-150 Lightning XLT,2023,
+Ford Focus Electric,Focus Electric Base,2012,4.4
+Ford Focus Electric,Focus Electric Base,2013,4.6
+Ford Focus Electric,Focus Electric Base,2014,4.5
+Ford Focus Electric,Focus Electric Base,2015,5.0
+Ford Focus Electric,Focus Electric Base,2016,4.8
+Ford Focus Electric,Focus Electric Base,2017,4.9
+Ford Focus Electric,Focus Electric Base,2018,4.4
+Ford Focus Electric,Focus SE,2016,4.4
+Ford Mustang Mach-E,Mustang Mach-E CALIFORNIA ROUTE 1,2021,4.4
+Ford Mustang Mach-E,Mustang Mach-E CALIFORNIA ROUTE 1,2022,4.9
+Ford Mustang Mach-E,Mustang Mach-E California Route 1,2021,4.4
+Ford Mustang Mach-E,Mustang Mach-E California Route 1,2022,4.9
+Ford Mustang Mach-E,Mustang Mach-E California Route 1,2023,4.6
+Ford Mustang Mach-E,Mustang Mach-E GT,2021,4.4
+Ford Mustang Mach-E,Mustang Mach-E GT,2022,4.9
+Ford Mustang Mach-E,Mustang Mach-E GT,2023,4.6
+Ford Mustang Mach-E,Mustang Mach-E Premium,2021,4.4
+Ford Mustang Mach-E,Mustang Mach-E Premium,2022,4.9
+Ford Mustang Mach-E,Mustang Mach-E Premium,2023,4.6
+Ford Mustang Mach-E,Mustang Mach-E Select,2021,4.4
+Ford Mustang Mach-E,Mustang Mach-E Select,2022,4.9
+Ford Mustang Mach-E,Mustang Mach-E Select,2023,4.6
+GMC HUMMER EV,HUMMER EV Edition 1,2022,4.1
+Hyundai IONIQ 5,IONIQ 5 Limited,2022,5.0
+Hyundai IONIQ 5,IONIQ 5 Limited,2023,4.9
+Hyundai IONIQ 5,IONIQ 5 SE,2022,5.0
+Hyundai IONIQ 5,IONIQ 5 SE,2023,4.9
+Hyundai IONIQ 5,IONIQ 5 SE Standard Range,2022,5.0
+Hyundai IONIQ 5,IONIQ 5 SE Standard Range,2023,4.9
+Hyundai IONIQ 5,IONIQ 5 SEL,2022,5.0
+Hyundai IONIQ 5,IONIQ 5 SEL,2023,4.9
+Hyundai IONIQ EV,IONIQ EV Electric,2018,5.0
+Hyundai IONIQ EV,IONIQ EV Electric,2019,4.6
+Hyundai IONIQ EV,IONIQ EV Limited,2017,5.0
+Hyundai IONIQ EV,IONIQ EV Limited,2019,4.6
+Hyundai IONIQ EV,IONIQ EV Limited,2020,5.0
+Hyundai IONIQ EV,IONIQ EV Limited,2021,
+Hyundai IONIQ EV,IONIQ EV SE,2020,5.0
+Hyundai IONIQ EV,IONIQ EV SE,2021,
+Hyundai Kona EV,Kona EV,2020,4.7
+Hyundai Kona EV,Kona EV Limited,2019,4.8
+Hyundai Kona EV,Kona EV Limited,2020,4.7
+Hyundai Kona EV,Kona EV Limited,2021,4.9
+Hyundai Kona EV,Kona EV Limited,2022,5.0
+Hyundai Kona EV,Kona EV Limited,2023,
+Hyundai Kona EV,Kona EV SE,2023,
+Hyundai Kona EV,Kona EV SEL,2019,4.8
+Hyundai Kona EV,Kona EV SEL,2020,4.7
+Hyundai Kona EV,Kona EV SEL,2021,4.9
+Hyundai Kona EV,Kona EV SEL,2022,5.0
+Hyundai Kona EV,Kona EV SEL,2023,
+Hyundai Kona EV,Kona EV Ultimate,2019,4.8
+Hyundai Kona EV,Kona EV Ultimate,2020,4.7
+Hyundai Kona EV,Kona EV Ultimate,2021,4.9
+Jaguar I-PACE,I-PACE First Edition,2019,4.3
+Jaguar I-PACE,I-PACE HSE,2019,4.3
+Jaguar I-PACE,I-PACE HSE,2022,2.8
+Jaguar I-PACE,I-PACE HSE EV400 AWD Automatic,2022,2.8
+Jaguar I-PACE,I-PACE S,2020,4.1
+Jaguar I-PACE,I-PACE S EV400 AWD Automatic,2020,4.1
+Jaguar I-PACE,I-PACE SE,2019,4.3
+Jaguar I-PACE,I-PACE SE,2020,4.1
+Kia EV6,EV6,2022,4.7
+Kia EV6,EV6 GT,2023,5.0
+Kia EV6,EV6 GT-Line,2022,4.7
+Kia EV6,EV6 GT-Line,2023,5.0
+Kia EV6,EV6 Light,2022,4.7
+Kia EV6,EV6 Wind,2022,4.7
+Kia EV6,EV6 Wind,2023,5.0
+Kia Niro EV,Niro EV EX,2019,4.8
+Kia Niro EV,Niro EV EX,2020,4.4
+Kia Niro EV,Niro EV EX,2021,
+Kia Niro EV,Niro EV EX,2022,4.5
+Kia Niro EV,Niro EV EX Premium,2019,4.8
+Kia Niro EV,Niro EV EX Premium,2020,4.4
+Kia Niro EV,Niro EV EX Premium,2021,
+Kia Niro EV,Niro EV EX Premium,2022,4.5
+Kia Niro EV,Niro EV S,2022,4.5
+Kia Niro EV,Niro EV Wave,2023,5.0
+Kia Niro EV,Niro EV Wind,2023,5.0
+Kia Niro EV,Niro EX,2019,4.5
+Kia Niro EV,Niro EX Premium,2019,4.5
+Kia Soul EV,Soul EV,2015,4.5
+Kia Soul EV,Soul EV,2016,4.4
+Kia Soul EV,Soul EV,2017,4.8
+Kia Soul EV,Soul EV +,2015,4.5
+Kia Soul EV,Soul EV +,2016,4.4
+Kia Soul EV,Soul EV +,2017,4.8
+Kia Soul EV,Soul EV +,2018,4.9
+Kia Soul EV,Soul EV +,2019,4.5
+Kia Soul EV,Soul EV Base,2015,4.5
+Kia Soul EV,Soul EV Base,2016,4.4
+Kia Soul EV,Soul EV Base,2017,4.8
+Kia Soul EV,"Soul EV Base (CA, OR, WA, NY, NJ, MA, MD, CT, GA, TX)",2016,4.4
+Kia Soul EV,Soul EV EV,2018,4.9
+Kia Soul EV,Soul EV EV+,2017,4.8
+Kia Soul EV,Soul EV EV-E,2017,4.8
+Kia Soul EV,Soul EV EVe,2016,4.4
+Kia Soul EV,Soul EV EVe,2017,4.8
+Kia Soul EV,Soul EV PLUS,2015,4.5
+Kia Soul EV,Soul EV PLUS,2016,4.4
+Kia Soul EV,Soul EV PLUS,2017,4.8
+Mazda MX-30,MX-30 Premium Plus,2022,4.0
+Mazda MX-30,MX-30 Premium Plus Package,2022,4.0
+Mercedes-Benz B-Class Electric,B-Class B 250e,2016,4.4
+Mercedes-Benz B-Class Electric,B-Class B 250e,2017,4.9
+Mercedes-Benz B-Class Electric,B-Class Electric Drive Base,2014,4.8
+Mercedes-Benz B-Class Electric,B-Class Electric Drive Base,2015,4.6
+Mercedes-Benz EQB,EQB 250 250 4D Sport Utility,2023,
+Mercedes-Benz EQB,EQB 250 Base,2023,
+Mercedes-Benz EQB,EQB 300 4MATIC,2023,5.0
+Mercedes-Benz EQB,EQB 300 Base 4MATIC,2022,
+Mercedes-Benz EQB,EQB 300 Base 4MATIC,2023,5.0
+Mercedes-Benz EQB,EQB 350 Base 4MATIC,2022,
+Mercedes-Benz EQB,EQB 350 Base 4MATIC,2023,
+Mercedes-Benz EQE,EQE 350 4MATIC,2023,
+Mercedes-Benz EQE,EQE 350 Base,2023,
+Mercedes-Benz EQE,EQE 350 Base 4MATIC,2023,
+Mercedes-Benz EQE,EQE 350 Base 4MATIC+,2023,
+Mercedes-Benz EQE,EQE 350 EQE 350,2023,
+Mercedes-Benz EQS,AMG EQS 4MATIC,2022,
+Mercedes-Benz EQS,AMG EQS Base,2022,
+Mercedes-Benz EQS,AMG EQS Base,2023,
+Mercedes-Benz EQS,EQS 450 4MATIC,2023,
+Mercedes-Benz EQS,EQS 450 Base 4MATIC,2023,
+Mercedes-Benz EQS,EQS 450+,2022,4.7
+Mercedes-Benz EQS,EQS 450+,2023,5.0
+Mercedes-Benz EQS,EQS 450+ 450,2023,5.0
+Mercedes-Benz EQS,EQS 450+ 450+ Sedan,2022,4.7
+Mercedes-Benz EQS,EQS 450+ Base,2022,4.7
+Mercedes-Benz EQS,EQS 450+ Base,2023,5.0
+Mercedes-Benz EQS,EQS 450+ EQS 450+,2022,4.7
+Mercedes-Benz EQS,EQS 450+ EQS 450+,2023,5.0
+Mercedes-Benz EQS,EQS 450+ EQS 450+ Exclusive Sedan 4D,2022,4.7
+Mercedes-Benz EQS,EQS 580,2022,4.4
+Mercedes-Benz EQS,EQS 580,2023,
+Mercedes-Benz EQS,EQS 580 4MATIC,2022,4.4
+Mercedes-Benz EQS,EQS 580 4MATIC,2023,
+Mercedes-Benz EQS,EQS 580 Base 4MATIC,2022,4.4
+Mercedes-Benz EQS,EQS 580 Base 4MATIC,2023,
+Mercedes-Benz EQS,EQS 580 EQS 580,2022,4.4
+Mercedes-Benz EQS,EQS 580 EQS 580,2023,
+Mitsubishi i-MiEV,i-MiEV ES,2012,4.6
+Mitsubishi i-MiEV,i-MiEV ES,2014,4.2
+Mitsubishi i-MiEV,i-MiEV ES,2016,4.6
+Mitsubishi i-MiEV,i-MiEV SE,2012,4.6
+Nissan ARIYA,ARIYA ENGAGE,2023,4.9
+Nissan ARIYA,ARIYA EVOLVE+,2023,4.9
+Nissan ARIYA,ARIYA PREMIERE,2023,4.9
+Nissan ARIYA,ARIYA VENTURE+,2023,4.9
+Nissan Leaf,Leaf,2015,4.5
+Nissan Leaf,Leaf,2022,3.5
+Nissan Leaf,Leaf S,2013,4.2
+Nissan Leaf,Leaf S,2014,4.7
+Nissan Leaf,Leaf S,2015,4.5
+Nissan Leaf,Leaf S,2016,4.6
+Nissan Leaf,Leaf S,2017,4.4
+Nissan Leaf,Leaf S,2018,4.6
+Nissan Leaf,Leaf S,2019,4.5
+Nissan Leaf,Leaf S,2020,4.3
+Nissan Leaf,Leaf S,2021,
+Nissan Leaf,Leaf S,2022,3.5
+Nissan Leaf,Leaf S,2023,
+Nissan Leaf,Leaf S 40 kWh,2020,4.3
+Nissan Leaf,Leaf S 40 kWh,2021,
+Nissan Leaf,Leaf S 40 kWh,2022,3.5
+Nissan Leaf,Leaf S 40 kWh,2023,
+Nissan Leaf,Leaf S PLUS,2019,4.5
+Nissan Leaf,Leaf S PLUS,2020,4.3
+Nissan Leaf,Leaf S PLUS,2021,
+Nissan Leaf,Leaf S PLUS,2022,3.5
+Nissan Leaf,Leaf S PLUS 62 kWh,2020,4.3
+Nissan Leaf,Leaf S PLUS 62 kWh,2021,
+Nissan Leaf,Leaf S PLUS 62 kWh,2022,3.5
+Nissan Leaf,Leaf SL,2011,4.4
+Nissan Leaf,Leaf SL,2012,4.3
+Nissan Leaf,Leaf SL,2013,4.2
+Nissan Leaf,Leaf SL,2014,4.7
+Nissan Leaf,Leaf SL,2015,4.5
+Nissan Leaf,Leaf SL,2016,4.6
+Nissan Leaf,Leaf SL,2017,4.4
+Nissan Leaf,Leaf SL,2018,4.6
+Nissan Leaf,Leaf SL,2019,4.5
+Nissan Leaf,Leaf SL PLUS,2019,4.5
+Nissan Leaf,Leaf SL PLUS,2020,4.3
+Nissan Leaf,Leaf SL PLUS,2021,
+Nissan Leaf,Leaf SL PLUS,2022,3.5
+Nissan Leaf,Leaf SL PLUS 62 kWh,2020,4.3
+Nissan Leaf,Leaf SL PLUS 62 kWh,2021,
+Nissan Leaf,Leaf SL PLUS 62 kWh,2022,3.5
+Nissan Leaf,Leaf SV,2011,4.4
+Nissan Leaf,Leaf SV,2012,4.3
+Nissan Leaf,Leaf SV,2013,4.2
+Nissan Leaf,Leaf SV,2014,4.7
+Nissan Leaf,Leaf SV,2015,4.5
+Nissan Leaf,Leaf SV,2016,4.6
+Nissan Leaf,Leaf SV,2017,4.4
+Nissan Leaf,Leaf SV,2018,4.6
+Nissan Leaf,Leaf SV,2019,4.5
+Nissan Leaf,Leaf SV,2020,4.3
+Nissan Leaf,Leaf SV,2021,
+Nissan Leaf,Leaf SV,2022,3.5
+Nissan Leaf,Leaf SV 40 kWh,2020,4.3
+Nissan Leaf,Leaf SV 40 kWh,2021,
+Nissan Leaf,Leaf SV 40 kWh,2022,3.5
+Nissan Leaf,Leaf SV PLUS,2019,4.5
+Nissan Leaf,Leaf SV PLUS,2020,4.3
+Nissan Leaf,Leaf SV PLUS,2021,
+Nissan Leaf,Leaf SV PLUS,2022,3.5
+Nissan Leaf,Leaf SV PLUS,2023,
+Nissan Leaf,Leaf SV PLUS 62 kWh,2020,4.3
+Nissan Leaf,Leaf SV PLUS 62 kWh,2021,
+Porsche Taycan,Taycan,2020,4.0
+Porsche Taycan,Taycan,2021,5.0
+Porsche Taycan,Taycan,2022,
+Porsche Taycan,Taycan 4,2021,5.0
+Porsche Taycan,Taycan 4,2022,
+Porsche Taycan,Taycan 4S,2020,4.0
+Porsche Taycan,Taycan 4S,2021,5.0
+Porsche Taycan,Taycan 4S,2022,
+Porsche Taycan,Taycan 4S,2023,4.9
+Porsche Taycan,Taycan ASSIST~BLACKOUT PACKAGE! 1 OWNER! LOTS OF OPTIONS!,2021,5.0
+Porsche Taycan,Taycan Base,2021,5.0
+Porsche Taycan,Taycan Base,2022,
+Porsche Taycan,Taycan Base,2023,4.9
+Porsche Taycan,Taycan Base (A2),2022,
+Porsche Taycan,Taycan Cross Turismo 4,2021,
+Porsche Taycan,Taycan Cross Turismo 4,2022,
+Porsche Taycan,Taycan Cross Turismo 4,2023,
+Porsche Taycan,Taycan Cross Turismo 4S,2021,
+Porsche Taycan,Taycan Cross Turismo 4S,2022,
+Porsche Taycan,Taycan Cross Turismo Turbo,2021,
+Porsche Taycan,Taycan Cross Turismo Turbo,2022,
+Porsche Taycan,Taycan Cross Turismo Turbo S,2021,
+Porsche Taycan,Taycan Cross Turismo Turbo S,2022,
+Porsche Taycan,Taycan Cross Turismo Turbo S,2023,
+Porsche Taycan,Taycan GTS,2022,
+Porsche Taycan,Taycan GTS,2023,4.9
+Porsche Taycan,Taycan RWD,2021,5.0
+Porsche Taycan,Taycan Sedan,2021,5.0
+Porsche Taycan,Taycan Sedan,2022,
+Porsche Taycan,Taycan Turbo,2020,4.0
+Porsche Taycan,Taycan Turbo,2021,5.0
+Porsche Taycan,Taycan Turbo,2022,
+Porsche Taycan,Taycan Turbo S,2020,4.0
+Porsche Taycan,Taycan Turbo S,2021,5.0
+Porsche Taycan,Taycan Turbo S,2022,
+Porsche Taycan,Taycan Turbo S,2023,4.9
+Subaru Solterra,Solterra Limited,2023,
+Subaru Solterra,Solterra Premium,2023,
+Subaru Solterra,Solterra Touring,2023,
+Tesla Model 3,Model 3,2018,4.6
+Tesla Model 3,Model 3,2019,4.9
+Tesla Model 3,Model 3,2020,4.2
+Tesla Model 3,Model 3,2023,3.6
+Tesla Model 3,Model 3 Base,2018,4.6
+Tesla Model 3,Model 3 Base,2019,4.9
+Tesla Model 3,Model 3 Base,2022,4.7
+Tesla Model 3,Model 3 Base,2023,3.6
+Tesla Model 3,Model 3 CLEAN CARFAX ONE OWNER WAD!,2019,4.9
+Tesla Model 3,Model 3 DUAL MOTOR,2019,4.9
+Tesla Model 3,Model 3 FASTBACK,2020,4.2
+Tesla Model 3,Model 3 FULL PILOT,2019,4.9
+Tesla Model 3,Model 3 FULL SELF DRIVING OPTION,2018,4.6
+Tesla Model 3,Model 3 LONG RANGE BATTER,2018,4.6
+Tesla Model 3,Model 3 LONG RANGE-AUTOPILOT SYSTEM,2018,4.6
+Tesla Model 3,Model 3 LONG RANGE-NAVI-REAR PARKING AID,2019,4.9
+Tesla Model 3,Model 3 LONG RANGE/AWD/AUTO PILOT/ACCELERATION BOOST/FRONT,2019,4.9
+Tesla Model 3,Model 3 LONG RANGE/AWD/AUTOPILOT/ACCELERATION BOOST PKG/FR,2019,4.9
+Tesla Model 3,Model 3 LONG RANGE/AWD/DUAL MOTOR/AUTO PILOT/POWER&HEATED,2018,4.6
+Tesla Model 3,Model 3 LONG RANGE/PERFORMANCE,2019,4.9
+Tesla Model 3,Model 3 Long Range,2017,4.0
+Tesla Model 3,Model 3 Long Range,2018,4.6
+Tesla Model 3,Model 3 Long Range,2019,4.9
+Tesla Model 3,Model 3 Long Range,2020,4.2
+Tesla Model 3,Model 3 Long Range,2021,4.3
+Tesla Model 3,Model 3 Long Range,2022,4.7
+Tesla Model 3,Model 3 Long Range AWD,2019,4.9
+Tesla Model 3,Model 3 Long Range Battery,2018,4.6
+Tesla Model 3,Model 3 Mid Range,2018,4.6
+Tesla Model 3,Model 3 Mid Range,2019,4.9
+Tesla Model 3,Model 3 Mid Range Battery,2018,4.6
+Tesla Model 3,Model 3 PLUS,2019,4.9
+Tesla Model 3,Model 3 Performance,2018,4.6
+Tesla Model 3,Model 3 Performance,2019,4.9
+Tesla Model 3,Model 3 Performance,2020,4.2
+Tesla Model 3,Model 3 Performance,2021,4.3
+Tesla Model 3,Model 3 Performance,2022,4.7
+Tesla Model 3,Model 3 Performance,2023,3.6
+Tesla Model 3,Model 3 RANGE,2019,4.9
+Tesla Model 3,Model 3 RANGE BATTERY,2018,4.6
+Tesla Model 3,Model 3 Standard,2017,4.0
+Tesla Model 3,Model 3 Standard,2018,4.6
+Tesla Model 3,Model 3 Standard,2019,4.9
+Tesla Model 3,Model 3 Standard,2020,4.2
+Tesla Model 3,Model 3 Standard Range,2019,4.9
+Tesla Model 3,Model 3 Standard Range,2020,4.2
+Tesla Model 3,Model 3 Standard Range,2022,4.7
+Tesla Model 3,Model 3 Standard Range,2023,3.6
+Tesla Model 3,Model 3 Standard Range Plus,2019,4.9
+Tesla Model 3,Model 3 Standard Range Plus,2020,4.2
+Tesla Model 3,Model 3 Standard Range Plus,2021,4.3
+Tesla Model S,Model S,2012,4.6
+Tesla Model S,Model S,2014,4.8
+Tesla Model S,Model S,2015,4.8
+Tesla Model S,Model S,2016,4.9
+Tesla Model S,Model S,2017,4.6
+Tesla Model S,Model S,2018,4.8
+Tesla Model S,Model S,2019,4.1
+Tesla Model S,Model S,2022,4.4
+Tesla Model S,Model S,2023,
+Tesla Model S,Model S 100D,2017,4.6
+Tesla Model S,Model S 100D,2018,4.8
+Tesla Model S,Model S 100D,2019,4.1
+Tesla Model S,Model S 100D AWD,2019,4.1
+Tesla Model S,Model S 60,2014,4.8
+Tesla Model S,Model S 60,2015,4.8
+Tesla Model S,Model S 60,2016,4.9
+Tesla Model S,Model S 60,2017,4.6
+Tesla Model S,Model S 60 kWh Battery,2014,4.8
+Tesla Model S,Model S 60D,2016,4.9
+Tesla Model S,Model S 60D,2017,4.6
+Tesla Model S,Model S 70,2015,4.8
+Tesla Model S,Model S 70,2016,4.9
+Tesla Model S,Model S 70D,2015,4.8
+Tesla Model S,Model S 70D,2016,4.9
+Tesla Model S,Model S 75,2016,4.9
+Tesla Model S,Model S 75,2017,4.6
+Tesla Model S,Model S 75D,2016,4.9
+Tesla Model S,Model S 75D,2017,4.6
+Tesla Model S,Model S 75D,2018,4.8
+Tesla Model S,Model S 75D,2019,4.1
+Tesla Model S,Model S 75D-ALL WHEEL DRIVE 1 OWNER AUTOPILOT CONVENIENCE,2018,4.8
+Tesla Model S,Model S 75D/100D/P100D,2018,4.8
+Tesla Model S,Model S 85,2014,4.8
+Tesla Model S,Model S 85,2015,4.8
+Tesla Model S,Model S 85,2016,4.9
+Tesla Model S,Model S 85D,2015,4.8
+Tesla Model S,Model S 85D,2016,4.9
+Tesla Model S,Model S 85D/P85D/70D/90D/P90D,2015,4.8
+Tesla Model S,Model S 90D,2015,4.8
+Tesla Model S,Model S 90D,2016,4.9
+Tesla Model S,Model S 90D,2017,4.6
+Tesla Model S,Model S 90D AWD,2016,4.9
+Tesla Model S,Model S Base,2012,4.6
+Tesla Model S,Model S Base,2013,4.8
+Tesla Model S,Model S Base,2014,4.8
+Tesla Model S,Model S Base,2022,4.4
+Tesla Model S,Model S Base,2023,
+Tesla Model S,Model S Base w/Extended Range,2019,4.1
+Tesla Model S,Model S Dual Motor All-Wheel Drive,2022,4.4
+Tesla Model S,Model S LUDACRIS PERFORMANCE,2016,4.9
+Tesla Model S,Model S Long Range,2019,4.1
+Tesla Model S,Model S Long Range,2020,4.2
+Tesla Model S,Model S Long Range,2021,
+Tesla Model S,Model S Long Range,2022,4.4
+Tesla Model S,Model S Long Range,2023,
+Tesla Model S,Model S Long Range AWD,2019,4.1
+Tesla Model S,Model S Long Range Dual Motor All-Wheel Drive,2020,4.2
+Tesla Model S,Model S Long Range Dual Motor All-Wheel Drive,2021,
+Tesla Model S,Model S Long Range Plus,2020,4.2
+Tesla Model S,Model S Long Range Plus,2021,
+Tesla Model S,Model S Long Range Plus Dual Motor All-Wheel Drive,2020,4.2
+Tesla Model S,Model S Long Range Plus Dual Motor All-Wheel Drive,2021,
+Tesla Model S,Model S Model S Dual Motor,2022,4.4
+Tesla Model S,Model S P100D,2016,4.9
+Tesla Model S,Model S P100D,2017,4.6
+Tesla Model S,Model S P100D,2018,4.8
+Tesla Model S,Model S P100D,2019,4.1
+Tesla Model S,Model S P85,2014,4.8
+Tesla Model S,Model S P85+,2014,4.8
+Tesla Model S,Model S P85D,2014,4.8
+Tesla Model S,Model S P85D,2015,4.8
+Tesla Model S,Model S P85D,2016,4.9
+Tesla Model S,Model S P90D,2015,4.8
+Tesla Model S,Model S P90D,2016,4.9
+Tesla Model S,Model S P90DL,2015,4.8
+Tesla Model S,Model S PERFORMANCE W/LUDICROUS,2020,4.2
+Tesla Model S,Model S PERFORMANCE W/LUDICROUS MODE,2019,4.1
+Tesla Model S,Model S PERFORMANCE W/LUDICROUS MODE,2020,4.2
+Tesla Model S,Model S PERFORMANCE W/LUDICROUS MODE L,2019,4.1
+Tesla Model S,Model S PERFORMANCE W/LUDICROUS+ AUTOPILOT NAVIGATION,2020,4.2
+Tesla Model S,Model S PERFORMANCE/AWD/AUTOPILOT/FRONT&REAR HEATED SEATS/,2020,4.2
+Tesla Model S,Model S PLAID/AWD/TRI MOTOR/ 1020HP/FULL SELF DRIVING CAPA,2021,
+Tesla Model S,Model S Performance,2012,4.6
+Tesla Model S,Model S Performance,2013,4.8
+Tesla Model S,Model S Performance,2014,4.8
+Tesla Model S,Model S Performance,2019,4.1
+Tesla Model S,Model S Performance,2020,4.2
+Tesla Model S,Model S Performance,2021,
+Tesla Model S,Model S Performance Dual Motor All-Wheel Drive,2020,4.2
+Tesla Model S,Model S Plaid,2021,
+Tesla Model S,Model S Plaid,2022,4.4
+Tesla Model S,Model S Plaid,2023,
+Tesla Model S,Model S Plaid Tri Motor All-Wheel Drive,2021,
+Tesla Model S,Model S Plaid Tri Motor All-Wheel Drive,2022,4.4
+Tesla Model S,Model S S85,2014,4.8
+Tesla Model S,Model S Signature,2012,4.6
+Tesla Model S,Model S Signature Performance,2012,4.6
+Tesla Model S,Model S Standard Range,2019,4.1
+Tesla Model X,Model X,2016,4.7
+Tesla Model X,Model X,2017,4.7
+Tesla Model X,Model X,2018,4.5
+Tesla Model X,Model X,2019,4.2
+Tesla Model X,Model X,2022,
+Tesla Model X,Model X,2023,
+Tesla Model X,Model X 100D,2017,4.7
+Tesla Model X,Model X 100D,2018,4.5
+Tesla Model X,Model X 100D,2019,4.2
+Tesla Model X,Model X 100D AWD,2018,4.5
+Tesla Model X,Model X 6 SEAT CAPTAIN SECOND ROW,2022,
+Tesla Model X,Model X 60D,2016,4.7
+Tesla Model X,Model X 7 SEAT,2022,
+Tesla Model X,Model X 7 SEATER 22 WHEELS SAVE THOUSANDS,2022,
+Tesla Model X,Model X 70D,2016,4.7
+Tesla Model X,Model X 75D,2016,4.7
+Tesla Model X,Model X 75D,2017,4.7
+Tesla Model X,Model X 75D,2018,4.5
+Tesla Model X,Model X 75D,2019,4.2
+Tesla Model X,Model X 75D AWD,2018,4.5
+Tesla Model X,Model X 75D/FULL SELF DRIVING CAPABILITY PAID 15 000 VALUE,2018,4.5
+Tesla Model X,Model X 90D,2016,4.7
+Tesla Model X,Model X 90D,2017,4.7
+Tesla Model X,Model X 90D/BASE AUTOPILOT/AP2 HARDWARE CAN BE UPGRADED TO,2016,4.7
+Tesla Model X,Model X 90D/HIGHWAY AUTOPILOT/6 SEATER/SUBZERO WEATHER PKG,2016,4.7
+Tesla Model X,Model X Base,2019,4.2
+Tesla Model X,Model X Base,2022,
+Tesla Model X,Model X Base,2023,
+Tesla Model X,Model X D75,2017,4.7
+Tesla Model X,Model X DUAL MOTOR,2019,4.2
+Tesla Model X,Model X DUAL MOTOR ONE OWNER CAM D100,2017,4.7
+Tesla Model X,Model X Dual Motor All-Wheel Drive,2022,
+Tesla Model X,Model X Dual Motor All-Wheel Drive,2023,
+Tesla Model X,Model X FULL SELF DRIVING,2023,
+Tesla Model X,Model X LONG RANG,2022,
+Tesla Model X,Model X Long Range,2019,4.2
+Tesla Model X,Model X Long Range,2020,4.2
+Tesla Model X,Model X Long Range,2021,4.3
+Tesla Model X,Model X Long Range,2022,
+Tesla Model X,Model X Long Range,2023,
+Tesla Model X,Model X Long Range Dual Motor All-Wheel Drive,2020,4.2
+Tesla Model X,Model X Long Range Dual Motor All-Wheel Drive,2021,4.3
+Tesla Model X,Model X Long Range Plus,2020,4.2
+Tesla Model X,Model X Long Range Plus,2021,4.3
+Tesla Model X,Model X Long Range Plus Dual Motor All-Wheel Drive,2020,4.2
+Tesla Model X,Model X P100D,2016,4.7
+Tesla Model X,Model X P100D,2017,4.7
+Tesla Model X,Model X P100D,2018,4.5
+Tesla Model X,Model X P100D,2019,4.2
+Tesla Model X,Model X P90D,2016,4.7
+Tesla Model X,Model X P90D/60D/P100D,2016,4.7
+Tesla Model X,Model X PLAID-FSD,2023,
+Tesla Model X,Model X Performance,2019,4.2
+Tesla Model X,Model X Performance,2020,4.2
+Tesla Model X,Model X Performance,2021,4.3
+Tesla Model X,Model X Performance Dual Motor All-Wheel Drive,2020,4.2
+Tesla Model X,Model X Performance Dual Motor All-Wheel Drive,2021,4.3
+Tesla Model X,Model X Plaid,2022,
+Tesla Model X,Model X Plaid,2023,
+Tesla Model X,Model X Plaid Tri Motor All-Wheel Drive,2022,
+Tesla Model X,Model X Standard Range,2019,4.2
+Tesla Model X,Model X WARRANTY,2016,4.7
+Tesla Model Y,Model Y,2020,3.7
+Tesla Model Y,Model Y Long Range,2020,3.7
+Tesla Model Y,Model Y Long Range,2021,3.8
+Tesla Model Y,Model Y Long Range,2022,3.9
+Tesla Model Y,Model Y Long Range,2023,3.6
+Tesla Model Y,Model Y Long Range Dual Motor All-Wheel Drive,2020,3.7
+Tesla Model Y,Model Y Long Range Dual Motor All-Wheel Drive,2021,3.8
+Tesla Model Y,Model Y Long Range Dual Motor All-Wheel Drive,2022,3.9
+Tesla Model Y,Model Y Performance,2020,3.7
+Tesla Model Y,Model Y Performance,2021,3.8
+Tesla Model Y,Model Y Performance,2022,3.9
+Tesla Model Y,Model Y Performance,2023,3.6
+Tesla Model Y,Model Y Performance AWD,2021,3.8
+Tesla Model Y,Model Y Performance Dual Motor All-Wheel Drive,2020,3.7
+Tesla Model Y,Model Y Performance Dual Motor All-Wheel Drive,2021,3.8
+Tesla Model Y,Model Y Performance Dual Motor All-Wheel Drive,2022,3.9
+Tesla Model Y,Model Y Standard Range,2021,3.8
+Tesla Model Y,Model Y Standard Range Rear-Wheel Drive,2021,3.8
+Tesla Roadster,Roadster,2010,4.6
+Tesla Roadster,Roadster 2.5 Sport,2011,4.2
+Tesla Roadster,Roadster R80/INCLUDES 3 TOPS W/ CARRYING CASE/300 MILE RANG,2010,4.6
+Toyota RAV4 EV,RAV4 EV Base,2012,
+Toyota RAV4 EV,RAV4 EV Base,2013,4.5
+Toyota RAV4 EV,RAV4 EV Base,2014,4.8
+Toyota RAV4 EV,RAV4 EV FWD 4dr,2013,4.5
+Toyota bZ4X,bZ4X,2023,4.3
+Toyota bZ4X,bZ4X Limited,2023,4.3
+Toyota bZ4X,bZ4X XLE,2023,4.3
+Volkswagen ID.4,ID.4 1st Edition,2021,4.2
+Volkswagen ID.4,ID.4 AWD Pro S,2021,4.2
+Volkswagen ID.4,ID.4 AWD Pro S,2022,4.2
+Volkswagen ID.4,ID.4 AWD Pro S,2023,4.8
+Volkswagen ID.4,ID.4 Pro,2021,4.2
+Volkswagen ID.4,ID.4 Pro,2022,4.2
+Volkswagen ID.4,ID.4 Pro,2023,4.8
+Volkswagen ID.4,ID.4 Pro S,2021,4.2
+Volkswagen ID.4,ID.4 Pro S,2022,4.2
+Volkswagen ID.4,ID.4 Pro S,2023,4.8
+Volkswagen ID.4,ID.4 S,2023,4.8
+Volkswagen e-Golf,e-Golf Limited Edition,2015,4.8
+Volkswagen e-Golf,e-Golf SE,2016,4.4
+Volkswagen e-Golf,e-Golf SE,2017,4.6
+Volkswagen e-Golf,e-Golf SE,2018,
+Volkswagen e-Golf,e-Golf SE,2019,4.8
+Volkswagen e-Golf,e-Golf SEL,2018,
+Volkswagen e-Golf,e-Golf SEL Premium,2015,4.8
+Volkswagen e-Golf,e-Golf SEL Premium,2016,4.4
+Volkswagen e-Golf,e-Golf SEL Premium,2017,4.6
+Volkswagen e-Golf,e-Golf SEL Premium,2018,
+Volkswagen e-Golf,e-Golf SEL Premium,2019,4.8
+Volvo C40 Recharge,C40 Recharge Pure Electric P8 Ultimate,2022,
+Volvo C40 Recharge,C40 Recharge Pure Electric Twin Plus,2023,4.1
+Volvo C40 Recharge,C40 Recharge Pure Electric Twin Ultimate,2023,4.1
+Volvo C40 Recharge,C40 Recharge Pure Electric Ultimate,2022,
+Volvo XC40 Recharge,XC40 4DR EAWD P8 RECHA,2021,4.7
+Volvo XC40 Recharge,XC40 Charcoal,2021,4.7
+Volvo XC40 Recharge,XC40 Recharge Pure Electric,2021,4.8
+Volvo XC40 Recharge,XC40 Recharge Pure Electric P8,2021,4.8
+Volvo XC40 Recharge,XC40 Recharge Pure Electric P8 Plus,2022,
+Volvo XC40 Recharge,XC40 Recharge Pure Electric P8 Twin,2022,
+Volvo XC40 Recharge,XC40 Recharge Pure Electric P8 Twin Plus,2022,
+Volvo XC40 Recharge,XC40 Recharge Pure Electric P8 Twin Ultimate,2022,
+Volvo XC40 Recharge,XC40 Recharge Pure Electric P8 Ultimate,2022,
+Volvo XC40 Recharge,XC40 Recharge Pure Electric Plus,2022,
+Volvo XC40 Recharge,XC40 Recharge Pure Electric Plus,2023,
+Volvo XC40 Recharge,XC40 Recharge Pure Electric Twin Plus,2022,
+Volvo XC40 Recharge,XC40 Recharge Pure Electric Twin Plus,2023,
+Volvo XC40 Recharge,XC40 Recharge Pure Electric Twin Ultimate,2022,
+Volvo XC40 Recharge,XC40 Recharge Pure Electric Twin Ultimate,2023,
+Volvo XC40 Recharge,XC40 Recharge Pure Electric Ultimate,2022,
+Volvo XC40 Recharge,XC40 Recharge Pure Electric Ultimate,2023,
