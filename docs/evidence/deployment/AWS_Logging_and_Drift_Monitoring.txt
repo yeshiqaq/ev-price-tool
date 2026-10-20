@@ -1,0 +1,3 @@
+**Logging:** AWS CloudWatch Logs monitors Lambda execution, runtime errors, and memory usage for troubleshooting.
+
+**Drift Monitoring (Proposed):** Future monitoring will compare incoming vehicle data with training data distributions to detect changes that may affect prediction accuracy.
