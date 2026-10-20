@@ -85,5 +85,5 @@ Example: a 2020 Tesla Model 3 Long Range, 35,000 miles, asking 42,000 US dollars
 - [x] Dual-model API live on AWS Lambda
 - [ ] M3: push the deployed `app.py`, `price_cut.py` integration and Python 3.13 Dockerfiles; call `prep.add_lookups()` so blank ratings do not inflate prices
 - [ ] M5: push `src/prep.py` v6 (adds `add_lookups`) and `tests/test_parity.py`; parity test against the live URL should print `PARITY OK`
-- [ ] M4: add the complaint text-analytics notebook and results
+- [x] M4: add the complaint text-analytics notebook and results
 - [ ] Input-drift monitoring
