@@ -1,16 +1,18 @@
 
-FROM python:3.11-slim
+FROM python:3.13-slim
 
 WORKDIR /app
 
 # Install dependencies
-COPY requirements.txt .
+COPY requirements-serve.txt .
 
-RUN pip install --no-cache-dir -r requirements.txt
+RUN python -m pip install --no-cache-dir \
+    -r requirements-serve.txt
 
 # Copy application and model files
 COPY src/ ./src/
 COPY models/ ./models/
+COPY data/ ./data/
 
 # Expose FastAPI port
 EXPOSE 8000
