@@ -2,6 +2,7 @@
 from pathlib import Path
 import logging
 import time
+import json
 
 import joblib
 import numpy as np
@@ -9,6 +10,9 @@ import pandas as pd
 
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
+from src.price_cut import PriceCutScorer
+
+from src import prep
 
 # ----------------------------------
 # 1. Project paths
@@ -19,7 +23,10 @@ MODEL_DIR = ROOT / "models"
 # ----------------------------------
 # 2. Create FastAPI
 # ----------------------------------
-app = FastAPI(title="EV Fair Price API")
+app = FastAPI(
+    title="EV Price Prediction & Price-Cut Review API",
+    version="3.1"
+)
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("ev-api")
@@ -28,8 +35,24 @@ logger = logging.getLogger("ev-api")
 # 3. Load model and reliability data
 # ----------------------------------
 price_model = joblib.load(
-    MODEL_DIR / "price_model_v1.joblib"
+    MODEL_DIR / "price_model_v3.joblib"
 )
+
+# M2 Price Cut Model
+cut_model = joblib.load(
+    MODEL_DIR / "price_cut_model.joblib"
+)
+
+with open(
+    MODEL_DIR / "price_cut_metadata.json",
+    "r",
+    encoding="utf-8"
+) as f:
+    cut_metadata = json.load(f)
+
+CUT_THRESHOLD = float(cut_metadata["threshold"])
+
+cut_scorer = PriceCutScorer(ROOT)
 
 rel = pd.read_csv(
     MODEL_DIR / "dim_reliability.csv"
@@ -53,6 +76,12 @@ class CarInput(BaseModel):
     one_owner: int = Field(1, ge=0, le=1)
     personal_use_only: int = Field(1, ge=0, le=1)
 
+    asking_price: float | None = Field(
+    default=None,
+    gt=0,
+    description="Planned asking price in USD"
+)
+
 
 # ----------------------------------
 # 5. Home endpoint
@@ -71,7 +100,7 @@ def home():
 def health():
     return {
         "status": "ok",
-        "model": "price_model_v1"
+        "model": "price_model_v3"
     }
 
 
@@ -138,7 +167,10 @@ def predict_price(car: CarInput):
     for col in complaint_cols:
         row[col] = match.iloc[0][col]
 
-    X = pd.DataFrame([row])
+    df = pd.DataFrame([row])
+
+    # Apply M5's latest lookup preparation
+    X = prep.add_lookups(df, models_dir=MODEL_DIR)
 
     # Run model prediction
     try:
@@ -173,11 +205,60 @@ def predict_price(car: CarInput):
         elapsed_ms
     )
 
-    return {
+    # return {
+    #     "fair_price_usd": round(fair_price, 2),
+    #     "market_basis": "April 2023",
+    #     "model_version": "v1"
+    # }
+    
+    # M5 Fair Price response
+    result = {
         "fair_price_usd": round(fair_price, 2),
         "market_basis": "April 2023",
-        "model_version": "v1"
+        "price_model_version": "v3",
+        "price_cut_review_score": None,
+        "price_cut_review_flag": None
     }
+
+    # M2 Price Cut Review
+    if car.asking_price is not None:
+
+        cut_input = pd.DataFrame([{
+            "make": car.make,
+            "model_line": car.model_line,
+            "trim_name": car.trim_name,
+            "drivetrain": car.drivetrain,
+            "year": car.model_year,
+            "mileage": car.mileage,
+            "accidents_or_damage": car.accidents_or_damage,
+            "one_owner": car.one_owner,
+            "personal_use_only": car.personal_use_only,
+            "seller_rating": car.seller_rating,
+            "driver_rating": car.driver_rating,
+            "initial_price": car.asking_price
+        }])
+
+        cut_result = cut_scorer.predict(cut_input).iloc[0]
+
+        return {
+            "fair_price_usd": float(cut_result["fair_price"]),
+            "asking_price_usd": car.asking_price,
+            "ask_gap_pct": float(cut_result["ask_gap_pct"]),
+            "price_cut_review_score": float(
+                cut_result["recorded_cut_score"]
+            ),
+            "price_cut_review_flag": bool(
+                cut_result["review_price"]
+            ),
+            "price_cut_threshold": float(
+                cut_result["threshold"]
+            ),
+            "reliability_matched": bool(
+                cut_result["reliability_matched"]
+            ),
+            "price_model_version": "v3"
+        }
+    return result
 
 from mangum import Mangum
 
