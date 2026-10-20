@@ -1,0 +1,55 @@
+﻿nhtsa_make,nhtsa_model,make,model_line,mapping_rule,scope_note,component_rows
+TESLA,MODEL 3,Tesla,Tesla Model 3,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,3824.0
+TESLA,MODEL S,Tesla,Tesla Model S,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,4054.0
+TESLA,MODEL X,Tesla,Tesla Model X,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,1376.0
+TESLA,MODEL Y,Tesla,Tesla Model Y,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,2839.0
+TESLA,ROADSTER,Tesla,Tesla Roadster,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,1.0
+TESLA,ROADSTER2,Tesla,Tesla Roadster,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,2.0
+NISSAN,LEAF,Nissan,Nissan Leaf,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,623.0
+NISSAN,ARIYA,Nissan,Nissan ARIYA,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,0.0
+CHEVROLET,BOLT EV,Chevrolet,Chevrolet Bolt EV,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,866.0
+CHEVROLET,BOLT EUV,Chevrolet,Chevrolet Bolt EUV,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,14.0
+CHEVROLET,SPARK EV,Chevrolet,Chevrolet Spark EV,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,29.0
+FORD,FOCUS ELECTRIC,Ford,Ford Focus Electric,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,305.0
+FORD,MUSTANG MACH E,Ford,Ford Mustang Mach-E,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,294.0
+FORD,MUSTANG MACH-E,Ford,Ford Mustang Mach-E,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,0.0
+FORD,F-150 LIGHTNING BEV,Ford,Ford F-150 Lightning,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,22.0
+FORD,E-TRANSIT,Ford,Ford E-Transit,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,0.0
+KIA,SOUL EV,Kia,Kia Soul EV,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,23.0
+KIA,NIRO EV,Kia,Kia Niro EV,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,34.0
+KIA,EV6,Kia,Kia EV6,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,46.0
+HYUNDAI,KONA ELECTRIC,Hyundai,Hyundai Kona EV,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,116.0
+HYUNDAI,IONIQ ELECTRIC,Hyundai,Hyundai IONIQ EV,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,25.0
+HYUNDAI,IONIQ 5,Hyundai,Hyundai IONIQ 5,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,76.0
+AUDI,E-TRON,Audi,Audi e-tron,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,66.0
+AUDI,E-TRON SPORTBACK,Audi,Audi e-tron,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,5.0
+AUDI,E-TRON GT,Audi,Audi e-tron GT,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,6.0
+AUDI,RS E-TRON GT,Audi,Audi e-tron GT,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,3.0
+AUDI,Q4 E-TRON,Audi,Audi Q4 e-tron,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,0.0
+PORSCHE,TAYCAN,Porsche,Porsche Taycan,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,183.0
+BMW,I3,BMW,BMW i3,exact_whitelist_alias,"BMW I3 can contain unlabelled REx; explicit REx narratives excluded, residual ambiguity flagged",183.0
+BMW,I4,BMW,BMW i4,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,18.0
+BMW,I7,BMW,BMW i7,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,0.0
+BMW,IX,BMW,BMW iX,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,31.0
+VOLKSWAGEN,ID.4,Volkswagen,Volkswagen ID.4,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,297.0
+VOLKSWAGEN,E-GOLF,Volkswagen,Volkswagen e-Golf,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,78.0
+VOLKSWAGEN,EGOLF,Volkswagen,Volkswagen e-Golf,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,2.0
+JAGUAR,I-PACE,Jaguar,Jaguar I-PACE,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,49.0
+VOLVO,C40BEV,Volvo,Volvo C40 Recharge,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,6.0
+VOLVO,XC40 BEV,Volvo,Volvo XC40 Recharge,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,0.0
+MERCEDES BENZ,B-CLASS ELECTRIC,Mercedes-Benz,Mercedes-Benz B-Class Electric,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,83.0
+MERCEDES-BENZ,B 250E,Mercedes-Benz,Mercedes-Benz B-Class Electric,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,28.0
+MERCEDES-BENZ,EQS450,Mercedes-Benz,Mercedes-Benz EQS,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,9.0
+MERCEDES-BENZ,EQS 450,Mercedes-Benz,Mercedes-Benz EQS,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,19.0
+MERCEDES-BENZ,EQS450+,Mercedes-Benz,Mercedes-Benz EQS,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,3.0
+MERCEDES-BENZ,EQS 580,Mercedes-Benz,Mercedes-Benz EQS,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,2.0
+MERCEDES-BENZ,AMG EQS,Mercedes-Benz,Mercedes-Benz EQS,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,3.0
+MERCEDES-BENZ,EQE,Mercedes-Benz,Mercedes-Benz EQE,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,1.0
+MERCEDES-BENZ,EQE 350 4MATIC,Mercedes-Benz,Mercedes-Benz EQE,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,3.0
+MERCEDES-BENZ,EQB 350 4MATIC,Mercedes-Benz,Mercedes-Benz EQB,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,1.0
+TOYOTA,RAV4 EV,Toyota,Toyota RAV4 EV,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,34.0
+TOYOTA,BZ4X,Toyota,Toyota bZ4X,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,1.0
+SUBARU,SOLTERRA,Subaru,Subaru Solterra,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,5.0
+CADILLAC,LYRIQ,Cadillac,Cadillac LYRIQ,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,3.0
+GMC,HUMMER EV PICKUP,GMC,GMC HUMMER EV,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,3.0
+MITSUBISHI,I-MIEV,Mitsubishi,Mitsubishi i-MiEV,exact_whitelist_alias,EV-specific model name; M1 family spelling preserved,21.0

@@ -1,0 +1,5 @@
+# Optional, M4 only: the DistilBERT sentiment comparison on a 300-complaint sample.
+# Large download (pulls in PyTorch). Not needed by anyone else and NOT included in the Docker image.
+# Not tested in the shared environment; install after requirements.txt.
+transformers
+torch

@@ -1,5 +1,5 @@
 
--- 1 How does the average listing price vary across EV brands and vehicle age groups?
+-- 1
 SELECT
     v.make,
     y.age_band,
@@ -14,7 +14,7 @@ ORDER BY v.make, y.age_band;
 
 
 
--- 2 How do average listing prices differ between EVs with and without accident records within the same model line?
+-- 2
 SELECT
     v.model_line,
     h.accidents_or_damage,
@@ -34,7 +34,7 @@ ORDER BY v.model_line;
 
 
 
--- 3 Which 10 EV model lines have the highest number of listings?
+-- 3
 SELECT
     v.model_line,
     COUNT(*) AS listing_count
@@ -51,7 +51,7 @@ LIMIT 10;
 
 
 
--- 4 Which EV model lines have the highest number of complaints per listing?
+-- 4
 SELECT
     make,
     model_line,
@@ -71,7 +71,7 @@ ORDER BY complaints_per_listing DESC;
 
 
 
--- 5 What percentage of EV listings have experienced a price cut across different brands?
+-- 5
 SELECT
     v.make,
     COUNT(*) AS total_listings,
@@ -94,7 +94,7 @@ ORDER BY price_cut_pct DESC;
 
 
 
--- 6 How does the average EV listing price vary across seller rating groups?
+-- 6
 SELECT
     CASE
         WHEN s.seller_rating IS NULL THEN 'Missing'

@@ -1,0 +1,45 @@
+﻿manufacturer,model_line,n_listings,covered_listings,unique_complaints,model_year_coverage
+Audi,Audi Q4 e-tron,21,0,0.0,0.0
+Audi,Audi e-tron,576,555,46.0,0.9635416666666666
+Audi,Audi e-tron GT,39,38,6.0,0.9743589743589743
+BMW,BMW i3,251,231,116.0,0.9203187250996016
+BMW,BMW i4,42,42,12.0,1.0
+BMW,BMW i7,9,0,0.0,0.0
+BMW,BMW iX,92,92,21.0,1.0
+Cadillac,Cadillac LYRIQ,12,12,1.0,1.0
+Chevrolet,Chevrolet Bolt EUV,180,180,10.0,1.0
+Chevrolet,Chevrolet Bolt EV,670,670,611.0,1.0
+Chevrolet,Chevrolet Spark EV,94,94,25.0,1.0
+Ford,Ford E-Transit,50,0,0.0,0.0
+Ford,Ford F-150 Lightning,427,427,18.0,1.0
+Ford,Ford Focus Electric,61,57,178.0,0.9344262295081968
+Ford,Ford Mustang Mach-E,1245,1245,162.0,1.0
+GMC,GMC HUMMER EV,28,28,1.0,1.0
+Hyundai,Hyundai IONIQ 5,208,208,51.0,1.0
+Hyundai,Hyundai IONIQ EV,36,30,16.0,0.8333333333333334
+Hyundai,Hyundai Kona EV,266,266,91.0,1.0
+Jaguar,Jaguar I-PACE,60,60,23.0,1.0
+Kia,Kia EV6,391,371,30.0,0.948849104859335
+Kia,Kia Niro EV,368,368,24.0,1.0
+Kia,Kia Soul EV,98,93,20.0,0.9489795918367347
+Mazda,Mazda MX-30,14,0,0.0,0.0
+Mercedes-Benz,Mercedes-Benz B-Class Electric,25,25,62.0,1.0
+Mercedes-Benz,Mercedes-Benz EQB,64,32,1.0,0.5
+Mercedes-Benz,Mercedes-Benz EQE,20,20,2.0,1.0
+Mercedes-Benz,Mercedes-Benz EQS,301,301,20.0,1.0
+Mitsubishi,Mitsubishi i-MiEV,15,8,14.0,0.5333333333333333
+Nissan,Nissan ARIYA,19,0,0.0,0.0
+Nissan,Nissan Leaf,1741,1741,457.0,1.0
+Porsche,Porsche Taycan,677,662,136.0,0.9778434268833087
+Subaru,Subaru Solterra,27,27,2.0,1.0
+Tesla,Tesla Model 3,2170,2170,2081.0,1.0
+Tesla,Tesla Model S,1631,1631,2602.0,1.0
+Tesla,Tesla Model X,1133,1133,868.0,1.0
+Tesla,Tesla Model Y,875,875,1478.0,1.0
+Tesla,Tesla Roadster,3,3,2.0,1.0
+Toyota,Toyota RAV4 EV,14,14,21.0,1.0
+Toyota,Toyota bZ4X,73,73,1.0,1.0
+Volkswagen,Volkswagen ID.4,568,568,178.0,1.0
+Volkswagen,Volkswagen e-Golf,308,308,48.0,1.0
+Volvo,Volvo C40 Recharge,60,60,5.0,1.0
+Volvo,Volvo XC40 Recharge,193,0,0.0,0.0

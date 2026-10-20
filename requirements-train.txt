@@ -1,0 +1,38 @@
+# EV fair-price project - shared requirements (owner: M5). Version 3, 16 Oct 2026 (SQLAlchemy 2.0.54 for MLflow).
+# Tested together in a clean virtual environment on Python 3.13: all packages install,
+# prep.py v4 runs, and models/price_model_v1.joblib loads.
+# Everyone: python -m venv .venv  ->  activate  ->  pip install -r requirements.txt
+# Use Python 3.13 if you can (3.11-3.12 should also work, but saved models are safest on one version).
+
+# Data handling
+pandas==2.2.3
+numpy==2.3.5
+scipy==1.18.1
+
+# Modelling (PA, DPA)
+scikit-learn==1.8.0
+xgboost==2.1.1
+imbalanced-learn==0.14.2
+statsmodels==0.15.0
+joblib==1.6.0
+
+# Text analytics (M4)
+nltk==3.10.3
+vaderSentiment==3.3.2
+
+# MLOps (DSD Day 3)
+mlflow==3.3.2
+
+# API and deployment (DSD Day 2)
+fastapi==0.143.0
+pydantic==2.14.1
+uvicorn==0.54.0
+mangum==0.22.0
+
+# Data warehouse access (DEA)
+SQLAlchemy==2.0.54   # 2.1.x breaks MLflow 3.3.2's SQLite registry (ImportError), so stay on 2.0
+PyMySQL==1.2.3
+
+# Charts
+matplotlib==3.11.2
+seaborn==0.13.2

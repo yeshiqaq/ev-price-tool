@@ -65,15 +65,3 @@ LIMIT 10;
 
 
 SELECT * FROM v_model_dataset;
-
-USE ev_dw;
-
-SELECT
-    COUNT(*) AS total_rows,
-    COUNT(DISTINCT listing_key) AS unique_ids,
-    SUM(vehicle_key IS NULL) AS missing_vehicle,
-    SUM(model_year_key IS NULL) AS missing_year,
-    SUM(seller_key IS NULL) AS missing_seller,
-    SUM(history_key IS NULL) AS missing_history,
-    SUM(reliability_key IS NULL) AS missing_reliability
-FROM fact_listing;

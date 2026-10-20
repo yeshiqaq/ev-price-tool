@@ -1,0 +1,16 @@
+﻿field,type,meaning
+odino,string,"Unique NHTSA complaint reference; identifier, not a measure"
+make,string,M1 manufacturer spelling
+model_line,string,Exact M1 model-family spelling
+year,integer,Complaint vehicle model year
+crash / fire,Y/N/Unknown,Y if any consolidated component row reports Y
+component,string,Sorted unique component names joined by |
+date_received,ISO date,"LDATE, official column 17; strictly before 2023-05-01"
+text,string,Longest original narrative within ODINO; not NLP-cleaned
+nhtsa_make / nhtsa_model,string,Original normalized source identities
+date_added,ISO date,DATEA; distinct from complaint receipt
+source_files / source_line_numbers,string,Archive and row provenance; row numbers are file-local
+source_component_rows,integer,Number of consolidated source component rows
+year_review_flag,boolean,Unknown or out-of-scope year
+powertrain_review_flag / powertrain_review_note,boolean / string,I3 residual range-extender ambiguity
+text_missing_flag,boolean,Whether narrative is blank

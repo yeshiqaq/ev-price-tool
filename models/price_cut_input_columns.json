@@ -1,0 +1,42 @@
+{
+  "classifier_inputs": [
+    "make",
+    "model_line",
+    "trim_name",
+    "drivetrain",
+    "year",
+    "mileage",
+    "accidents_or_damage",
+    "one_owner",
+    "personal_use_only",
+    "seller_rating",
+    "driver_rating",
+    "complaints_per_listing",
+    "avg_sentiment",
+    "battery_charging_share",
+    "braking_assist_share",
+    "software_screen_share",
+    "crash_fire_share",
+    "ask_gap_pct"
+  ],
+  "helper_inputs": [
+    "make",
+    "model_line",
+    "trim_name",
+    "drivetrain",
+    "year",
+    "mileage",
+    "accidents_or_damage",
+    "one_owner",
+    "personal_use_only",
+    "seller_rating",
+    "driver_rating",
+    "initial_price"
+  ],
+  "lookup_keys": [
+    "make",
+    "model_line",
+    "year"
+  ],
+  "gap_formula": "(initial_price - fair_price) / fair_price"
+}

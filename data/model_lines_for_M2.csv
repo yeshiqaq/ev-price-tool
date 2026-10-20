@@ -1,0 +1,45 @@
+manufacturer,model_line,listing_count,first_model_year,last_model_year,review_count
+Audi,Audi Q4 e-tron,21,2022,2023,0
+Audi,Audi e-tron,576,2019,2023,0
+Audi,Audi e-tron GT,39,2022,2023,0
+BMW,BMW i3,251,2014,2021,0
+BMW,BMW i4,42,2022,2023,0
+BMW,BMW i7,9,2023,2023,0
+BMW,BMW iX,92,2022,2023,0
+Cadillac,Cadillac LYRIQ,12,2023,2023,0
+Chevrolet,Chevrolet Bolt EUV,180,2022,2023,0
+Chevrolet,Chevrolet Bolt EV,670,2017,2023,0
+Chevrolet,Chevrolet Spark EV,94,2014,2016,0
+Ford,Ford E-Transit,50,2022,2023,19
+Ford,Ford F-150 Lightning,427,2022,2023,2
+Ford,Ford Focus Electric,61,2012,2018,1
+Ford,Ford Mustang Mach-E,1245,2021,2023,0
+GMC,GMC HUMMER EV,28,2022,2022,0
+Hyundai,Hyundai IONIQ 5,208,2022,2023,0
+Hyundai,Hyundai IONIQ EV,36,2017,2021,0
+Hyundai,Hyundai Kona EV,266,2019,2023,0
+Jaguar,Jaguar I-PACE,60,2019,2022,0
+Kia,Kia EV6,391,2022,2023,0
+Kia,Kia Niro EV,368,2019,2023,6
+Kia,Kia Soul EV,98,2015,2019,0
+Mazda,Mazda MX-30,14,2022,2022,0
+Mercedes-Benz,Mercedes-Benz B-Class Electric,25,2014,2017,0
+Mercedes-Benz,Mercedes-Benz EQB,64,2022,2023,0
+Mercedes-Benz,Mercedes-Benz EQE,20,2023,2023,0
+Mercedes-Benz,Mercedes-Benz EQS,301,2022,2023,0
+Mitsubishi,Mitsubishi i-MiEV,15,2012,2016,0
+Nissan,Nissan ARIYA,19,2023,2023,0
+Nissan,Nissan Leaf,1741,2011,2023,0
+Porsche,Porsche Taycan,677,2020,2023,0
+Subaru,Subaru Solterra,27,2023,2023,0
+Tesla,Tesla Model 3,2170,2017,2023,0
+Tesla,Tesla Model S,1631,2012,2023,0
+Tesla,Tesla Model X,1133,2016,2023,0
+Tesla,Tesla Model Y,875,2020,2023,0
+Tesla,Tesla Roadster,3,2010,2011,0
+Toyota,Toyota RAV4 EV,14,2012,2014,0
+Toyota,Toyota bZ4X,73,2023,2023,0
+Volkswagen,Volkswagen ID.4,568,2021,2023,0
+Volkswagen,Volkswagen e-Golf,308,2015,2019,0
+Volvo,Volvo C40 Recharge,60,2022,2023,0
+Volvo,Volvo XC40 Recharge,193,2021,2023,5

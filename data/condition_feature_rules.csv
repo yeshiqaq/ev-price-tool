@@ -1,0 +1,8 @@
+﻿field,type,rule_en,rule_zh
+low_mileage_for_age_flag,float64,"1 if mileage / max(age, 0.5) < 7,500 miles/year; 0 otherwise; invalid/missing age or mileage stays missing.",年均里程低于7500英里为1；缺失保持未知。
+near_new_flag,float64,"1 if age <= 1 and mileage < 5,000; 0 when either criterion is known to fail; otherwise missing.",车龄不超过1年且里程少于5000英里为1；已知不满足为0；否则未知。
+clean_history_flag,float64,1 if accidents_or_damage=0; 0 if =1; missing/invalid history stays missing. Only covers recorded accident/damage history.,无事故或损伤记录为1，有记录为0；未记录保持未知。
+condition_score,float64,"Sum of the three condition flags, 0–3; missing if any flag is missing. Equal weights are a project assumption.",三个标记相加得0至3分；任一缺失则不评分；等权为项目假设。
+age_band,object,"Approximate model-year age: 0–1, 2–3, 4–5, 6+ years.",车龄分组：0至1、2至3、4至5、6年以上。
+mileage_band,object,"Miles: [0,10000), [10000,30000), [30000,60000), [60000,infinity).",里程分组：不足1万、1至不足3万、3至不足6万、6万以上英里。
+battery_wear_proxy,float64,"Cumulative-use exposure = mileage / 10,000 (10k-mile units). No observed battery health, no estimated SOH or degradation %. Redundant linear rescaling of mileage; benefit is unproven.",累计使用程度=里程/10000；不代表电池健康度或损耗百分比，与里程完全线性重复。

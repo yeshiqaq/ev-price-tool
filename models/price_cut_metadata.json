@@ -1,0 +1,42 @@
+{
+  "model": "decision_tree",
+  "threshold": 0.4821645328711008,
+  "raw_inputs": [
+    "make",
+    "model_line",
+    "trim_name",
+    "drivetrain",
+    "year",
+    "mileage",
+    "accidents_or_damage",
+    "one_owner",
+    "personal_use_only",
+    "seller_rating",
+    "driver_rating"
+  ],
+  "complaint_inputs": [
+    "complaints_per_listing",
+    "avg_sentiment",
+    "battery_charging_share",
+    "braking_assist_share",
+    "software_screen_share",
+    "crash_fire_share"
+  ],
+  "additional_input": "ask_gap_pct",
+  "gap_formula": "(initial_price - fair_price) / fair_price",
+  "prep_version": "v5",
+  "registry": {
+    "name": "ev_price_cut_model",
+    "status": "ready_for_M5_registration",
+    "run_id": "38a05f6230da4c42900c8502574f5ab9",
+    "scope": "Local tracking only; M5 owns registration in the shared registry."
+  },
+  "target": "historical_recorded_price_cut",
+  "score_is_calibrated_probability": false,
+  "fair_price_rounding": "nearest whole US dollar using numpy.rint, matching M5 CSVs",
+  "price_model_file": "price_model_v3.joblib",
+  "price_model_condition_features": false,
+  "classifier_condition_features": true,
+  "classifier_rules": "m5",
+  "test_recall_meets_80_percent": false
+}

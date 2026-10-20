@@ -1,0 +1,2 @@
+listing_id,source_excel_row,manufacturer,model,year,mileage,price,error_review_status,reason
+13975,687652,Toyota,bZ4X Limited,2023,862.0,333333,project_designated_error_not_independently_verified,Project instruction identifies Toyota bZ4X USD333333 as error; raw source alone cannot independently confirm
