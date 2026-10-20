@@ -1,0 +1,5443 @@
+seller_name,listings,seller_rating_missing_pct,driver_rating_missing_pct
+#1 Cochran Buick GMC Monroeville,1,0.0,0.0
+#1 Cochran Ford Butler County,1,100.0,0.0
+#1 Cochran Nissan Cranberry,1,0.0,0.0
+#1 Cochran Nissan Monroeville,1,0.0,100.0
+#1 Cochran Nissan West Hills,2,0.0,100.0
+101 AUTO OUTLET,1,100.0,0.0
+101 Motors,3,100.0,33.33333333333333
+101 Motors LLC,1,0.0,0.0
+112 Auto Plaza,1,0.0,0.0
+112 Mitsubishi,1,0.0,0.0
+1A Auto Sales,12,100.0,0.0
+1st Choice Autos,4,0.0,0.0
+2 Manny's Auto Sales,1,0.0,0.0
+21 Century Auto Group,11,0.0,36.36363636363637
+26 Motors Long Island,5,0.0,0.0
+405 Motors,1,0.0,0.0
+44 Auto Mart - Elizabethtown,1,100.0,0.0
+4x4 Rides,1,0.0,0.0
+605 Auto Sales,1,100.0,0.0
+67 Motors,1,100.0,0.0
+6th Avenue Honda,1,0.0,0.0
+712 Auto Sales,3,100.0,0.0
+716 Automotive World,1,100.0,0.0
+75 North Auto Sales,1,100.0,0.0
+777 Auto Sales,2,0.0,0.0
+9999 Auto Center,1,100.0,0.0
+A & M Motors,1,100.0,0.0
+A Better Way Wholesale,3,0.0,0.0
+A-1 Auto Wholesale,4,0.0,0.0
+ABC ROYAL SERVICE INC,3,100.0,0.0
+ABQ Auto Deals,1,100.0,0.0
+ABZ Motors,5,0.0,0.0
+ACRA Pre-Owned Superstore,1,100.0,0.0
+ADI Autosport,2,100.0,0.0
+AE of Miami,1,0.0,0.0
+AIA Group,1,100.0,0.0
+ALM Athens,10,100.0,0.0
+ALM Gwinnett,17,0.0,0.0
+ALM Hyundai of Florence,6,0.0,0.0
+ALM Kennesaw,11,0.0,9.090909090909092
+ALM Kia South,12,0.0,0.0
+ALM Mall of GA,25,0.0,8.0
+ALM Marietta,12,0.0,8.333333333333332
+ALM Newnan,22,0.0,9.090909090909092
+ALM Roswell,15,0.0,20.0
+AMG Auto,2,0.0,50.0
+AMKO Auto of Laurel,1,0.0,0.0
+APX Auto Brokers,1,0.0,0.0
+ASTON MARTIN SUMMIT SHORT HILLS,2,100.0,0.0
+AUTO 206,7,0.0,0.0
+AUTO SELECT,1,100.0,0.0
+AUTOBSA,1,100.0,0.0
+AUTOCARS Ltd.,1,100.0,0.0
+AUTOSOURCE,22,0.0,4.545454545454546
+AX Auto Inc.,1,0.0,0.0
+AZ Auto Gallery of Mesa,2,100.0,0.0
+Aaron Chrysler Dodge Jeep RAM,6,0.0,0.0
+Aaron Ford of Poway,7,0.0,28.57142857142857
+Abel Chevrolet,3,0.0,0.0
+Abeloff Nissan,2,0.0,0.0
+Abramovich Motors,6,100.0,0.0
+Absolute Auto Center,2,0.0,0.0
+Accel Auto Sales,1,100.0,0.0
+Accelerate Auto Group,4,100.0,0.0
+Access Ford Lincoln of Corpus Christi,2,0.0,0.0
+Action Auto Sales and Finance Inc.,2,0.0,0.0
+Action Nissan,1,0.0,0.0
+Action Pre-owned Automotive,1,100.0,0.0
+Acton Ford,1,0.0,0.0
+Acura Highland Park,1,0.0,0.0
+Acura North Scottsdale,1,0.0,0.0
+Acura of Bellevue,1,100.0,0.0
+Acura of Ellicott City,1,0.0,0.0
+Acura of Peoria,1,0.0,0.0
+Acura of the Rio Grande Valley,1,0.0,0.0
+Adams North Charlotte,3,0.0,0.0
+Adirondack Auto CJDR,1,0.0,0.0
+AdvantEdge Quality Cars,4,100.0,0.0
+Advantage Acura of Naperville,2,0.0,0.0
+Advantage BMW Midtown,1,0.0,0.0
+Advantage Chevrolet of Bolingbrook,1,0.0,0.0
+Advantage Chrysler Jeep Dodge RAM,1,0.0,0.0
+Affinity Auto Sales,3,100.0,0.0
+Affordable Autos of Tucson,1,100.0,0.0
+Airport Chevrolet Buick GMC Cadillac,2,0.0,0.0
+Airport Chrysler Dodge Jeep RAM,1,0.0,0.0
+Airport Kia,1,0.0,0.0
+Airport Marina Ford,1,0.0,0.0
+Akins Ford,1,0.0,100.0
+Al Piemonte Buick GMC,1,0.0,0.0
+Al Serra Auto Plaza,1,0.0,0.0
+Alabama Carland,8,100.0,0.0
+Alan Byer Volvo Cars,1,0.0,100.0
+Alan Webb Nissan,1,0.0,100.0
+Albany Chrysler Dodge Jeep Ram,1,0.0,0.0
+Albany Subaru,2,0.0,0.0
+Albrecht Buick GMC of Wakefield,1,0.0,100.0
+Alderman's Chevrolet Buick GMC,1,0.0,0.0
+Alexandria Motors,2,0.0,100.0
+Alexandria VW,27,0.0,3.7037037037037033
+Alfa Romeo & Maserati of Raleigh,1,0.0,0.0
+Alfa Romeo Maserati of Manhattan,1,100.0,0.0
+Alfa Romeo of Fort Worth,3,0.0,0.0
+Alfa Romeo of Naperville,3,100.0,0.0
+Alfa Romeo of Plano,3,0.0,0.0
+Alfa Romeo of Strongsville,4,0.0,0.0
+All American Chevrolet of Odessa,2,0.0,0.0
+All American Chevrolet of San Angelo,1,0.0,0.0
+All City Auto Sales,2,100.0,0.0
+All In Auto Group,10,0.0,0.0
+All Right Auto Sales,1,0.0,0.0
+All Star Dodge Chrysler Jeep RAM,2,0.0,0.0
+All Star Ford,1,0.0,0.0
+All Star Hyundai,1,0.0,0.0
+All Star Kia of Baton Rouge,1,0.0,0.0
+All Terrain Motors,1,100.0,0.0
+All Things Automotive,1,0.0,0.0
+Allen Samuels Chrysler Dodge Jeep Ram,1,100.0,0.0
+Aloha Kia,3,0.0,0.0
+Aloha Kia Leeward/Waipahu,8,0.0,0.0
+Alpha Luxury Motors,5,100.0,0.0
+Alpha Motorsports Fredericksburg,17,0.0,0.0
+Alpha Motorsports Manassas,18,0.0,0.0
+Alpha One Motors,6,100.0,66.66666666666666
+Alpine Buick GMC South,1,100.0,0.0
+Alpine Ford,3,0.0,0.0
+Alpine Motors Certified Preowned,1,0.0,0.0
+Alta Motors,1,0.0,0.0
+Amazing Luxury Cars - Snellville,2,100.0,0.0
+Ambar Motors,3,0.0,0.0
+America's Xtreme Auto,4,0.0,0.0
+American Auto Sales LLC,1,0.0,0.0
+American Motors,2,100.0,0.0
+Ames Ford Lincoln,2,0.0,50.0
+Anchor Auto Group - Subaru Nissan,5,0.0,20.0
+Anchor Auto Outlet,3,0.0,0.0
+Anderson Ford,2,0.0,0.0
+Anderson Ford Lincoln,1,0.0,0.0
+Anderson Motor Co.,1,100.0,0.0
+Anderson Nissan,1,0.0,0.0
+Anderson of Grand Island,1,100.0,0.0
+Andrew Toyota,1,0.0,0.0
+Andy Mohr Chevrolet,1,0.0,0.0
+Andy Mohr Chrysler Dodge Jeep RAM,2,0.0,0.0
+Andy Mohr Kia,1,0.0,0.0
+Andy Mohr Speedway Chevrolet,1,0.0,0.0
+Andy Mohr Volkswagen,1,0.0,0.0
+"Antelope Valley Chevrolet, Inc.",2,0.0,0.0
+Antelope Valley Volkswagen,1,0.0,0.0
+Antioch Chrysler Dodge Jeep RAM,1,0.0,0.0
+Antwerpen Toyota,1,0.0,0.0
+"Apex Autonet, Inc.",1,100.0,0.0
+Apex Imports,2,0.0,0.0
+Apexcars.net,7,100.0,14.285714285714285
+Apollo Auto Sales,6,0.0,0.0
+Apple Ford Lincoln,1,0.0,0.0
+Apple Ford Lincoln Apple Valley,3,0.0,0.0
+Apple Lease Returns,2,100.0,0.0
+Approved Auto Center of Lodi,1,0.0,0.0
+"Arapahoe KIA - Delivery from Denver, CO (Lincoln - Hastings - Kearney)",2,100.0,0.0
+"Arapahoe KIA - Delivery from Denver, CO (Oklahoma City)",1,100.0,0.0
+"Arapahoe KIA - Delivery from Denver, CO (Omaha)",2,100.0,0.0
+"Arapahoe KIA - Delivery from Denver, CO (San Antonio)",1,100.0,0.0
+"Arapahoe KIA - Delivery from Denver, CO (Waco - Temple - Bryan)",1,100.0,0.0
+Archer Kia,1,0.0,0.0
+Archibald's,5,100.0,0.0
+Ariana Motors,1,100.0,0.0
+Aristocrat Motors,5,0.0,20.0
+Arizona Car Sales,1,0.0,0.0
+Arizona Sunsports,1,100.0,0.0
+Arlington Heights Buick GMC,1,0.0,0.0
+Arlington Nissan,17,0.0,11.76470588235294
+Armani Motors,2,100.0,0.0
+Armin's Auto Sales,1,100.0,0.0
+Armstrong VW,14,0.0,0.0
+Arrigo Chrysler Dodge Jeep Ram FIAT of Ft. Pierce,3,0.0,0.0
+Arrigo Dodge Chrysler Jeep Ram Margate,2,0.0,0.0
+Arrigo Dodge Chrysler Jeep Ram West Palm,1,0.0,0.0
+Arrigo Fiat Alfa Romeo West Palm,3,0.0,0.0
+Arrow Point Auto Mall,1,100.0,0.0
+Arrowhead BMW,2,0.0,0.0
+Arrowhead Cadillac,1,0.0,0.0
+Arrowhead Jaguar Land Rover,2,0.0,50.0
+Art Gamblin Motors,1,0.0,0.0
+Art Moehn Chevrolet Buick,1,100.0,0.0
+Asay Auto,9,0.0,0.0
+Aschenbach Ford,1,0.0,0.0
+Asheboro Chrysler Dodge Jeep Ram,1,0.0,0.0
+Asheville Ford Lincoln,1,0.0,0.0
+Astorg Auto of Charleston,5,0.0,60.0
+Athens Dodge Chrysler Jeep RAM,3,0.0,0.0
+Atlanta Autos,15,0.0,33.33333333333333
+Atlanta Best Used Cars,1,0.0,0.0
+"Atlanta Motor Company, Inc.",1,0.0,0.0
+Atlantic Chevrolet Cadillac,1,0.0,0.0
+Atlantic Dodge Chrysler Jeep Ram Volkswagen,1,0.0,0.0
+Atlantic Hyundai,1,0.0,0.0
+Atlantic Toyota,1,0.0,0.0
+Atlantic Volkswagen - NJ,1,0.0,0.0
+Atlantis Auto City,1,100.0,0.0
+Atlantis Auto Plaza,1,100.0,0.0
+Atwater Ford Inc,1,100.0,0.0
+Auburn Chrysler Dodge Jeep Ram,1,0.0,0.0
+Auburn Ford,1,0.0,0.0
+Auction Direct (Raleigh),2,0.0,0.0
+Auction Direct USA- Victor Used Cars,15,0.0,20.0
+Audi Albany,1,100.0,0.0
+Audi Allentown,1,0.0,100.0
+Audi Arlington,3,0.0,0.0
+Audi Arrowhead,1,0.0,0.0
+Audi Atlanta,2,0.0,0.0
+Audi Beaverton,3,0.0,66.66666666666666
+Audi Bellevue,6,0.0,0.0
+Audi Bellingham,5,0.0,0.0
+Audi Bend,1,0.0,0.0
+Audi Bethesda,1,0.0,0.0
+Audi Beverly Hills,5,0.0,0.0
+Audi Buffalo,2,0.0,100.0
+Audi Cary,1,0.0,0.0
+Audi Central Houston,4,0.0,0.0
+Audi Chandler,5,0.0,20.0
+Audi Chantilly,1,0.0,0.0
+Audi Charlotte,2,0.0,0.0
+Audi Clearwater,7,0.0,14.285714285714285
+Audi Columbia,1,0.0,100.0
+Audi Columbus,6,0.0,16.666666666666664
+Audi Creve Coeur,4,0.0,0.0
+Audi Denver,6,0.0,16.666666666666664
+Audi Des Moines,1,0.0,0.0
+Audi Dominion,6,0.0,66.66666666666666
+Audi Downtown LA,8,0.0,0.0
+Audi El Paso,3,0.0,33.33333333333333
+Audi Farmington Hills,1,0.0,0.0
+Audi Flatirons,13,0.0,7.6923076923076925
+Audi Fletcher Jones,14,0.0,21.428571428571427
+Audi Fort Myers,1,0.0,0.0
+Audi Fort Worth,5,0.0,20.0
+Audi Fremont,2,0.0,0.0
+Audi Fresno,3,0.0,33.33333333333333
+Audi Gilbert,1,0.0,100.0
+Audi Glenwood Springs & Glenwood Springs Volkswagen,1,0.0,0.0
+Audi Grapevine,6,0.0,33.33333333333333
+Audi Great Neck,3,0.0,33.33333333333333
+Audi Gwinnett,2,0.0,50.0
+Audi Henderson,1,0.0,0.0
+Audi Hilton Head,1,0.0,100.0
+Audi Hoffman Estates,2,0.0,0.0
+Audi Indianapolis,1,0.0,0.0
+Audi Las Vegas,2,0.0,0.0
+Audi Livermore,2,0.0,0.0
+Audi Long Beach,2,50.0,0.0
+Audi Lubbock,2,100.0,0.0
+Audi Marietta,5,0.0,40.0
+Audi McKinney,4,100.0,25.0
+Audi Melbourne,2,100.0,50.0
+Audi Mentor,3,0.0,0.0
+Audi Middleburg Heights,1,100.0,100.0
+Audi Minneapolis,1,0.0,0.0
+Audi Mission Viejo,6,0.0,0.0
+Audi Modesto,3,100.0,0.0
+Audi Morton Grove,2,0.0,50.0
+Audi Naperville,1,0.0,0.0
+Audi Nashville,1,0.0,100.0
+Audi Natick,4,0.0,50.0
+Audi New Orleans,4,0.0,25.0
+Audi North Austin,6,0.0,33.33333333333333
+Audi North Houston,4,0.0,25.0
+Audi North Miami,1,0.0,0.0
+Audi North Orlando,5,0.0,60.0
+Audi North Scottsdale,3,0.0,0.0
+Audi North Shore,1,100.0,0.0
+Audi Norwell,1,0.0,100.0
+Audi Oklahoma City,1,0.0,0.0
+Audi Omaha,2,0.0,0.0
+Audi Ontario,7,0.0,28.57142857142857
+Audi Orange Park,1,0.0,100.0
+Audi Orland Park,1,100.0,100.0
+Audi Pembroke Pines,9,0.0,33.33333333333333
+Audi Peoria,1,0.0,0.0
+Audi Plano,6,0.0,66.66666666666666
+Audi Porsche Volkswagen Bakersfield,1,100.0,0.0
+Audi Richfield,5,100.0,0.0
+Audi Rochester Hills,2,100.0,0.0
+Audi Rockville,2,0.0,50.0
+Audi San Diego,5,0.0,40.0
+Audi Sarasota,2,0.0,50.0
+Audi Shawnee Mission,1,0.0,0.0
+Audi Shrewsbury,2,0.0,50.0
+Audi Sioux Falls,1,100.0,100.0
+Audi South Atlanta,2,0.0,100.0
+Audi South Orlando,1,0.0,100.0
+Audi St. Paul,1,0.0,100.0
+Audi Stratham,1,0.0,0.0
+Audi Stuart,1,0.0,0.0
+Audi Sugar Land,3,0.0,66.66666666666666
+Audi Tacoma,7,0.0,28.57142857142857
+Audi Tampa,7,0.0,28.57142857142857
+Audi Tulsa,1,100.0,0.0
+Audi Tysons Corner,3,0.0,33.33333333333333
+Audi Valencia,2,0.0,100.0
+Audi Volkswagen Pittsfield - Berkshire BMW,2,0.0,0.0
+Audi West Palm Beach,2,0.0,50.0
+Audi Westwood,1,0.0,100.0
+Audi Wichita,4,100.0,25.0
+Audi Wilsonville,5,100.0,20.0
+Audi and Volkswagen Fall River,1,0.0,0.0
+Audi of Bedford,2,0.0,0.0
+Audi of Memphis,2,0.0,0.0
+Audi of Mohegan Lake,1,0.0,0.0
+Auffenberg Auto Mall,4,0.0,0.0
+Auffenberg Ford Belleville,3,0.0,33.33333333333333
+Auffenberg Ford O'Fallon,2,0.0,50.0
+Austin Chrysler Dodge Jeep RAM,2,0.0,0.0
+Austin Subaru,1,0.0,100.0
+Austin e Autos,9,0.0,11.11111111111111
+Auto Advantage,1,100.0,0.0
+Auto Assets,1,100.0,0.0
+Auto Barn LLC,3,0.0,0.0
+Auto Boutique,16,0.0,0.0
+Auto Boutique Texas,15,0.0,0.0
+Auto Boyz,1,100.0,0.0
+Auto Brokers Express,1,100.0,0.0
+"Auto Brokers of Colorado, LLC",1,100.0,0.0
+Auto Buying Service,15,0.0,6.666666666666667
+Auto Casa,3,100.0,0.0
+Auto Centrix,53,0.0,9.433962264150944
+Auto City,15,0.0,0.0
+Auto City Motors,1,100.0,100.0
+Auto Collection of Murfreesboro,9,0.0,0.0
+Auto Connection LLC,2,100.0,0.0
+Auto Connections,1,0.0,0.0
+Auto Expo 95,3,100.0,33.33333333333333
+Auto Express,1,0.0,0.0
+Auto Gallery Chicago,2,100.0,0.0
+Auto Gallery Imports Inc.,3,0.0,0.0
+Auto Gallery Mitsubishi - Corona,3,0.0,0.0
+Auto Gallery Modesto LLC,7,100.0,0.0
+Auto Group of Louisville,1,100.0,0.0
+Auto Haus of Williamsburg,2,100.0,0.0
+Auto Haus of Yorktown,2,0.0,0.0
+Auto House,1,100.0,0.0
+Auto House Phoenix,2,100.0,0.0
+Auto House Scottsdale,2,100.0,50.0
+Auto House Tempe,12,0.0,16.666666666666664
+Auto Hub,1,0.0,0.0
+Auto Imports Miami,1,100.0,100.0
+Auto Junction Benz & Beemers,2,0.0,50.0
+Auto Leader,7,0.0,0.0
+"Auto Link, Inc.",1,100.0,0.0
+Auto Locators of Texas,5,100.0,20.0
+Auto Lounge of Edison,1,0.0,0.0
+Auto Mall of Springfield,2,0.0,0.0
+Auto Max USA,1,0.0,0.0
+Auto Merchants Inc.,10,0.0,0.0
+Auto Palace,1,0.0,0.0
+Auto Park Chrysler Jeep,1,0.0,0.0
+Auto Passion Team,1,0.0,0.0
+Auto Quest,10,100.0,0.0
+Auto Republic,7,100.0,0.0
+Auto Republic Fullerton,5,0.0,0.0
+Auto Showcase of Carol Stream,2,0.0,0.0
+Auto Solution,1,100.0,100.0
+Auto Solutions,1,0.0,0.0
+Auto Source,1,100.0,0.0
+Auto Star Motors,6,100.0,0.0
+Auto Time,1,100.0,0.0
+Auto Trade Corp,1,100.0,0.0
+Auto Web Expo,23,0.0,8.695652173913043
+Auto Wholesale,3,0.0,0.0
+Auto X-Change,3,0.0,0.0
+Auto's of Chicago,14,0.0,0.0
+AutoDot,2,0.0,0.0
+AutoFair Ford,1,0.0,0.0
+AutoHaus of Naples,1,100.0,0.0
+AutoLenders Egg Harbor Township,11,0.0,0.0
+AutoLenders Exton,7,0.0,14.285714285714285
+AutoLenders Lakewood,7,0.0,0.0
+AutoLenders Toms River,7,0.0,0.0
+AutoLenders Voorhees,6,0.0,16.666666666666664
+AutoLenders Williamstown,10,0.0,10.0
+AutoLenders of Newtown Square,2,0.0,0.0
+AutoMatch Utah,4,0.0,0.0
+AutoMax Hyundai Del City,1,0.0,0.0
+AutoMax Preowned Framingham,5,0.0,0.0
+AutoMax Preowned Marlborough,1,0.0,0.0
+AutoMax of Grand Rapids,1,100.0,0.0
+AutoMax of Memphis,2,0.0,0.0
+AutoNation Acura Colorado Springs,1,0.0,0.0
+AutoNation Acura Gulf Freeway,1,0.0,0.0
+AutoNation Acura North Orlando,1,0.0,0.0
+AutoNation Acura Stevens Creek,1,0.0,0.0
+AutoNation Audi Volkswagen Spokane,7,0.0,14.285714285714285
+AutoNation Chevrolet Gilbert,2,0.0,0.0
+AutoNation Chevrolet Greenacres,3,0.0,33.33333333333333
+AutoNation Chevrolet Mesa,1,0.0,0.0
+AutoNation Chevrolet North,3,0.0,0.0
+AutoNation Chevrolet North Richland Hills,2,0.0,0.0
+AutoNation Chevrolet Pembroke Pines,1,0.0,0.0
+AutoNation Chevrolet South Clearwater,2,0.0,50.0
+AutoNation Chevrolet Timonium,1,0.0,0.0
+AutoNation Chevrolet Valencia,1,0.0,0.0
+AutoNation Chevrolet West Amarillo,1,0.0,0.0
+AutoNation Chrysler Dodge Jeep Ram Katy,1,0.0,0.0
+AutoNation Chrysler Dodge Jeep Ram Pembroke Pines,1,0.0,100.0
+AutoNation Chrysler Dodge Jeep Ram Roseville,1,0.0,0.0
+AutoNation Chrysler Dodge Jeep Ram Spring,1,0.0,0.0
+AutoNation Chrysler Dodge Jeep Ram Valencia,2,0.0,0.0
+AutoNation Chrysler Jeep Arapahoe,1,0.0,0.0
+AutoNation Chrysler Jeep Broadway,1,0.0,0.0
+AutoNation Dodge Ram Broadway,2,0.0,0.0
+AutoNation Dodge Ram Colorado Springs,2,0.0,0.0
+AutoNation Ford Amherst,2,0.0,0.0
+AutoNation Ford Bellevue,1,0.0,0.0
+AutoNation Ford Bradenton,2,0.0,0.0
+AutoNation Ford Brooksville,1,0.0,0.0
+AutoNation Ford Burleson,1,0.0,0.0
+AutoNation Ford Gulf Freeway,1,0.0,0.0
+AutoNation Ford Jacksonville,1,0.0,100.0
+AutoNation Ford Katy,1,0.0,0.0
+AutoNation Ford Littleton,7,0.0,0.0
+AutoNation Ford Memphis,2,0.0,0.0
+AutoNation Ford Miami,1,0.0,0.0
+AutoNation Ford Panama City,2,0.0,50.0
+AutoNation Ford Sanford,5,0.0,0.0
+AutoNation Ford Scottsdale,1,0.0,0.0
+AutoNation Ford St. Petersburg,2,0.0,0.0
+AutoNation Ford Tustin,6,0.0,16.666666666666664
+AutoNation Ford Union City,1,0.0,0.0
+AutoNation Ford Valencia,3,0.0,0.0
+AutoNation Ford Westlake,4,0.0,0.0
+AutoNation Ford White Bear Lake,2,0.0,0.0
+AutoNation Ford Wolfchase,1,0.0,0.0
+AutoNation GMC Mendenhall,1,0.0,0.0
+AutoNation Honda 104,1,0.0,0.0
+AutoNation Honda Chandler,3,0.0,33.33333333333333
+AutoNation Honda Clearwater,1,0.0,100.0
+AutoNation Honda Costa Mesa,1,0.0,0.0
+AutoNation Honda Covington Pike,1,0.0,0.0
+AutoNation Honda Fremont,5,0.0,0.0
+AutoNation Honda Lewisville,1,0.0,0.0
+AutoNation Honda Renton,3,0.0,0.0
+AutoNation Honda Roseville,6,0.0,0.0
+AutoNation Honda Sanford,1,0.0,0.0
+AutoNation Hyundai Columbus,1,0.0,0.0
+AutoNation Hyundai Mall of Georgia,2,0.0,0.0
+AutoNation Hyundai Valencia,4,0.0,0.0
+AutoNation INFINITI Tustin,8,0.0,0.0
+AutoNation Nissan Chandler,3,0.0,33.33333333333333
+AutoNation Nissan Las Vegas,1,0.0,0.0
+AutoNation Nissan Marietta,3,0.0,0.0
+AutoNation Nissan Miami,4,0.0,0.0
+AutoNation Nissan Pembroke Pines,1,0.0,0.0
+AutoNation Nissan Tempe,1,0.0,0.0
+AutoNation Subaru Arapahoe,2,0.0,0.0
+AutoNation Subaru Scottsdale,1,0.0,0.0
+AutoNation Subaru West,2,0.0,0.0
+AutoNation Toyota Arapahoe,1,0.0,0.0
+AutoNation Toyota Buena Park,7,0.0,0.0
+AutoNation Toyota Cerritos,8,0.0,0.0
+AutoNation Toyota Fort Myers,1,0.0,0.0
+AutoNation Toyota Gulf Freeway,2,0.0,0.0
+AutoNation Toyota Hayward,4,0.0,0.0
+AutoNation Toyota Irvine,2,0.0,50.0
+AutoNation Toyota Las Vegas,1,0.0,0.0
+AutoNation Toyota Leesburg,2,0.0,0.0
+AutoNation Toyota Libertyville,1,0.0,0.0
+AutoNation Toyota South Austin,5,0.0,0.0
+AutoNation Toyota Spokane Valley,1,0.0,0.0
+AutoNation Toyota Tempe,1,0.0,0.0
+AutoNation Toyota Winter Park,1,0.0,0.0
+AutoNation USA Austin,5,40.0,20.0
+AutoNation USA Charleston,1,0.0,0.0
+AutoNation USA Charlotte,1,0.0,0.0
+AutoNation USA Denver 104,3,0.0,0.0
+AutoNation USA Denver Broadway,1,0.0,0.0
+AutoNation USA Henderson,3,0.0,0.0
+AutoNation USA Katy,6,0.0,0.0
+AutoNation USA Kennesaw,2,0.0,0.0
+AutoNation USA Phoenix,5,0.0,0.0
+AutoNation USA Phoenix Avondale,1,0.0,0.0
+AutoNation USA San Antonio,3,0.0,0.0
+AutoNation Volkswagen Hilton Head,2,0.0,0.0
+AutoNation Volkswagen Mall of Georgia,2,0.0,0.0
+AutoNation Volkswagen Savannah,1,0.0,0.0
+AutoNation Volvo Cars San Jose,4,0.0,0.0
+AutoSavvy Boise,1,0.0,0.0
+AutoSavvy Colorado Springs,2,0.0,0.0
+AutoSavvy Duncanville,2,0.0,0.0
+AutoSavvy Fishers,1,100.0,0.0
+AutoSavvy Fort Worth,4,0.0,0.0
+AutoSavvy Gilbert,1,0.0,0.0
+AutoSavvy Houston,3,0.0,0.0
+AutoSavvy Las Vegas,2,0.0,0.0
+AutoSavvy Merritt Island,1,100.0,0.0
+AutoSavvy San Antonio,2,100.0,0.0
+AutoSavvy Southwest Houston,2,0.0,0.0
+AutoSavvy Windsor,2,0.0,0.0
+AutoSavvy Woods Cross,4,0.0,0.0
+Autoamore,1,100.0,100.0
+Autobahn Gallery,3,100.0,0.0
+Autobahn Luxury Motors,2,100.0,0.0
+Autobahn Motors,3,0.0,0.0
+Autobahn USA Dedham,2,0.0,0.0
+Autobahn USA Westborough,4,0.0,0.0
+Autobakers,1,100.0,0.0
+Autocenter Sales & Service,2,0.0,0.0
+Autodirect Cars & Corvettes,4,0.0,0.0
+Autohaus Inc,2,0.0,0.0
+"Autohaus Lancaster, Inc.",1,0.0,0.0
+Autohaus of Peoria,2,0.0,50.0
+Autohaus on Edens,1,0.0,0.0
+"Autohighway, Inc",1,100.0,0.0
+Autolenders Fairless Hill,4,0.0,25.0
+Autolenders Lawrenceville,15,0.0,0.0
+Autolink,1,100.0,0.0
+Autolocity Motors,7,0.0,0.0
+Automall Collection,2,0.0,0.0
+Automax Atlanta,7,0.0,0.0
+Automax of Ocala,2,0.0,0.0
+Automobile Consulting Services,1,0.0,0.0
+Automobile Gurus,1,100.0,0.0
+Automotive Avenues,85,0.0,8.235294117647058
+Automotive Connection,4,0.0,0.0
+Automotive Imports,1,100.0,0.0
+Automotive Solutions,1,100.0,0.0
+Autonomics,1,0.0,0.0
+Autonomous,1,100.0,0.0
+Autopia Motorcars Inc,8,0.0,0.0
+Autorama Auto,2,100.0,0.0
+Autos Direct of Fredericksburg - Lafayette,5,0.0,0.0
+Autos Direct of Manassas,2,100.0,0.0
+Autos of Dallas,18,0.0,5.555555555555555
+Autos of Dallas Irving,3,0.0,0.0
+Autotec,1,100.0,0.0
+Autovision LLC,1,100.0,0.0
+Autoworld Chrysler Dodge Jeep RAM,2,100.0,0.0
+Autoworld KIA,2,0.0,0.0
+Avenue Motors,3,0.0,66.66666666666666
+Avon Auto Brokers,1,0.0,0.0
+Avondale Nissan,1,0.0,100.0
+Avor Group Inc.,1,100.0,0.0
+Awesome Autos & Trucks,1,100.0,0.0
+B & D Auto Sales,4,100.0,0.0
+BBC Motorsports,3,100.0,0.0
+BEAVER COUNTY NISSAN,1,100.0,0.0
+BM Motorcars,5,0.0,0.0
+BMW Certified Pre-Owned Nashville,1,0.0,0.0
+BMW Concord,1,100.0,0.0
+BMW Fresno,1,0.0,0.0
+BMW MINI of Arlington,6,0.0,50.0
+BMW MINI of Clear Lake,1,0.0,0.0
+BMW Mini of Birmingham,3,0.0,33.33333333333333
+BMW Mt. Kisco,2,0.0,0.0
+BMW North Scottsdale,1,0.0,0.0
+BMW Northwest,10,0.0,20.0
+BMW Of Bloomington,1,0.0,0.0
+BMW Of San Luis Obispo,8,0.0,37.5
+BMW Portland,2,0.0,0.0
+BMW Seattle,3,0.0,33.33333333333333
+BMW VW of Topeka,3,0.0,0.0
+BMW West Palm Beach,4,0.0,25.0
+BMW of Alexandria,3,0.0,0.0
+BMW of Barrington,2,0.0,0.0
+BMW of Bellevue,8,0.0,12.5
+BMW of Bowling Green,1,100.0,0.0
+BMW of Buena Park,8,0.0,37.5
+BMW of Buffalo,1,0.0,0.0
+BMW of Cape Cod,1,0.0,100.0
+BMW of Carlsbad,6,0.0,33.33333333333333
+BMW of Columbia,1,0.0,0.0
+BMW of Dallas,1,0.0,0.0
+BMW of Delray Beach,2,0.0,0.0
+BMW of Denver Downtown,2,0.0,0.0
+BMW of Des Moines,1,0.0,0.0
+BMW of El Cajon,2,0.0,50.0
+BMW of El Paso,1,0.0,0.0
+BMW of Eugene,3,0.0,0.0
+BMW of Fort Myers,3,0.0,33.33333333333333
+BMW of Fort Wayne/MINI of Fort Wayne,1,0.0,100.0
+BMW of Fremont,2,0.0,0.0
+BMW of Gainesville,3,0.0,0.0
+BMW of Gwinnett Place,3,0.0,0.0
+BMW of Hawaii,2,100.0,0.0
+BMW of Henderson,1,0.0,100.0
+BMW of Honolulu,1,0.0,0.0
+BMW of Houston North,3,0.0,0.0
+BMW of Kansas City South,2,0.0,50.0
+BMW of Las Vegas,5,0.0,20.0
+BMW of Loveland,2,0.0,0.0
+BMW of Lubbock,1,100.0,0.0
+BMW of Meridian,1,100.0,100.0
+BMW of Milwaukee North,1,0.0,0.0
+BMW of Minnetonka,3,0.0,33.33333333333333
+BMW of Monrovia,2,0.0,50.0
+BMW of Monterey,4,0.0,0.0
+BMW of Mountain View,2,0.0,50.0
+BMW of Murray,3,0.0,0.0
+BMW of Newport,1,0.0,0.0
+BMW of Ocala,5,0.0,20.0
+BMW of Owings Mills,1,0.0,0.0
+BMW of Peoria,2,0.0,0.0
+BMW of Ramsey,5,0.0,0.0
+BMW of Ridgefield,1,0.0,100.0
+BMW of Rochester,1,0.0,0.0
+BMW of Rochester Hills,2,100.0,50.0
+BMW of Rockville,2,0.0,0.0
+BMW of Roseville,3,0.0,0.0
+BMW of Salem,4,0.0,0.0
+BMW of San Francisco,4,0.0,0.0
+BMW of Sarasota,1,0.0,0.0
+BMW of Schererville,1,0.0,0.0
+BMW of Shrewsbury,1,0.0,0.0
+BMW of Spokane,3,0.0,0.0
+BMW of Sterling,5,0.0,40.0
+BMW of Stratham,2,0.0,0.0
+BMW of Tampa,5,0.0,0.0
+BMW of Temple,2,0.0,0.0
+BMW of Tyler,1,0.0,0.0
+BMW of Vista,1,0.0,0.0
+BMW of Warwick,4,0.0,50.0
+BMW of Waterbury,1,0.0,100.0
+BMW of Wesley Chapel,4,0.0,25.0
+BMW of West Houston,1,0.0,100.0
+BMW of West St. Louis,3,0.0,33.33333333333333
+BMW of the Main Line,1,0.0,100.0
+"BMW, Mini of Wichita",1,100.0,0.0
+BabaCars,3,100.0,0.0
+Bachman Volkswagen,1,0.0,100.0
+Baha Auto Group Inc.,2,100.0,0.0
+Baha Auto Sales,2,100.0,0.0
+Baierl Acura,2,0.0,0.0
+Baierl Chevrolet,1,0.0,0.0
+Baierl Subaru,1,0.0,0.0
+Baker Motor Company of Charleston,4,0.0,25.0
+Bakersfield Hyundai,1,0.0,0.0
+Bakersfield Mitsubishi,1,0.0,0.0
+Baldwin Auto Sales,1,100.0,0.0
+Balise Hyundai of Fairfield,3,0.0,0.0
+Balise Nissan of West Springfield,1,100.0,0.0
+Balise Toyota,1,0.0,0.0
+Ballentine Toyota,1,0.0,0.0
+Banister Ford of Marlow Heights,1,0.0,0.0
+Banner Coulson Chevrolet,1,100.0,0.0
+Banning Auto Sales,1,100.0,0.0
+Barnes Crossing Hyundai,2,100.0,0.0
+Barnes Crossing Volkswagen,2,0.0,0.0
+Baron Auto Emporium,1,0.0,0.0
+Baron BMW MINI,6,0.0,16.666666666666664
+Bartlesville Chrysler Dodge Jeep Ram,1,0.0,0.0
+Basil Ford,1,0.0,0.0
+Basil Resale Center,3,0.0,0.0
+Basil Toyota,1,0.0,0.0
+Basil Volkswagen of Lockport,1,0.0,0.0
+Basney BMW,1,100.0,0.0
+Basney Honda,4,0.0,0.0
+Bates Ford,1,0.0,100.0
+Battlefield Chevrolet of Culpeper,1,0.0,0.0
+Battlefield Ford of Culpeper,3,0.0,0.0
+Baum Chevrolet Buick,1,100.0,0.0
+Baxter Toyota Lincoln,1,0.0,0.0
+BaxterAuto.com,2,50.0,0.0
+Bayer Ford,3,100.0,33.33333333333333
+Bayird Dodge Chrysler Jeep Ram,1,0.0,0.0
+Bayside Auto Sales,1,0.0,0.0
+Bayside Ford,4,0.0,0.0
+Bayside Pre-Owned Hollywood,1,100.0,0.0
+Bayway Volvo Cars,1,100.0,0.0
+Beaman Dodge Chrysler Jeep RAM,2,0.0,0.0
+Beau Townsend Ford,1,0.0,0.0
+Beau Townsend Nissan,2,0.0,0.0
+Beaver Chevrolet,1,0.0,0.0
+Beaver Toyota Cumming,7,0.0,14.285714285714285
+Beaverton Car Company,5,0.0,0.0
+Beaverton Nissan,15,0.0,0.0
+Beck & Masten Buick GMC South,3,0.0,0.0
+Beck & Masten Kia,7,0.0,42.857142857142854
+Beck & Masten North,5,0.0,20.0
+Beck Ford Lincoln,1,100.0,0.0
+Beck and Masten of the Coastal Bend,3,0.0,0.0
+Becker Buick GMC,1,0.0,0.0
+Bedard Bros,1,0.0,0.0
+Beechmont Subaru,3,0.0,0.0
+Beemer Haus,1,0.0,100.0
+Behlmann Buick GMC,1,0.0,0.0
+Bell Mitsubishi,3,0.0,0.0
+Bell Road Mitsubishi,1,0.0,0.0
+Bell Road Toyota,1,0.0,0.0
+Belle Glade Chevrolet Buick,1,100.0,100.0
+Belle Meade Auto Brokers,2,100.0,0.0
+Bellingham Ford,4,0.0,25.0
+Bellingham Nissan,7,0.0,0.0
+Benchmark Imports,1,0.0,0.0
+Benji Auto Sales,3,0.0,0.0
+Benji Auto Sales Orlando,1,0.0,0.0
+Bennett INFINITI of Allentown,1,0.0,0.0
+Benson Ford,1,0.0,0.0
+Bentley Indianapolis,9,0.0,44.44444444444444
+Benzel-Busch Motor Car,1,0.0,0.0
+Berge Toyota,1,0.0,0.0
+Bergey's Ford,1,0.0,0.0
+Bergstrom Chevrolet of Middleton,1,100.0,100.0
+Bergstrom Honda,1,100.0,100.0
+Bergstrom Imports on Victory Lane,3,100.0,0.0
+Bergstrom Kia of Appleton,1,100.0,0.0
+Bergstrom Kia of Oshkosh,1,100.0,0.0
+Berkeley Ford,2,0.0,0.0
+Berkenkotter Motors Castle Rock,3,0.0,0.0
+Berkshire Mazda,1,0.0,0.0
+Berlin City Honda of Portland,2,0.0,0.0
+Berlin City Nissan of Portland,6,0.0,33.33333333333333
+Berlin City Toyota Lexus,1,0.0,0.0
+Berman Nissan of Chicago,2,0.0,0.0
+Bernardi Honda in Natick,1,0.0,0.0
+Bernardi Nissan of Wellesley,1,100.0,0.0
+Bernardi Volvo Cars Natick,2,0.0,0.0
+Bertera Nissan,2,0.0,50.0
+Berthod Select,2,0.0,0.0
+Berwyn Kia,2,0.0,0.0
+Best Auto,1,100.0,0.0
+Best Auto Outlet,3,0.0,0.0
+Best Bet Auto,5,100.0,0.0
+Best Buy Imports,1,0.0,100.0
+Best Deals Auto Sales,1,100.0,0.0
+Best Ford Nashua,2,100.0,0.0
+Betten Baker Chevrolet Cadillac GMC Buick of Muskegon,1,0.0,0.0
+Betten Baker of Grand Rapids,1,100.0,0.0
+Better Cars,1,0.0,0.0
+Bev Smith Kia,1,0.0,0.0
+Beverly Hills Porsche,8,0.0,37.5
+"Beyer Volvo, Mazda & VW of Winchester",2,100.0,100.0
+Bical Chevrolet,1,0.0,0.0
+Bickford Ford,2,0.0,0.0
+BidCars Boston,4,0.0,0.0
+Bidleman Ford,3,0.0,0.0
+Big Mikes Auto Sales,1,100.0,0.0
+Big Motors,1,100.0,0.0
+Big O Auto LLC,1,0.0,0.0
+Big Star Ford,4,0.0,50.0
+Big Star Honda,1,0.0,0.0
+Big Star Hyundai,1,0.0,0.0
+Big Valley Ford Lincoln,1,100.0,0.0
+Bill Brandt Ford Inc,4,0.0,25.0
+Bill Bryan Kia,1,0.0,0.0
+Bill Collins Ford Lincoln,4,0.0,0.0
+Bill Colwell Ford,1,0.0,0.0
+Bill Fox Chevrolet,1,0.0,0.0
+Bill Jacobs BMW,2,0.0,0.0
+Bill Jacobs VW,1,0.0,0.0
+Bill Kay Buick GMC,1,0.0,0.0
+Bill Kay Chevrolet,1,0.0,0.0
+Bill Kay Downers Grove Nissan,4,0.0,0.0
+Bill Kay Ford,3,0.0,33.33333333333333
+Bill Kidd's Toyota Volvo Cars,1,0.0,0.0
+Bill Korum's Puyallup Nissan,2,0.0,0.0
+Bill Luke Chrysler Jeep Dodge RAM,28,0.0,7.142857142857142
+Bill Luke Marana,18,100.0,0.0
+Bill Luke Santan,34,0.0,14.705882352941178
+Bill Luke Tempe,20,0.0,20.0
+Bill Page Toyota,1,0.0,0.0
+Bill Pearce Motors,1,100.0,100.0
+Bill Ray Nissan,3,0.0,33.33333333333333
+Bill Seidle's Nissan,1,100.0,0.0
+Bill Utter Ford,5,100.0,0.0
+Bill Walsh Toyota,1,100.0,0.0
+Billingsley Ford Lincoln of Lawton,1,0.0,0.0
+Billion Auto - Hyundai of Iowa City,1,100.0,0.0
+Billion Auto - Kia of Iowa City,3,0.0,0.0
+Billion Auto - Nissan,2,0.0,0.0
+Billion Kia Rapid City,1,0.0,0.0
+Billy Ballew Motorsports,1,100.0,0.0
+Billy Cain Ford,1,100.0,0.0
+Birmingham Broker,1,100.0,0.0
+Birmingham Luxury Motors,10,0.0,0.0
+Blackstone Chevrolet,3,0.0,0.0
+Blaise Alexander Ford,1,0.0,0.0
+Blasius Federal Road,3,0.0,0.0
+Blasius Kia,6,0.0,0.0
+Blasius North,5,0.0,0.0
+Blasius Pre-Owned Auto,1,0.0,0.0
+Blasius of Attleboro,1,0.0,0.0
+Blasius of Bristol,1,0.0,0.0
+Bloomfield Motors,1,100.0,0.0
+Bloomington Normal Auto-Mall,3,0.0,100.0
+Blue Knob Auto Sales,2,0.0,50.0
+Blue Line Motors,1,0.0,0.0
+Blue Ridge CDJR,2,0.0,0.0
+Blue Springs Ford,5,0.0,0.0
+Boalsburg Car Company,4,100.0,0.0
+Boardman Subaru,1,0.0,0.0
+Boardwalk Auto Mall,24,100.0,0.0
+Boardwalk Ferrari,2,0.0,50.0
+Boardwalk Motors,1,0.0,0.0
+Bob Allen Ford,4,0.0,0.0
+Bob Allen Motor Mall,1,0.0,100.0
+Bob Baker Chrysler Dodge Jeep RAM Fiat,1,0.0,0.0
+Bob Baker Subaru,1,0.0,0.0
+Bob Baker Volkswagen,2,100.0,0.0
+Bob Bell Chevrolet,1,0.0,0.0
+Bob Boast Volkswagen,1,0.0,0.0
+Bob Brown Chevrolet,2,0.0,50.0
+Bob Davidson Ford Lincoln,1,0.0,0.0
+Bob Ferrando Ford Lincoln,1,0.0,0.0
+Bob Howard Hyundai,1,0.0,0.0
+Bob Johnson Auto Group,2,0.0,50.0
+Bob Johnson Buick GMC South,1,100.0,0.0
+Bob Johnson Volkswagen,1,100.0,0.0
+Bob Mills Mitsubishi,2,0.0,0.0
+"Bob Penkhus Volvo, Mazda Inc.",6,0.0,0.0
+Bob Ridings Ford,2,100.0,0.0
+Bob Rohrman Honda,1,0.0,0.0
+Bob Rohrman Kia,6,0.0,16.666666666666664
+Bob Rohrman Subaru of Fort Wayne,1,0.0,0.0
+Bob Rohrman's Indy Hyundai-Genesis,1,0.0,0.0
+Bob Sight Ford,2,0.0,0.0
+Bob Thomas Ford,2,0.0,0.0
+Bob Thomas Ford West,1,0.0,0.0
+Bob Valenti Auto Mall,1,100.0,0.0
+Bob Wade Subaru,1,0.0,0.0
+Bob-Boyd Lincoln of Columbus,1,0.0,0.0
+Boca Drive Inc.,3,100.0,33.33333333333333
+Boch Honda West,3,0.0,0.0
+Boch Hyundai,2,0.0,0.0
+Boch Nissan,1,0.0,0.0
+Boch Nissan South,3,0.0,0.0
+Boggus Ford Harlingen,1,100.0,0.0
+Boise Volkswagen,3,0.0,33.33333333333333
+Boktor Motors,5,0.0,0.0
+Bolivar Ford,1,0.0,0.0
+Bolton Ford,1,0.0,0.0
+Bommarito Ford,2,0.0,50.0
+Bommarito Nissan Ballwin,4,0.0,25.0
+Bommarito Nissan Hazelwood,1,0.0,0.0
+Bommarito Volkswagen Hazelwood,4,0.0,0.0
+Bomnin Chevrolet Dadeland,2,0.0,0.0
+Bomnin Chevrolet Manassas,4,0.0,0.0
+Bomnin Chevrolet West Kendall,4,0.0,25.0
+Bonander Buick GMC,2,0.0,0.0
+Bonham Chrysler Jeep Dodge Ram,1,0.0,0.0
+Bonita Springs Mitsubishi,3,0.0,33.33333333333333
+Bonneville and Son Chrysler Dodge Jeep Ram,1,0.0,0.0
+Booth Motors,3,0.0,33.33333333333333
+Borderline Auto Sales,1,100.0,0.0
+Borman Autoplex,2,0.0,0.0
+Bosco Auto Group,5,0.0,20.0
+Boston Foreign Motor,1,0.0,100.0
+"Boston Motorsports - Delivery from Boston, MA (for Fairfield)",1,100.0,0.0
+Boston Motorsports Maserati Alfa Romeo,1,0.0,0.0
+Boston Volvo Cars,1,0.0,100.0
+Boucher Buick GMC of Waukesha,1,0.0,0.0
+Boucher Chevrolet of Waukesha,1,0.0,0.0
+Boucher Hyundai of Janesville,1,0.0,0.0
+Boucher Hyundai of Waukesha,1,0.0,100.0
+Boucher Nissan Waukesha,4,0.0,25.0
+Boucher Volkswagen Marketplace of Franklin,4,0.0,0.0
+Boulder Chrysler Dodge RAM,1,0.0,0.0
+Boulevard Ford Lincoln,3,100.0,0.0
+Bourne's Auto Center,27,0.0,11.11111111111111
+Boyd's Tar Heel Chevrolet Buick GMC,1,100.0,0.0
+Boyko Motors,5,0.0,20.0
+Bozard Ford Lincoln,1,0.0,0.0
+Brad Deery Honda,2,0.0,0.0
+Brad's Cottage Grove Chevrolet,6,0.0,0.0
+Braman BMW Jupiter,1,0.0,100.0
+Braman Motors Miami,4,0.0,0.0
+Brandon Ford,3,0.0,0.0
+Brandon Mitsubishi,2,0.0,0.0
+Brandon Reeves Auto World,3,0.0,0.0
+Bravo Chrysler Dodge Jeep RAM,1,0.0,0.0
+Bravo Nissan Victoria,1,0.0,100.0
+Brent Brown Toyota,1,0.0,0.0
+Brewer Airport Toyota,1,0.0,0.0
+Brewster Ford,2,0.0,0.0
+Brians Auto Center,2,0.0,0.0
+Bridgeland Auto Brokers,3,0.0,0.0
+Bridgewater KIA,2,0.0,0.0
+Bridgewater Nissan,4,100.0,0.0
+Brightway Auto Sales,1,100.0,0.0
+Bristol Auto Mall,1,0.0,100.0
+Britain Chevrolet,1,0.0,0.0
+Broadway Ashland,3,0.0,0.0
+Broadway Auto Mall,1,100.0,0.0
+Broadway Ford Hyundai on Military,3,0.0,0.0
+Broadway Motoring Inc,1,100.0,0.0
+Bronco Motors Hyundai,1,0.0,0.0
+Brooklyn Auto Sales,1,100.0,0.0
+Brooklyn Mitsubishi,1,0.0,0.0
+Brotherton Cadillac,1,0.0,0.0
+Brotherton Cadillac NW,6,100.0,0.0
+Brower Brothers Nissan,1,0.0,0.0
+Brown Automotive Group,1,0.0,100.0
+Brown's Sales and Leasing Guttenberg,1,0.0,0.0
+Bruce Bennett Infiniti of Danbury,2,100.0,50.0
+Bruce Bennett Nissan of Danbury,1,100.0,100.0
+Brustolon Buick GMC,2,0.0,50.0
+Bryan College Station Toyota,1,0.0,0.0
+Bubba Oustalet Chevrolet Cadillac,1,100.0,0.0
+Buckeye Nissan,1,0.0,0.0
+Bud Brown Volkswagen,1,0.0,0.0
+Budget Auto Wholesale,2,100.0,0.0
+Budget Car Sales,9,0.0,22.22222222222222
+Buena Park Honda,1,0.0,0.0
+Buerkle Acura,1,0.0,0.0
+Buerkle Hyundai,10,0.0,0.0
+Buick GMC Brooksville,3,100.0,0.0
+Buick GMC of Beaverton,3,0.0,66.66666666666666
+Burien Chevrolet,9,0.0,0.0
+Burien Nissan,4,0.0,0.0
+Burlington Chevrolet,1,0.0,0.0
+Burlington Used Car Superstore,3,100.0,0.0
+Burlington VW,1,0.0,0.0
+Burns Buick GMC,1,0.0,0.0
+Burnsville Toyota,2,0.0,0.0
+Busam Nissan,1,100.0,0.0
+Byers Chrysler Jeep Dodge RAM,1,0.0,0.0
+Byers Ford,1,0.0,0.0
+Byers Imports Porsche,2,0.0,0.0
+Byers Imports Pre-Owned Center,1,100.0,0.0
+Byers Toyota,1,0.0,0.0
+C & M Chrysler Dodge Jeep Ram,1,100.0,0.0
+C R Chrysler Dodge Jeep RAM of Adrian,1,0.0,0.0
+C&D MotorSports,1,0.0,0.0
+C. Wimberley Ford,1,0.0,0.0
+CAG - Austin INFINITI,3,0.0,33.33333333333333
+CAG - First Texas Honda,1,0.0,0.0
+CAL Cars,2,0.0,0.0
+CAR LUX,6,0.0,0.0
+CAR PROS RENTON KIA,8,0.0,0.0
+CARSHO,1,100.0,0.0
+CARSIRI LLC,1,100.0,0.0
+CARSTER,1,100.0,0.0
+CARite of Cocoa,1,0.0,0.0
+CARite of Lancaster,1,100.0,0.0
+CARite of North Orlando,2,100.0,0.0
+CARite of Tuscaloosa,4,100.0,0.0
+CJ Auto Group,2,100.0,0.0
+CMA's Colonial Nissan,2,100.0,0.0
+CMA's Valley Subaru,2,0.0,0.0
+CTS Auto,1,100.0,0.0
+Cactus Auto,1,100.0,0.0
+Cadillac of Beverly Hills,1,0.0,0.0
+Cadillac of Naperville,3,0.0,0.0
+Cadillac of New Orleans,1,100.0,0.0
+Cadillac of South San Francisco,2,100.0,0.0
+Calavan CDJR West,2,0.0,50.0
+Calavan Kia West,2,0.0,0.0
+Caldwell Country Chevrolet,2,0.0,0.0
+"Calidad Motors, Inc",2,0.0,0.0
+California Beemers Teslers,66,0.0,1.5151515151515151
+California Car Company,2,100.0,50.0
+California Motor Trade 2,3,0.0,0.0
+California Motor Trade 3,15,0.0,6.666666666666667
+California Motors Direct,19,0.0,0.0
+California Motors Direct - Montclair,4,0.0,0.0
+Callahan Motor Company,1,0.0,0.0
+Calstar Motors Inc,1,100.0,0.0
+Camelback Ford Lincoln,2,0.0,50.0
+Camelback Volkswagen,1,0.0,0.0
+Camp Chevrolet,3,0.0,0.0
+Campbell Chrysler Dodge Jeep RAM,1,0.0,0.0
+Candy Cars,2,0.0,0.0
+Canton Ford,2,0.0,0.0
+Capable Cars Ltd.,1,100.0,0.0
+Cape & Islands Kia,3,0.0,0.0
+Capistrano Mazda,1,0.0,0.0
+Capistrano Volkswagen,6,0.0,16.666666666666664
+Capital Auto Sales,5,0.0,0.0
+Capital Cadillac,1,0.0,0.0
+Capital Chevrolet,3,0.0,33.33333333333333
+Capital Chevrolet of Shallotte,1,100.0,0.0
+"Capital Chevrolet, Buick, GMC of Lexington",1,0.0,0.0
+Capital Chrysler Jeep Dodge,2,0.0,0.0
+Capital City Honda,1,100.0,0.0
+Capital Ford,1,0.0,0.0
+Capital Ford Lincoln of Wilmington,2,0.0,0.0
+Capital Ford Of Charlotte,17,0.0,0.0
+Capital Kia,1,0.0,0.0
+Capital Motor Company,1,0.0,0.0
+Capital Motor Group,2,0.0,0.0
+Capital Nissan of Wilmington,3,0.0,0.0
+Capitol Auto Sales,1,100.0,0.0
+Capitol Chevrolet,2,0.0,0.0
+Capitol City Ford,1,0.0,0.0
+Capitol Ford,4,0.0,0.0
+Capitol Hyundai,5,0.0,0.0
+Capitol Kia,19,0.0,0.0
+Capitol Mazda,5,0.0,0.0
+Capitol Subaru,6,0.0,16.666666666666664
+Capitol Volkswagen,7,0.0,0.0
+Cappellino Cadillac,1,100.0,0.0
+Car Castle,2,0.0,0.0
+Car Choice,1,100.0,0.0
+Car City,1,0.0,0.0
+Car City Inc,1,0.0,0.0
+Car City Wholesale,7,0.0,0.0
+Car Connection Inc.,5,0.0,0.0
+Car Land Auto Trading,1,100.0,0.0
+Car Nova,3,0.0,0.0
+Car Pros Honda El Monte,1,0.0,0.0
+Car Pros KIA Tacoma,4,0.0,0.0
+Car Pros Kia Glendale,12,0.0,0.0
+Car Pros Kia Moreno Valley,8,100.0,0.0
+Car Pros Renton Hyundai,2,100.0,0.0
+Car Revolution,7,0.0,0.0
+Car Search USA,3,100.0,0.0
+Car Source,1,0.0,0.0
+Car Stop Auto Inc.,1,100.0,0.0
+Car Store USA,1,0.0,0.0
+Car Town Inc,2,100.0,0.0
+"Car Town USA, Inc.",1,0.0,0.0
+CarChoice.com,1,100.0,0.0
+CarLink,1,0.0,0.0
+CarMart,1,0.0,0.0
+CarMart of Walpole,1,0.0,0.0
+CarMax Albuquerque - Offering Express Pickup and Home Delivery,1,100.0,100.0
+CarMax Arlington/Ft. Worth - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax Augusta - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Austin North - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax Austin South - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax Bakersfield - Offering Express Pickup and Home Delivery,5,100.0,0.0
+CarMax Beaverton - Offering Express Pickup and Home Delivery,4,100.0,0.0
+CarMax Birmingham - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Bloomington - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Boise (Meridian) - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Boynton Beach - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax Bradenton - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Brandywine - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Brooklyn Park - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Buena Park - Offering Express Pickup and Home Delivery,6,100.0,0.0
+CarMax Buford - Offering Express Pickup and Home Delivery,4,100.0,0.0
+CarMax Burbank - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Canoga Park - Offering Express Pickup and Home Delivery,3,100.0,33.33333333333333
+CarMax Capital Boulevard - Offering Express Pickup and Home Delivery,3,100.0,33.33333333333333
+CarMax Capitol Expressway - Offering Express Pickup and Home Delivery,6,100.0,16.666666666666664
+CarMax Centennial - Offering Express Pickup and Home Delivery,5,100.0,0.0
+CarMax Charleston - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Charlottesville - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Cincinnati - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Clackamas - Offering Express Pickup and Home Delivery,5,100.0,0.0
+CarMax Clearwater - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Clermont - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Colorado Springs - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax Columbus Easton - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Columbus Sawmill - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Cool Springs - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Costa Mesa - Offering Express Pickup and Home Delivery,4,100.0,0.0
+CarMax Danvers - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Dayton - Offering Express Pickup and Home Delivery,1,100.0,100.0
+CarMax Des Moines - Offering Express Pickup and Home Delivery,2,50.0,0.0
+CarMax Dulles - Offering Express Pickup and Home Delivery,5,100.0,20.0
+CarMax East Haven - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Edison - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Ellicott City - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Escondido - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Fairfield - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax Fayetteville - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Fort Bend - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Frederick - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Fredericksburg - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Fremont - Offering Express Pickup and Home Delivery,9,100.0,11.11111111111111
+CarMax Fresno - Offering Express Pickup and Home Delivery,4,100.0,0.0
+CarMax Ft. Myers - Offering Express Pickup and Home Delivery,2,100.0,50.0
+CarMax Gainesville - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Gaithersburg - Offering Express Pickup and Home Delivery,4,100.0,0.0
+CarMax Garland - Offering Express Pickup and Home Delivery,3,100.0,33.33333333333333
+CarMax Germantown - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Grand Rapids (Kentwood) - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Greensboro - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Greenville - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Gulf Freeway - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax Harrisonburg - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Hartford - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax Henderson - Offering Express Pickup and Home Delivery,5,100.0,0.0
+CarMax Hillside (Eisenhower Expy) - Offering Express Pickup and Home Delivery,5,0.0,0.0
+CarMax Houston Katy Freeway - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Hulen Mall - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax Independence Boulevard - Offering Express Pickup and Home Delivery,1,100.0,100.0
+CarMax Indianapolis - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Irvine - Offering Express Pickup and Home Delivery,5,100.0,40.0
+CarMax Jacksonville - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Jacksonville NC - Offering Express Pickup and Home Delivery,1,100.0,100.0
+CarMax Jacksonville West - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Kansas City - Offering Express Pickup and Home Delivery,3,0.0,0.0
+CarMax Kearny Mesa - Offering Express Pickup and Home Delivery,6,100.0,0.0
+CarMax Kenner - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax King of Prussia - Offering Express Pickup and Home Delivery,4,100.0,0.0
+CarMax Knoxville - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax LAX - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax Langhorne - Offering Express Pickup and Home Delivery,1,0.0,0.0
+CarMax Lexington - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Lithia Springs - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Live Oak - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Loveland - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Lynchburg - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Lynnwood - Offering Express Pickup and Home Delivery,4,100.0,0.0
+CarMax Maple Shade - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax McKinney - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Memphis - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Miami (International Mall) - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax Midlothian - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Mobile - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Modesto - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax Murrieta - Offering Express Pickup and Home Delivery,5,100.0,20.0
+CarMax Myrtle Beach - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Naples - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Nashville - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax Newark - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Norco - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Norcross - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax North Houston - Offering Express Pickup and Home Delivery,4,100.0,0.0
+CarMax North Shore - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Norwood - Offering Express Pickup and Home Delivery,5,100.0,0.0
+CarMax Oak Lawn - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Ocala - Offering Express Pickup and Home Delivery,1,100.0,100.0
+CarMax Oceanside - Offering Express Pickup and Home Delivery,5,100.0,0.0
+CarMax Omaha - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Ontario - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Orlando - Offering Express Pickup and Home Delivery,6,0.0,0.0
+CarMax Oxnard - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Palm Desert - Offering Express Pickup and Home Delivery,3,100.0,33.33333333333333
+CarMax Palmdale - Offering Express Pickup and Home Delivery,4,100.0,0.0
+CarMax Parker - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax Pensacola - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Pharr - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Phoenix-Gilbert - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax Phoenix-West Valley - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Plano - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Pleasant Hill - Offering Express Pickup and Home Delivery,7,100.0,14.285714285714285
+CarMax Pleasanton - Offering Express Pickup and Home Delivery,10,100.0,0.0
+CarMax Potomac Mills - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Puyallup - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax Raleigh - Offering Express Pickup and Home Delivery,5,100.0,20.0
+CarMax Reno - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax Renton - Offering Express Pickup and Home Delivery,3,100.0,66.66666666666666
+CarMax Rivergate - Offering Express Pickup and Home Delivery,1,100.0,100.0
+CarMax Riverside - Offering Express Pickup and Home Delivery,2,100.0,50.0
+CarMax Rochester - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Roswell - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax Sacramento South - Offering Express Pickup and Home Delivery,11,100.0,0.0
+CarMax Sacramento/Roseville - Offering Express Pickup and Home Delivery,5,100.0,0.0
+CarMax Salem - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Salt Lake (South Jordan) - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax San Antonio - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax San Gabriel Valley/Duarte - Offering Express Pickup and Home Delivery,6,100.0,16.666666666666664
+CarMax Santa Rosa - Offering Express Pickup and Home Delivery,8,100.0,0.0
+CarMax Schaumburg - Offering Express Pickup and Home Delivery,2,0.0,0.0
+CarMax Scottsdale - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Serramonte - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Shreveport - Offering Express Pickup and Home Delivery,1,100.0,100.0
+CarMax South Boulevard - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax South Broadway - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Southwest Freeway - Offering Express Pickup and Home Delivery,2,100.0,50.0
+CarMax Spokane - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax Springfield MO - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax St. Louis Mid Rivers Mall - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax St. Louis South Lindbergh - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Stockton - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax Tallahassee - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Tampa - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax Texas Stadium (Irving) - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax Tinley Park - Offering Express Pickup and Home Delivery,4,100.0,0.0
+CarMax Torrance - Offering Express Pickup and Home Delivery,3,100.0,0.0
+CarMax Town Center - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Tucson - East - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Tulsa - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Tyler - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Vancouver - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Virginia Beach - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Warner Robins - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax Warwick - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Wayne - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax West 104th Ave - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax West Broad - Offering Express Pickup and Home Delivery,2,100.0,100.0
+CarMax West Sahara - Offering Express Pickup and Home Delivery,2,100.0,50.0
+CarMax Westborough - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarMax White Marsh - Offering Express Pickup and Home Delivery,3,66.66666666666666,0.0
+CarMax Wichita - Offering Express Pickup and Home Delivery,4,100.0,0.0
+CarMax Wilmington - Offering Express Pickup and Home Delivery,2,100.0,0.0
+CarMax Winston-Salem - Offering Express Pickup and Home Delivery,1,100.0,0.0
+CarNu Sales,1,0.0,0.0
+CarPoint Auto Group,1,0.0,0.0
+CarPros,2,100.0,0.0
+CarShop - Robinson Township,3,0.0,0.0
+CarShop Chester Springs,3,0.0,33.33333333333333
+CarShop Cranberry,2,0.0,0.0
+CarShop Glen Mills,5,0.0,0.0
+CarShop Hatfield,5,0.0,0.0
+CarShop Mt. Holly,2,0.0,0.0
+CarShop South Brunswick,4,0.0,0.0
+CarSmart.net,5,0.0,0.0
+CarSquad,26,0.0,0.0
+CarTopia,1,0.0,0.0
+CarVault,2,0.0,0.0
+CarVision Mitsubishi,8,0.0,0.0
+CarVision Nissan,1,0.0,0.0
+CarVision of Maple Shade,25,0.0,4.0
+CarWorld,2,0.0,0.0
+Cardinal Buick GMC Inc.,1,0.0,0.0
+CardinaleWay Hyundai Corona,2,0.0,0.0
+CardinaleWay Volkswagen Corona,3,0.0,0.0
+Carena Motors,1,100.0,0.0
+Carizona,2,0.0,50.0
+Carlsen Subaru,3,0.0,33.33333333333333
+Carlux FTL,1,0.0,0.0
+Carmania of Stevens Creek,1,0.0,0.0
+Carmart,5,0.0,0.0
+Carmel Auto Gallery,1,0.0,0.0
+Carmel Auto Group,1,100.0,0.0
+Carmel Motors,4,0.0,0.0
+Carolina Auto Warehouse,1,100.0,0.0
+Carolina Ford,1,100.0,0.0
+Carolina Luxury Imports of Mooresville,2,100.0,0.0
+Carolina Nissan,2,100.0,0.0
+Carolina Volkswagen,1,0.0,0.0
+Carousel Online,22,100.0,4.545454545454546
+Carr Chevrolet,1,0.0,100.0
+Carriage Kia of Woodstock,1,0.0,0.0
+Carrva,1,100.0,0.0
+Cars Buyer Inc,1,0.0,0.0
+Cars Delivered,5,100.0,0.0
+Cars Land,11,0.0,18.181818181818183
+"Cars Of Tampa, Inc",1,0.0,0.0
+Cars R Us,1,100.0,0.0
+CarsIndex 2,3,0.0,0.0
+Carsandpickups.com of Dallas,2,0.0,0.0
+Carson Nissan,1,0.0,0.0
+Cartiva Of Minot,1,0.0,0.0
+Caruso Ford Lincoln,1,0.0,0.0
+Carvau,1,100.0,0.0
+Carz LLC,2,100.0,0.0
+Carz R Us,1,100.0,100.0
+Carzano,3,100.0,0.0
+Casey BMW,1,0.0,0.0
+Casey Honda,2,0.0,50.0
+Casey Toyota,2,0.0,0.0
+Cassill Motors,1,0.0,0.0
+Castle Buick GMC,1,0.0,100.0
+Castle Chevrolet Buick GMC McHenry,1,0.0,0.0
+Castle Chevrolet North,1,0.0,0.0
+Castle Chevrolet of Villa Park,1,0.0,0.0
+Castle Chrysler Dodge Jeep Ram of Naperville,1,0.0,0.0
+Castle Ford Lincoln,4,0.0,0.0
+Castle Subaru,3,0.0,0.0
+Castle Volkswagen of Schaumburg,2,0.0,0.0
+Causeway Ford Lincoln,5,0.0,0.0
+Cavender Auto Country Chevrolet Buick GMC,1,0.0,0.0
+Cavender Buick GMC North,1,0.0,0.0
+Cavender Chevrolet,1,0.0,0.0
+Cavender Chrysler Jeep Dodge RAM,1,0.0,0.0
+Cavender Ford,1,0.0,0.0
+Cavender Grande Ford,1,0.0,0.0
+Cavender Nissan San Marcos,2,0.0,0.0
+Cavender Toyota,5,0.0,20.0
+Cawood Honda,1,0.0,0.0
+Cecil Clark Chevrolet,1,0.0,0.0
+Cedar Park Nissan,2,0.0,0.0
+Celebrity Auto Group,2,100.0,0.0
+Cella Ford,5,0.0,0.0
+Centennial Hyundai,2,0.0,0.0
+Central Avenue Chrysler Jeep Dodge RAM,1,0.0,0.0
+Central Chevrolet,1,0.0,0.0
+Central Ford,1,100.0,0.0
+Central Valley Hyundai,5,0.0,0.0
+Century Auto,14,100.0,0.0
+Century Automotive,3,0.0,33.33333333333333
+Century West BMW,15,0.0,13.333333333333334
+Cerritos Nissan,3,0.0,0.0
+Certified Auto Mall,1,100.0,0.0
+"Certified Autoplex, Inc.",20,0.0,10.0
+Certified Benz & Beemer,25,0.0,28.000000000000004
+Chalmers Ford,1,0.0,0.0
+Champagne Motorcar Co.,2,0.0,0.0
+Champaign Ford City,1,0.0,0.0
+Champion Chevrolet Buick GMC,1,0.0,0.0
+Champion Chevrolet of Avon,2,0.0,0.0
+Champion Chrysler Jeep Dodge Ram,2,0.0,0.0
+Champion Ford Lincoln Inc.,1,0.0,0.0
+Champion Motorsports,1,0.0,0.0
+Champion Porsche,12,0.0,16.666666666666664
+Chaparral Ford Inc,1,0.0,0.0
+Chapman BMW Chandler,4,0.0,0.0
+Chapman BMW on Camelback,7,0.0,14.285714285714285
+Chapman Chevrolet,2,0.0,0.0
+Chapman Dodge Chrysler Jeep RAM,2,0.0,0.0
+Chapman Ford Columbia,1,0.0,0.0
+Chapman Ford Lancaster,1,0.0,0.0
+Chapman Hyundai Scottsdale,2,0.0,0.0
+Chapman Value Center Scottsdale,3,0.0,0.0
+Chapman Volkswagen of Tucson,1,0.0,0.0
+Checkered Flag BMW & Mini,2,0.0,50.0
+Checkered Flag Hyundai World,1,0.0,0.0
+Checkered Flag Jaguar - Land Rover,1,0.0,0.0
+Cheddar Auto,1,100.0,0.0
+Cherner Brothers Auto Brokers,4,0.0,25.0
+Cherokee Auto Sales,2,0.0,0.0
+Cherry Creek Automotive,1,100.0,0.0
+Cherry Hill Chrysler Dodge Jeep RAM Kia Mitsubishi,2,0.0,0.0
+Cherry Hill Nissan,1,100.0,0.0
+Cherry Hill Volvo Cars,2,0.0,50.0
+Chesrown Chevrolet Buick GMC,2,0.0,0.0
+Chevrolet Buick GMC of Murfreesboro,1,0.0,0.0
+Chevrolet of Bellevue,1,0.0,0.0
+Chevrolet of Carson,7,0.0,0.0
+Chevrolet of Everett,2,0.0,0.0
+Chevrolet of Folsom,1,100.0,0.0
+Chevrolet of Milford,1,0.0,0.0
+Chevrolet of Montebello,1,0.0,0.0
+Chevrolet of Naperville,1,0.0,0.0
+Chevrolet of Palatine,1,0.0,0.0
+Chevrolet of Walla Walla,1,0.0,0.0
+Chevrolet of Watsonville,2,100.0,0.0
+Chevrolet of Wayzata,1,0.0,0.0
+Chevrolet of West,1,0.0,0.0
+Chevrolet of Wooster,1,0.0,0.0
+Chevy Chase Acura,1,0.0,0.0
+Chicago Auto Place,4,0.0,0.0
+Chicago Auto Warehouse,6,100.0,0.0
+Chicago Cars US,1,0.0,0.0
+Chicago Fine Motors,2,0.0,0.0
+Chicago Motors Inc.,1,100.0,0.0
+Chico Volkswagen,2,100.0,0.0
+Childre Nissan,1,0.0,0.0
+Chino Hills Ford,2,0.0,50.0
+Chippewa Valley Mazda,1,0.0,0.0
+Choice Auto Sales,3,0.0,0.0
+Choice Automotive Hawaii,1,0.0,0.0
+Chris Nikel Chrysler Jeep Dodge Ram Fiat,1,0.0,0.0
+Christopher's Dodge Ram,1,0.0,100.0
+Chrysler Dodge Jeep Ram Brooksville,1,0.0,0.0
+Chrysler Dodge Jeep Ram of Calallen,1,0.0,0.0
+Chrysler Dodge Jeep Ram of Chicago,1,0.0,0.0
+Chrysler Dodge Jeep Ram of Clifton Park,1,0.0,0.0
+Chrysler Dodge Jeep Ram of Woodstock,1,0.0,0.0
+Chrysler World,1,0.0,0.0
+Chuck Colvin Auto Center,1,100.0,0.0
+"Chuck Spaeth Ford, Inc.",1,0.0,0.0
+Chuck Stevens Ford,1,100.0,0.0
+Cincinnati Automotive Group Inc,1,0.0,0.0
+Ciocca Chevrolet of West Chester,1,0.0,0.0
+Citrus Motors Kia,3,0.0,0.0
+City Auto,2,0.0,0.0
+"City Auto Sales, LLC",10,0.0,10.0
+City AutoMall,2,0.0,0.0
+City Chevrolet of Grayslake,2,0.0,0.0
+City Chrysler Dodge Jeep Ram Fiat of Brookfield,1,0.0,0.0
+City Mitsubishi,3,0.0,0.0
+City Toyota,2,0.0,0.0
+City Volkswagen Of Evanston,2,0.0,0.0
+City Volkswagen of Chicago,3,0.0,0.0
+City World Ford,2,0.0,0.0
+City World Hyundai,1,0.0,0.0
+Clare Auto Sales,1,100.0,0.0
+Claremont Toyota,1,0.0,0.0
+Clark Nissan,1,100.0,0.0
+Classic Auto Park,1,100.0,0.0
+Classic BMW Mini Willoughby Hills,1,0.0,0.0
+Classic Buick GMC,1,0.0,0.0
+Classic Cadillac,2,0.0,0.0
+Classic Chevrolet,3,0.0,0.0
+Classic Chevrolet Mentor,2,0.0,0.0
+Classic Chevrolet Sugar Land,1,0.0,0.0
+Classic Chrysler Dodge Jeep Ram Fiat,1,0.0,0.0
+Classic Ford Lincoln Shelby,1,0.0,0.0
+Classic Galveston Chevrolet,1,100.0,0.0
+Classic Hyundai,1,0.0,0.0
+Classic Kia of Carrollton,3,0.0,0.0
+Classic Nissan Newport News,1,0.0,0.0
+Classic Volkswagen Mentor,2,0.0,0.0
+Clay Cooley Nissan,2,0.0,100.0
+Clear Choice Automotive-North,1,100.0,0.0
+Clear Lake Nissan,1,0.0,0.0
+Clearwater Toyota,1,0.0,100.0
+Clement Pre-Owned (Florissant),2,0.0,0.0
+Clement Pre-Owned (St. Charles),5,0.0,60.0
+Cleo Bay Subaru,1,0.0,0.0
+"Clinton MotorCars, LLC",1,100.0,0.0
+Cloninger Ford of Hickory,2,0.0,0.0
+Club Motorcars,2,100.0,0.0
+Coast Chevrolet,1,0.0,0.0
+Coast Nissan,1,0.0,0.0
+Coastal Chrysler Dodge Jeep Ram,1,100.0,0.0
+Coastal Kia,1,0.0,0.0
+Coastal Nissan,1,0.0,100.0
+Coconut Point Ford,1,0.0,0.0
+Coda Motors,2,0.0,0.0
+Coggin Chevrolet at the Avenues,2,0.0,0.0
+Coggin Ford of Jacksonville,1,0.0,0.0
+Coggin Honda of Fort Pierce,1,0.0,0.0
+Cole Ford Lincoln,5,0.0,0.0
+Cole Nissan,6,0.0,16.666666666666664
+Coleman Cadillac,1,100.0,0.0
+College Park Hyundai- Se Hablo Espanol,1,0.0,0.0
+Collins Nissan,1,100.0,0.0
+Colonial Cadillac,1,0.0,0.0
+Colonial Chevrolet,4,0.0,0.0
+Colonial Chrysler Jeep Dodge RAM,5,0.0,0.0
+Colonial Ford,12,0.0,25.0
+Colonial Ford of Marlboro,3,0.0,0.0
+Colonial Honda of Dartmouth,1,0.0,0.0
+Colonial Nissan Inc.,1,0.0,0.0
+Colonial Nissan of Medford,1,0.0,0.0
+Colonial Volkswagen,11,0.0,0.0
+Colonial Volkswagen of Medford,3,0.0,0.0
+Colonial West Chevrolet,1,0.0,0.0
+Colorado Auto Finders,3,0.0,0.0
+Columbia Ford,2,0.0,0.0
+Columbia Motors,2,0.0,0.0
+Commerce Chevrolet,1,0.0,0.0
+Commerce Mitsubishi,1,0.0,0.0
+Community Buick GMC,1,0.0,0.0
+Concord Honda,5,0.0,20.0
+Concord Mazda,1,0.0,0.0
+Concord Nissan,7,85.71428571428571,42.857142857142854
+Concord Toyota,2,0.0,0.0
+Concordville Nissan,1,0.0,0.0
+Confidence Ford of Norman,5,0.0,0.0
+Conicelli Autoplex,5,0.0,0.0
+Connell Chevrolet,1,0.0,0.0
+Connell Country Used Cars,1,100.0,0.0
+Conti Auto Sales Inc,7,100.0,0.0
+"Continental Auto Sales, Inc.",1,100.0,0.0
+Cooper Autoworks,1,100.0,0.0
+Cooper Chevrolet Buick,1,0.0,0.0
+Copeland Chevrolet Hyannis,1,0.0,0.0
+Copple Cars Plattsmouth,3,0.0,0.0
+Copple Chevrolet GMC,1,0.0,0.0
+Coral Springs Kia,2,0.0,0.0
+Coral Springs Nissan,2,0.0,0.0
+Core Autoplex,2,100.0,0.0
+Cornerstone Ford Chrysler,1,0.0,0.0
+Corning Ford,3,0.0,0.0
+Corona Motors Direct,2,0.0,0.0
+Cortese Chrysler Jeep Dodge Ram Mitsubishi,2,0.0,50.0
+Cortese Ford Lincoln,4,0.0,0.0
+Corvette Country,2,100.0,0.0
+Corwin Chrysler Dodge Jeep Ram,2,0.0,0.0
+Corwin Ford,2,0.0,0.0
+Corwin Ford Lincoln Republic,1,0.0,0.0
+Corwin Ford Reno,8,0.0,0.0
+Corwin Ford of Spokane,1,0.0,0.0
+Corwin Ford of Tri-Cities,3,0.0,0.0
+Corwin Honda Kalispell,1,0.0,0.0
+Corwin Reno Buick GMC Cadillac,1,0.0,0.0
+Corwin Toyota Boulder,2,0.0,0.0
+Costa Mesa Buick GMC,2,100.0,0.0
+"Coughlin Chevy, GMC, Buick",1,100.0,0.0
+Coughlin Ford of Heath,1,100.0,100.0
+Coughlin GM of Newark,2,0.0,0.0
+Coughlin Nissan,2,0.0,50.0
+Coulter Nissan,2,0.0,0.0
+Coulter Tempe,1,0.0,0.0
+Country Auto,1,100.0,0.0
+Country Chevrolet,35,0.0,11.428571428571429
+Country Hill Motors of Merriam,6,0.0,0.0
+Country Hyundai,4,0.0,0.0
+Country Truck & Auto,1,100.0,0.0
+Countryside Chevrolet,1,100.0,0.0
+Countryside Mitsubishi,8,0.0,0.0
+Countryside Nissan,3,0.0,33.33333333333333
+County Ford,11,0.0,0.0
+Court Street Ford,2,0.0,0.0
+Courtesy Acura,5,0.0,0.0
+Courtesy Cadillac,2,0.0,50.0
+Courtesy Chevrolet,6,0.0,0.0
+Courtesy Chrysler Dodge Jeep RAM of Superstition Springs,8,0.0,0.0
+Courtesy Chrysler Jeep Dodge RAM,2,100.0,0.0
+Courtesy Ford,1,0.0,0.0
+Courtesy Ford - Portland,3,100.0,33.33333333333333
+Courtesy Hyundai Tampa,1,0.0,0.0
+Courtesy Kia,2,0.0,0.0
+Courtesy Nissan,2,0.0,0.0
+Courtesy Nissan of Tampa,1,0.0,100.0
+Courtesy Toyota of Brandon,2,0.0,0.0
+Courtesy Volvo Cars of Scottsdale,1,0.0,0.0
+Covert Buick GMC Austin,2,0.0,0.0
+Covert Cadillac Bee Cave,2,100.0,0.0
+Covert Chevrolet Bastrop,3,0.0,0.0
+Covert Chrysler Dodge Jeep & Ram,1,0.0,0.0
+Covert Ford,7,0.0,0.0
+Covert Hutto,3,0.0,0.0
+Cowboy Chrysler Dodge Jeep Ram,1,0.0,0.0
+Cowboy Toyota,1,0.0,0.0
+Craig & Landreth Clarksville,4,0.0,0.0
+Crain Chevrolet,2,0.0,0.0
+Crain Ford of Little Rock,2,0.0,0.0
+Crain Hyundai of Bentonville,1,0.0,0.0
+Crain Hyundai of Fayetteville,1,0.0,100.0
+Crain Hyundai of Little Rock,3,100.0,0.0
+Crain Kia,1,0.0,0.0
+Crain Volkswagen of Fayetteville,2,0.0,0.0
+Cransh Auto Sales Inc,1,100.0,0.0
+Crater Lake Mazda,6,100.0,0.0
+Crazy Cars,1,100.0,0.0
+CrazyCheapCars.com,2,0.0,0.0
+Crest Auto Group,1,0.0,0.0
+Crest Nissan,1,0.0,100.0
+Crest Volvo Cars,2,0.0,0.0
+Criswell Nissan,1,0.0,0.0
+"Criswell in Annapolis, MD",1,100.0,0.0
+Cronin Buick GMC of Bowling Green,1,100.0,0.0
+Crossroads Car and Truck,2,100.0,0.0
+Crossroads Ford,1,100.0,0.0
+Crossroads Ford Southern Pines,1,0.0,0.0
+Crossroads Hyundai of Loveland,10,0.0,10.0
+Crow-Moddie Auto,1,100.0,0.0
+Crowley Kia and Motorsports,1,0.0,0.0
+Crown Automotive,1,0.0,100.0
+Crown Dodge Chrysler Jeep Ram - CA,4,0.0,0.0
+Crown Eurocars,1,0.0,0.0
+Crown Eurocars of Dublin,5,0.0,80.0
+Crown Hyundai,1,0.0,0.0
+Crown Lexus,1,0.0,0.0
+Crown Motors II,2,100.0,0.0
+Crown Nissan,1,0.0,100.0
+Crown Nissan of Greenville,1,0.0,0.0
+Crown Toyota Volkswagen,5,0.0,0.0
+Crown Vic Auto Sales,3,100.0,0.0
+Crown Volvo Cars,1,0.0,0.0
+Crystal Chrysler Jeep Dodge Fiat RAM,1,0.0,0.0
+Crystal Chrysler Jeep Dodge RAM,1,0.0,0.0
+Culver City Chevrolet,5,0.0,20.0
+Culver City Toyota,1,0.0,0.0
+Cumming Chevrolet,1,0.0,0.0
+Cupples Car Company,3,0.0,0.0
+Curbside Motors,3,0.0,0.0
+Curmsons Auto Sales,1,0.0,100.0
+Current Automotive,16,100.0,12.5
+Currie Motors Ford of Valpo,2,0.0,0.0
+Curry Honda,1,0.0,0.0
+Custom Cars West,1,0.0,0.0
+Cutter Chevrolet,2,0.0,0.0
+Cypress Coast Ford,1,0.0,0.0
+D & C Motor Company,12,0.0,25.0
+D'Addario Cadillac Buick GMC Nissan,1,100.0,0.0
+D-Patrick Boonville Ford,3,0.0,0.0
+D-Patrick Ford Lincoln,4,0.0,0.0
+D-Patrick Honda,1,0.0,0.0
+D-Patrick Lebanon Ford,2,0.0,0.0
+D-Patrick Motoplex,2,0.0,0.0
+D-Patrick Nissan,1,100.0,0.0
+DARCARS Chrysler Jeep Waldorf,1,0.0,0.0
+DARCARS Ford Kia Lanham,2,0.0,50.0
+DARCARS Lexus of Englewood,1,0.0,0.0
+DARCARS Lexus of Greenwich,1,0.0,0.0
+DARCARS Nissan of College Park,1,0.0,0.0
+DCH Chrysler Jeep Dodge RAM Fiat of Temecula,2,0.0,50.0
+DCH Ford of Eatontown,1,0.0,0.0
+DCH Freehold Toyota,1,0.0,0.0
+DCH Honda of Temecula,2,0.0,0.0
+DCH Kay Honda,1,0.0,0.0
+DCH Millburn Audi,2,0.0,0.0
+DCH Subaru of Riverside,5,0.0,0.0
+DCH Wappingers Falls Toyota,3,0.0,0.0
+DEL Chevrolet,2,0.0,0.0
+DELLA Mitsubishi,1,0.0,0.0
+DESOTO Ford,3,0.0,0.0
+DFW Auto and Services LLC,2,0.0,0.0
+DFW Unique Auto,1,100.0,0.0
+DLR Nordic,5,100.0,40.0
+DM Motors LLC,1,100.0,0.0
+DSA Motor Sports Corp,1,100.0,0.0
+Dado Motors LLC,1,100.0,0.0
+Dahl Honda,3,100.0,0.0
+Daisy Motor Group,2,100.0,0.0
+Dale Earnhardt Jr. Buick GMC Cadillac,1,0.0,0.0
+Dale Earnhardt Jr. Chevrolet,1,0.0,0.0
+Dale Spradley Kia,3,100.0,0.0
+Dallas Auto Center,1,0.0,0.0
+Dallas Autos Direct,13,0.0,7.6923076923076925
+Dallas Drive,1,0.0,0.0
+DallasLeaseReturns.com,3,0.0,33.33333333333333
+Daly City Mitsubishi,1,100.0,0.0
+Dan Cummins Chevrolet Buick of Paris,2,0.0,0.0
+Dan Cummins Chrysler Dodge Jeep RAM of Paris,1,0.0,0.0
+Dan Cummins of Georgetown,1,0.0,0.0
+Dan Deery Toyota,3,0.0,33.33333333333333
+Daniels Long Chevrolet,1,0.0,0.0
+Dastrup Auto Inc.,4,100.0,0.0
+Dave Sinclair Ford,4,0.0,25.0
+Dave Sinclair Lincoln South,1,0.0,0.0
+Dave Smith Coeur d'Alene,1,0.0,100.0
+Dave Smith Ford,2,0.0,0.0
+Dave Syverson Auto Center,1,0.0,0.0
+Dave Towell Cadillac,1,0.0,0.0
+David Chevrolet Buick,1,0.0,0.0
+David Scott Lee Buick GMC,2,0.0,50.0
+David Stanley Chevrolet,3,0.0,0.0
+David Stanley Chrysler Jeep Dodge RAM,2,0.0,0.0
+David Wilson's Toyota of Las Vegas,1,0.0,0.0
+Davis Chevrolet,3,0.0,0.0
+Davis Chevrolet of Delano,1,100.0,0.0
+Davis Gainesville Chevrolet Mazda,1,0.0,0.0
+Davis Honda,1,0.0,0.0
+Davis-Moore Chevrolet,3,0.0,0.0
+Daytona Hyundai,1,0.0,0.0
+Daytona INFINITI,1,0.0,0.0
+Daytona Mitsubishi,1,0.0,0.0
+Daytona Motor Company,2,100.0,0.0
+Daytona Nissan,1,0.0,0.0
+Daytona Toyota,3,0.0,0.0
+DeFOUW Automotive,1,0.0,0.0
+DeFOUW Nissan of Lafayette,1,100.0,0.0
+DeFelice Auto Sales & Repair,1,0.0,0.0
+DeLacy Ford,2,0.0,100.0
+DeLand Nissan,3,0.0,33.33333333333333
+DePaula Ford,2,0.0,0.0
+DeYarman Ford,1,0.0,0.0
+Deacon's Chrysler Dodge Jeep RAM,1,100.0,0.0
+Dean Team Hyundai of Ballwin,2,0.0,0.0
+Dean Team Volkswagen Subaru of Ballwin,14,0.0,0.0
+Dean Team Volkswagen of Kirkwood,5,0.0,40.0
+Dean Team Volvo Cars of Saint Louis,4,0.0,25.0
+Dearth Chrysler Dodge Jeep Ram,1,100.0,0.0
+Deery Brothers Chrysler Dodge Jeep Ram of Iowa City,2,100.0,0.0
+Deery Brothers Chrysler Dodge Jeep Ram of Waukee,1,0.0,0.0
+Definitive Motors,10,10.0,0.0
+Del Sol Auto Sales,1,100.0,0.0
+Del Toro Auto Sales,1,0.0,0.0
+Delaney Nissan of State College,1,100.0,0.0
+Delaware Auto Sales LLC,1,0.0,0.0
+Delillo Chevrolet,1,100.0,0.0
+Dellenbach Motors,2,0.0,0.0
+Deluxe Auto Sales,13,0.0,0.0
+Dempsey Dodge Chrysler Jeep RAM,4,0.0,0.0
+Dena Motors,3,0.0,0.0
+Dennis Dillon Automotive,1,0.0,100.0
+Dennis Dillon Nissan,1,0.0,100.0
+Dennis Sneed Ford,3,0.0,0.0
+Denny Menholt Nissan,1,100.0,0.0
+Denton Mazda,1,0.0,0.0
+Desert 215 Superstore,2,100.0,0.0
+Desert European Motorcars,9,0.0,22.22222222222222
+Desoto Auto Sales,2,100.0,0.0
+Destination KIA,2,0.0,0.0
+Destination Motorcars,2,100.0,0.0
+Dewey Griffin,1,100.0,0.0
+Diablo Subaru of Walnut Creek,4,0.0,0.0
+Diamond Auto Sales,1,0.0,0.0
+Diamond Chevrolet Buick GMC,4,100.0,0.0
+Diamond Ford,4,0.0,0.0
+Diamond Hyundai Palmdale,2,100.0,0.0
+Diamond Mazda,1,0.0,0.0
+Diamond Valley Honda,8,0.0,0.0
+Dick Dyer & Associates,2,100.0,50.0
+Dick Hannah Hyundai,1,0.0,0.0
+Dick Hannah Nissan,1,0.0,100.0
+Dick Masheter Ford,1,0.0,0.0
+Dicks Hillsboro Hyundai,2,0.0,0.0
+Diehl Chrysler Dodge Jeep Ram of Salem,1,100.0,0.0
+Diehl of Robinson - Chrysler Dodge Jeep RAM,1,100.0,0.0
+Dillon's Auto Supercenter,34,0.0,20.588235294117645
+"Discovery Auto Center, LLC",3,0.0,0.0
+Discovery Auto Group,3,100.0,0.0
+Divan Auto Group,1,0.0,0.0
+Dixie Motors,1,0.0,0.0
+Dodge City of McKinney,1,0.0,0.0
+Doggett Ford,1,0.0,0.0
+Dolan Toyota,2,0.0,0.0
+Don Beyer Volvo Cars - Dulles,1,100.0,100.0
+Don Franklin Chevy Buick GMC Campbellsville,1,0.0,0.0
+Don Franklin Lexington Nissan,2,0.0,0.0
+Don Franklin Somerset Kia,3,0.0,0.0
+Don Hinds Ford,1,0.0,0.0
+Don Jacobs Toyota,2,0.0,0.0
+Don McGill Toyota of Houston,2,0.0,0.0
+Don Mealey Chevrolet,3,0.0,0.0
+Don Sitts Auto Sales,2,0.0,0.0
+Don Vance Chrysler Dodge Jeep Ram,2,0.0,0.0
+Don Vance Ford,1,0.0,0.0
+Don Wood Chevrolet Buick,1,0.0,0.0
+Donley Ford - Shelby,1,0.0,0.0
+Donohoo Chevrolet,2,0.0,0.0
+Donohooauto LLC,11,100.0,0.0
+Doral Lincoln,1,0.0,0.0
+Dorian Ford Inc,1,0.0,0.0
+Dorsch Ford,2,0.0,100.0
+Dothan Luxury Motors,1,100.0,0.0
+Dothan Volkswagen,2,0.0,0.0
+Doug Justus Auto Center,4,0.0,0.0
+Doug's Hyundai,2,0.0,0.0
+Doug's Lynnwood Mazda,1,0.0,0.0
+Douglass Mazda,1,100.0,0.0
+Downey Hyundai,10,0.0,0.0
+Downey Nissan,2,0.0,0.0
+Downtown Nashville Nissan,4,0.0,0.0
+Downtown Toyota-Subaru of Oakland,4,0.0,0.0
+Dralle Chevrolet Buick,1,0.0,0.0
+Dream Car Gurus,1,100.0,100.0
+Dream Nissan,1,0.0,0.0
+Dream Nissan Midwest,1,100.0,0.0
+Dreyer & Reinbold Inc,1,0.0,0.0
+Drive A Dream,55,0.0,3.6363636363636362
+Drive Appeal- Eden Prairie(Indoor Showroom),1,100.0,0.0
+Drive City Motors,1,0.0,0.0
+Drive Direct,2,0.0,50.0
+Drive Hubler Certified Pre-Owned,2,0.0,0.0
+Drive World,1,0.0,100.0
+DriveSimple,4,100.0,0.0
+DriveTime of Gladstone,1,100.0,0.0
+DriveTime of Modesto,1,100.0,0.0
+DriveWise,1,0.0,0.0
+Drivehub,1,0.0,0.0
+Driveline LLC,8,0.0,0.0
+Driveline Motorcars,2,0.0,0.0
+Driveline Used Cars Murrieta,9,0.0,0.0
+Driven Auto Sales,23,4.3478260869565215,4.3478260869565215
+Driven Auto of Oak Forest,13,0.0,7.6923076923076925
+Driven Auto of Waukegan,12,0.0,0.0
+Driven Pre-Owned,2,100.0,0.0
+Driver's Auto Mart,4,0.0,25.0
+Driver's Village,3,0.0,33.33333333333333
+Drum Hill Autos,4,0.0,0.0
+DuTeau Subaru,1,100.0,0.0
+Dublin Buick GMC,1,100.0,0.0
+Dublin Chevrolet Cadillac,2,0.0,0.0
+Dublin Ford Lincoln,1,100.0,0.0
+Dublin Nissan,6,100.0,50.0
+Dublin Volkswagen,1,100.0,0.0
+Duffy's Auto Brokerage,1,100.0,0.0
+Dulles Auto Outlet,5,100.0,0.0
+Dundee Ford,1,0.0,0.0
+Duval Ford,1,0.0,0.0
+Dyer & Dyer Volvo Cars,3,0.0,0.0
+Dyer Chevrolet of Fort Pierce,2,0.0,0.0
+E Motors,1,100.0,0.0
+ENVY AUTO GROUP,1,100.0,0.0
+EV MOTORS INC,3,100.0,33.33333333333333
+EZ Auto Sales,3,0.0,0.0
+Eagle Auto,2,100.0,0.0
+Earl Stewart Toyota,1,0.0,0.0
+Earnhardt Chevrolet,2,0.0,0.0
+Earnhardt Hyundai,3,0.0,0.0
+Earth Motorcars,12,0.0,16.666666666666664
+East Coast Honda,1,100.0,100.0
+East Coast Motors,1,100.0,0.0
+East Coast Toyota,1,0.0,0.0
+East County Preowned Superstore,6,0.0,0.0
+East Valley Nissan,1,0.0,0.0
+Eastbay Motorcars,5,100.0,0.0
+Easterns Automotive Group of Baltimore- Curbside and Home Delivery Available,1,0.0,0.0
+Eastlake Auto Brokers,1,0.0,0.0
+Eclipse Motor Co. LLC,1,100.0,100.0
+EcoCars Inc.,1,100.0,0.0
+Econo Auto Sales Inc,2,0.0,0.0
+Ed Carroll Motor Co.,4,0.0,0.0
+Ed Dena's Auto Center,7,100.0,0.0
+Ed Martin Budget Cars,1,100.0,0.0
+Ed Martin Honda,1,0.0,0.0
+Ed Martin Nissan,2,0.0,0.0
+Ed Martin Nissan of Fishers,1,0.0,100.0
+Ed Martin Toyota,1,0.0,0.0
+Ed Morse Alfa Romeo,1,0.0,0.0
+Ed Morse Cadillac of Tampa,1,0.0,0.0
+Ed Morse Delray Cadillac,1,0.0,0.0
+Ed Morse Ford St. Robert,1,100.0,0.0
+Ed Murdock Superstores,1,0.0,0.0
+Ed Napleton Acura Kia,4,0.0,0.0
+Ed Napleton Honda,2,0.0,0.0
+Ed Rinke Chevrolet-Buick-GMC Co.,1,0.0,0.0
+Ed Tomko Chrysler Dodge Jeep Ram,2,0.0,0.0
+Ed Voyles Honda,1,0.0,0.0
+Edd Rogers Valley Ford,1,0.0,0.0
+Eddie Tourelle's Northpark Hyundai,1,0.0,0.0
+Eddy's Chevrolet Cadillac,7,0.0,0.0
+Eddy's Chrysler Dodge Jeep RAM,3,0.0,0.0
+Eddy's Toyota of Wichita,3,0.0,0.0
+Eden Prairie Nissan,11,0.0,27.27272727272727
+Edison Nissan,1,0.0,0.0
+Edmond Hyundai,3,0.0,0.0
+Edwards Chevrolet Buick GMC Cadillac,1,0.0,0.0
+Efkamp Auto Sales Urbandale,1,100.0,0.0
+"Egglefield Bros., Inc.",1,0.0,0.0
+Eich Motor Co,1,100.0,0.0
+El Monte Nissan,1,0.0,0.0
+El Paso Honda,1,0.0,0.0
+Elco Chevrolet & Cadillac,1,0.0,0.0
+Elder Mitsubishi,1,0.0,0.0
+Elegant Auto Sales,1,100.0,0.0
+Elgin Hyundai,3,0.0,0.0
+Elgin Volkswagen,1,100.0,0.0
+Elhart Automotive Campus,1,0.0,0.0
+Elite Auto Gallery,1,0.0,0.0
+Elite Auto Sales,3,66.66666666666666,0.0
+Elite Motor Cars,2,50.0,0.0
+Elite Motors,8,0.0,0.0
+Elite Motorworks LLC,1,100.0,0.0
+Elk Grove Acura,2,100.0,0.0
+Elk Grove Audi,5,100.0,0.0
+Elk Grove Buick GMC,3,0.0,0.0
+Elk Grove Dodge Chrysler Jeep Ram,2,0.0,50.0
+Elk Grove Hyundai,4,0.0,25.0
+Elk Grove Volkswagen,3,0.0,0.0
+Elliott Bay Auto Brokers,6,0.0,16.666666666666664
+Elmwood Chrysler Dodge Jeep RAM,1,0.0,0.0
+Emich Chevrolet,3,0.0,33.33333333333333
+Emich KIA,6,0.0,16.666666666666664
+Emich VW of Boulder,4,0.0,0.0
+Emich Volkswagen,4,0.0,0.0
+Emmons Autoplex,4,0.0,0.0
+Empire Auto Collection,5,100.0,60.0
+Empire Ford of New Bedford,1,0.0,0.0
+Energy Auto Sales Bellevue,3,100.0,0.0
+Envision Chrysler Dodge Jeep RAM,2,0.0,0.0
+Envision Honda of Milpitas,1,0.0,0.0
+Envision Toyota of West Covina,1,0.0,0.0
+Eric von Schledorn Chevrolet Cadillac,1,100.0,0.0
+Eric von Schledorn Ford,1,0.0,0.0
+Eriks Chevrolet,1,0.0,0.0
+Eriksen Chevrolet,1,0.0,0.0
+Ertle Subaru,1,0.0,0.0
+Escondido Auto Super Center,2,100.0,0.0
+Essential Ford,1,100.0,0.0
+Estle Chevrolet Cadillac,2,0.0,0.0
+Eureka Chrysler Dodge Jeep Ram,1,100.0,0.0
+Euro Auto Sale,4,100.0,0.0
+Euro Motorcars Bethesda,2,0.0,50.0
+Euro Motorcars Devon,1,0.0,0.0
+Euro Motorcars Germantown,2,0.0,50.0
+Eurocar Inc.,2,100.0,100.0
+European Auto House,4,100.0,0.0
+European Automobile Company,1,100.0,0.0
+European Automotive Center,1,100.0,0.0
+European Motorcars,1,0.0,0.0
+European Motors,4,0.0,0.0
+Evans Infiniti of Dayton,1,100.0,0.0
+Evans Kia,1,0.0,0.0
+Evansville Ford,1,100.0,0.0
+Evansville Mazda,1,100.0,0.0
+"Everest Motors, Inc.",7,0.0,0.0
+Everett Buick GMC,1,0.0,0.0
+Everett Chevrolet Buick GMC Cadillac,3,0.0,0.0
+Everett Ford,2,0.0,0.0
+Evo Motors,2,0.0,0.0
+Evolution Cars,7,0.0,0.0
+"Ewald Chevrolet Buick, LLC",3,0.0,0.0
+Ewald's Venus Ford,1,0.0,0.0
+Ewing Subaru of Plano,3,0.0,66.66666666666666
+Excalibur Auto Group Inc,3,0.0,0.0
+Excellence Auto Direct,2,0.0,0.0
+Exceptional Motorcars,1,100.0,0.0
+Exclusive Auto Haus,1,100.0,0.0
+Exclusive Auto Wholesale,1,0.0,0.0
+Exclusive Automotive Group,1,0.0,0.0
+Exclusive Motor Cars,1,0.0,0.0
+Executive Auto Center,3,100.0,33.33333333333333
+Executive Kia,3,0.0,0.0
+Executive Volkswagen,1,0.0,0.0
+Exotic Car Trader,2,100.0,0.0
+Exotic Motorcars,1,100.0,0.0
+Exotic Motors,3,0.0,0.0
+Exotic Motorsports of Oklahoma,3,100.0,33.33333333333333
+Expert Motors,1,100.0,0.0
+Extreme Car Center Inc,1,100.0,0.0
+"Extreme Sportcars, Inc.",2,100.0,0.0
+FDS Luxury Auto,1,100.0,0.0
+Fafama Auto Sales,1,0.0,0.0
+Fair Oaks Chrysler Jeep Dodge RAM,1,0.0,0.0
+Fair Oaks Ford,3,0.0,0.0
+Fairfax Volkswagen,2,0.0,0.0
+Fairfax Volvo Cars,1,0.0,0.0
+Fairfield Volkswagen,1,0.0,0.0
+Fairless Motors,1,0.0,0.0
+Fairway Chevrolet Buick GMC,1,0.0,0.0
+Fairway Ford,1,0.0,0.0
+Faith's Toyota Westminster,2,0.0,0.0
+Falcone Volkswagen Subaru,1,0.0,0.0
+Falls City Motorsports,1,100.0,0.0
+Family Ford Enfield,1,0.0,0.0
+Faris Auto Mall,1,100.0,0.0
+Farrish Chrysler Dodge Jeep RAM,2,0.0,50.0
+Fastrack Auto Inc,1,100.0,0.0
+Faulkner Buick GMC Harrisburg,1,100.0,0.0
+Faulkner Chevrolet Cadillac,1,0.0,0.0
+Faulkner Nissan Mechanicsburg,2,0.0,0.0
+Faulkner Nissan of Harrisburg,1,100.0,0.0
+Faulkner Subaru of Mechanicsburg,1,0.0,100.0
+Faulkner Toyota,1,0.0,0.0
+Federico Dodge Chrysler Jeep RAM,3,0.0,0.0
+Feldman Chevrolet of Highland,2,0.0,0.0
+Feldman Chevrolet of Lansing,2,0.0,0.0
+Feldman Chevrolet of Novi,1,0.0,0.0
+Feldman Ford of Detroit,1,100.0,0.0
+Feldmann Imports,2,0.0,50.0
+Felix Chevrolet,1,100.0,0.0
+Ferguson Superstore,1,0.0,0.0
+Ferman BMW,3,0.0,33.33333333333333
+Ferman Chevrolet of Tampa,4,0.0,25.0
+Ferman Ford,6,0.0,0.0
+Fernelius Ford Lincoln,1,100.0,0.0
+"Ferrante & Son Sales & Leasing,Inc.",1,100.0,0.0
+Ferrari Maserati Alfa Romeo of Fort Lauderdale,2,0.0,50.0
+Ferrari of Austin,1,100.0,100.0
+Ferrari of Naples,1,0.0,0.0
+Ferrari of Palm Beach,2,0.0,0.0
+"Feyer Ford of Edenton, Inc.",2,0.0,0.0
+Fiesta Ford,1,0.0,0.0
+Fiesta Kia,1,0.0,0.0
+Fiesta Nissan - NM,1,0.0,0.0
+Fiesta Volkswagen,1,0.0,0.0
+Findlay Cadillac Henderson,3,0.0,0.0
+Findlay Chevrolet,3,0.0,0.0
+Findlay Chrysler Dodge Jeep Ram,1,0.0,0.0
+Findlay Honda Henderson,3,0.0,0.0
+Findlay Subaru Prescott,1,0.0,0.0
+Findlay Toyota Prescott,1,0.0,0.0
+Findlay Volkswagen,2,0.0,0.0
+Findlay Volvo Cars Las Vegas,1,100.0,100.0
+Finest Auto Wholesale,1,100.0,0.0
+Finnicum Motor Company,11,0.0,9.090909090909092
+First City Cars and Trucks,4,100.0,0.0
+First Class Auto Land,1,100.0,0.0
+First Ford,2,0.0,0.0
+First Hyundai,1,0.0,0.0
+First National Fleet & Lease,6,0.0,0.0
+Fisher Acura,1,0.0,0.0
+Fishers Imports,6,0.0,0.0
+Fishers Imports NW,3,0.0,0.0
+Fitzgerald Auto Mall Wheaton,1,0.0,100.0
+Fitzgerald Cadillac of Annapolis,3,100.0,0.0
+Fitzgerald Chevrolet Cadillac Hagerstown,2,0.0,50.0
+Fitzgerald Chevrolet Frederick,2,0.0,0.0
+Fitzgerald Chrysler Jeep Clearwater,1,100.0,0.0
+Fitzgerald Gaithersburg Hyundai,1,0.0,0.0
+Fitzgerald Hyundai Clearwater,3,0.0,0.0
+Fitzgerald Hyundai Rockville,5,0.0,0.0
+Fitzgerald Mazda of Annapolis,2,0.0,0.0
+Fitzgerald Nissan Chambersburg,2,100.0,0.0
+Fitzgerald Subaru of Gaithersburg,1,0.0,0.0
+Fitzgerald Toyota Chambersburg,2,0.0,0.0
+Fitzgerald Toyota Gaithersburg,2,0.0,0.0
+Fitzgerald Used Cars Germantown,1,0.0,0.0
+Fitzgerald Volkswagen Annapolis,2,0.0,0.0
+Five Star Ford,1,0.0,0.0
+Five Star Ford Lincoln,1,0.0,0.0
+Five Star Subaru of Grapevine,1,0.0,0.0
+Flagship Motorcars of Lynnfield,1,0.0,0.0
+Flatirons Subaru,1,0.0,0.0
+Flemington BMW,1,0.0,0.0
+Fletcher Jones Audi,1,0.0,100.0
+Fletcher Jones Imports,1,0.0,100.0
+Fletcher Jones Motorcars - Newport Beach,7,0.0,14.285714285714285
+Fletcher Jones Motorcars of Fremont,9,0.0,33.33333333333333
+Flexible Auto Mall,1,100.0,0.0
+Florida Fine Cars Miami,1,0.0,0.0
+Florida Fine Cars WPB,3,0.0,0.0
+Flow Motors of Winston-Salem,1,0.0,0.0
+Foley Motorsports,2,0.0,0.0
+Folsom Lake Ford,5,0.0,0.0
+Folsom Lake Hyundai,3,0.0,0.0
+Folsom Lake Kia,9,0.0,11.11111111111111
+Folsom Lake Toyota,2,0.0,0.0
+Fontana Motors Direct,5,0.0,0.0
+Ford & Lincoln of Lafayette,1,100.0,0.0
+Ford Country,25,0.0,12.0
+Ford Lincoln Fairfield,2,0.0,50.0
+Ford Lincoln of Morgantown,1,100.0,0.0
+Ford Road Motor Sales,1,0.0,0.0
+Ford of Boerne,2,100.0,0.0
+Ford of Clermont,2,100.0,50.0
+Ford of Cookeville,3,0.0,0.0
+Ford of Downtown LA,2,0.0,50.0
+Ford of Elizabethton,1,100.0,100.0
+Ford of Greenfield,1,0.0,0.0
+Ford of Hibbing,2,100.0,0.0
+Ford of Homewood,3,0.0,0.0
+Ford of Kendall,1,0.0,0.0
+Ford of La Plata,1,100.0,0.0
+Ford of Lake Geneva,1,0.0,0.0
+Ford of Latham,1,0.0,100.0
+Ford of Londonderry,1,0.0,0.0
+Ford of Long Beach,1,0.0,0.0
+Ford of Murfreesboro,1,0.0,100.0
+Ford of Pleasanton,1,100.0,0.0
+Ford of Upland,2,0.0,0.0
+Foreign Auto Connect,1,0.0,0.0
+Foreign Cars Italia,3,0.0,33.33333333333333
+Forest Lane Chrysler Dodge Jeep Ram,4,0.0,0.0
+"Fort Collins Dodge, Chrysler, Jeep, RAM",1,0.0,0.0
+Fort Collins Kia,1,0.0,0.0
+Fort Collins Nissan,6,100.0,0.0
+Fort Dodge Ford,1,100.0,0.0
+Fort Myers Mitsubishi,2,0.0,0.0
+Fort Walton Beach Auto Brokers,1,100.0,0.0
+Fort Wayne Kia,4,0.0,0.0
+Fort Wayne Nissan,4,0.0,0.0
+Fort Wayne Toyota,1,0.0,0.0
+Foundation Chevrolet & Cadillac,1,0.0,0.0
+Foundation Kia,4,0.0,0.0
+Fox Cadillac of Novi,1,0.0,0.0
+Fox Ford of Chicago,3,0.0,0.0
+Fox Valley Buick GMC,1,0.0,0.0
+Fox Valley Motorworks,1,100.0,0.0
+Fox Valley Volkswagen of St. Charles,4,0.0,0.0
+Frank Boucher Chevrolet Cadillac of Racine,1,0.0,0.0
+Frank Hyundai,3,0.0,0.0
+Frankfort Ford Lincoln,2,100.0,0.0
+Frankfort Toyota,1,0.0,0.0
+Franklin Chrysler Dodge Jeep Ram,2,0.0,0.0
+Fred Anderson Chevrolet Buick GMC Cadillac,1,0.0,0.0
+Fred Anderson Kia,3,0.0,0.0
+Fred Anderson Nissan,1,0.0,0.0
+Fred Anderson Toyota of Asheville,1,0.0,0.0
+Fred Anderson Toyota of Charleston,2,0.0,0.0
+Fred Anderson Toyota of Sanford,1,0.0,0.0
+Fred Beans Ford of Doylestown,2,0.0,0.0
+Fred Haas Nissan,1,0.0,100.0
+Fred Martin Nissan LLC,1,0.0,100.0
+Fred's Executive Auto,51,0.0,0.0
+Frederick Chevrolet,1,0.0,0.0
+Freedom Ford,2,0.0,0.0
+Freedom Golf Carts and Motorsports,1,100.0,0.0
+Freedom Nissan,8,0.0,75.0
+Freehold Chrysler Jeep,1,0.0,0.0
+Freehold Subaru Dodge,1,0.0,0.0
+Freeman Mazda,1,0.0,0.0
+Freeman Motor Co Salem,2,100.0,0.0
+Freeway Chevrolet,2,0.0,0.0
+Freeway Ford,1,0.0,0.0
+Freeway Toyota of Gilroy,1,0.0,0.0
+Freeway Toyota of Hanford,2,0.0,0.0
+Fremont Chrysler Dodge Jeep Ram,4,0.0,25.0
+Fremont Ford,1,0.0,0.0
+Fremont Hyundai,4,100.0,0.0
+Fremont Toyota,2,0.0,0.0
+Friendly Acura Of Middletown,1,0.0,0.0
+Friendly Chevrolet,1,0.0,0.0
+Friendly Chevrolet of Fridley,2,0.0,50.0
+Friendly Chevrolet-Buick,1,0.0,0.0
+Friendly Ford,3,0.0,0.0
+Friendship Ford,3,0.0,33.33333333333333
+Friendship Hyundai of Bristol,3,0.0,0.0
+Friesen Motorsports,1,100.0,0.0
+Frisco Chrysler Dodge Jeep Ram,2,0.0,50.0
+Fritts Ford,2,0.0,0.0
+Frontier Ford,8,0.0,12.5
+Frontier Motors,4,100.0,25.0
+Fuccillo Hyundai of Watertown,1,100.0,0.0
+Fugate Ford,3,0.0,0.0
+Fullerton Auto Group,1,0.0,0.0
+Funkys Automotive,1,0.0,0.0
+Furrst Class Cars,3,0.0,0.0
+Fury Motors Saint Paul,1,0.0,0.0
+Future Auto Sales,7,0.0,0.0
+Future Chevrolet of Sacramento,3,100.0,0.0
+Future Chrysler Dodge Jeep Ram of Concord,3,100.0,33.33333333333333
+Future Ford Lincoln of Roseville,1,100.0,0.0
+Future Ford of Concord,5,100.0,20.0
+Future Ford of Sacramento,6,0.0,0.0
+Future Nissan of Folsom,5,0.0,40.0
+Future Nissan of Roseville,9,0.0,33.33333333333333
+Future Toyota of Yuba City,5,100.0,0.0
+GMC of Vacaville,2,0.0,0.0
+GNS Motors,1,100.0,0.0
+GR Auto Gallery,2,0.0,50.0
+GR Chevrolet Buick GMC,1,0.0,0.0
+GRIFFIN MITSUBISHI,3,0.0,0.0
+GS Motors,18,100.0,0.0
+GTX Auto Group INC,1,0.0,0.0
+GW Trucks,3,100.0,0.0
+Gables Motors,1,100.0,0.0
+Gage Auto Sales,2,0.0,50.0
+Gainesville Buick GMC,2,0.0,0.0
+Gainesville Chrysler Dodge Jeep RAM,1,0.0,0.0
+Gainesville Nissan,1,100.0,100.0
+Gale Toyota,1,0.0,0.0
+Galleria BMW,1,0.0,0.0
+Galles Chevrolet,1,0.0,0.0
+Galpin Volkswagen of the San Fernando Valley,2,0.0,0.0
+Gandrud Chevrolet,5,100.0,20.0
+Ganley Chevrolet of Aurora,1,0.0,0.0
+Garber Automotive Porsche Audi,5,0.0,40.0
+Garber Chevrolet Midland,1,0.0,0.0
+Garber Chevrolet Subaru,1,0.0,0.0
+Garden Grove Kia,9,0.0,0.0
+Garden Grove Nissan,2,100.0,50.0
+Gardena Nissan,3,0.0,33.33333333333333
+Garrett Motors,1,0.0,0.0
+Garvey's Nissan,2,100.0,0.0
+Gary Crossley Ford,2,0.0,0.0
+Gary Force Honda,3,100.0,0.0
+Gary Rome Kia,5,0.0,0.0
+Gary Yeomans Ford,6,0.0,0.0
+Gary Yeomans Honda,1,0.0,0.0
+Gates Toyota,1,0.0,0.0
+Gateway Chevrolet,1,0.0,0.0
+Gateway Chevrolet Cadillac,1,0.0,0.0
+Gator Ford,1,0.0,0.0
+Gaudin Ford,2,0.0,50.0
+Gault Auto,1,0.0,0.0
+Gebhardt BMW,6,0.0,16.666666666666664
+Gem City Ford Lincoln,1,0.0,0.0
+Gene Gorman's Auto Sales,1,0.0,0.0
+Gene Latta Ford,2,0.0,0.0
+Gene Messer Chevrolet,1,0.0,0.0
+Gene Messer Ford of Amarillo,1,0.0,0.0
+Gene Messer KIA,2,0.0,0.0
+Gene Pankey Motor Company,3,100.0,33.33333333333333
+Generation Kia,1,0.0,0.0
+Genesee Valley Motors,3,0.0,0.0
+Genesis Santa Monica,1,0.0,100.0
+Genesis of Cary,1,100.0,0.0
+Genesis of Stevens Creek,1,100.0,0.0
+Gengras Volvo,1,0.0,0.0
+Gentle Carmen Auto,2,100.0,0.0
+Genuine Motor Company,1,0.0,0.0
+George Chevrolet,2,0.0,0.0
+George Gee CDA,1,0.0,0.0
+George Harte Nissan,2,0.0,50.0
+Georgesville Nissan,2,100.0,50.0
+Georgetown Auto Sales,4,100.0,0.0
+Georgia Auto Exchange,1,100.0,0.0
+Gerald Jones VW/Audi,1,100.0,0.0
+Gerald Nissan of North Aurora,2,100.0,50.0
+Germain Audi Porsche Volkswagen,3,0.0,33.33333333333333
+Germain Cadillac of Easton,4,0.0,0.0
+Germain Honda,2,0.0,0.0
+Germain Honda of Ann Arbor,1,0.0,0.0
+Germain Honda of Dublin,1,0.0,0.0
+Germain Kia of Columbus,2,0.0,0.0
+Germain Nissan of Columbus,1,0.0,0.0
+Gettel Hyundai of Lakewood,1,0.0,0.0
+Gettel Kia of Bradenton,1,0.0,0.0
+Gettel Lincoln of Charlotte County,1,0.0,0.0
+Ghent Motors Chevrolet,1,0.0,0.0
+Gilchrist Chevrolet Buick GMC,3,0.0,0.0
+Gilland Ford,1,0.0,0.0
+Gillespie Ford,1,0.0,0.0
+Gjovik Chevrolet Buick GMC,3,0.0,33.33333333333333
+Gladstone Dodge Chrysler Jeep RAM,1,0.0,0.0
+Gladstone Mitsubishi,4,0.0,0.0
+"Glassman Automotive Group, Inc",2,0.0,50.0
+Glendale Nissan,9,77.77777777777779,44.44444444444444
+Glendora Chevrolet,1,0.0,100.0
+Glenn E Thomas Dodge Chrysler Jeep,1,0.0,0.0
+Glenn Polk Autoplex CDJR,1,100.0,0.0
+Glenn's Freedom Dodge Chrysler Jeep Ram,1,0.0,0.0
+Global Auto Mall,1,0.0,0.0
+Global Motorsports Inc,2,0.0,50.0
+Glockner South Point Ford,1,0.0,0.0
+Go Luxury Auto Group,1,0.0,0.0
+Goben Cars East,1,0.0,0.0
+Goben Cars West,1,0.0,0.0
+Godspeed Motors,2,0.0,0.0
+Gojo Auto,1,0.0,0.0
+Gold Coast Motors,1,100.0,0.0
+Gold Star Motors,8,100.0,0.0
+Golden Circle Ford,4,0.0,25.0
+Golden Motors,2,100.0,0.0
+Golden Oldies Auto Sales,1,0.0,0.0
+Golden State Auto Inc.,4,100.0,0.0
+Golden State Nissan,5,0.0,20.0
+Goldies Motors,2,0.0,0.0
+Golf Mill Ford,1,0.0,0.0
+Good Guys Auto House,1,100.0,0.0
+Good Life Motors,5,100.0,0.0
+Goodwin Chevrolet Mazda,2,0.0,0.0
+Goodwin Volvo Cars,4,100.0,50.0
+Gordie Boucher Ford Lincoln of Janesville,3,0.0,0.0
+Gordie Boucher Ford Lincoln of West Bend,1,0.0,0.0
+Gordie Boucher Ford of Kenosha,1,0.0,0.0
+Gordie Boucher Nissan of Greenfield,2,0.0,50.0
+Gordon CDJR,1,0.0,0.0
+Gossett Kia Covington Pike,2,0.0,0.0
+Gossett Porsche VW,2,100.0,0.0
+Grace Auto,1,100.0,0.0
+Grace Auto Group,1,0.0,0.0
+Grainger Honda,1,0.0,0.0
+Grainger Nissan,1,0.0,0.0
+Grand Junction Volkswagen,1,100.0,0.0
+Grand Motorcars,2,0.0,0.0
+Grand Motorcars Kennesaw,7,0.0,14.285714285714285
+Grand Prix Motors,2,100.0,50.0
+Granger Chrysler Dodge Jeep Ram,1,100.0,0.0
+Granger Motors,2,0.0,50.0
+Granite Auto Sales LLC,1,0.0,0.0
+Granite Subaru,1,0.0,0.0
+Grapevine Honda,2,0.0,0.0
+Gravity Autos Atlanta,3,0.0,66.66666666666666
+Gravity Autos Marietta,5,100.0,0.0
+Gravity Autos Roswell,7,0.0,0.0
+Gravity Autos Sandy Springs,10,0.0,10.0
+Gravity Motor Cars,2,100.0,0.0
+Grayson BMW,5,0.0,20.0
+Great Lakes Autosports,1,100.0,0.0
+Great Lakes Honda,1,0.0,0.0
+Great Lakes Honda West,1,0.0,0.0
+Great Lakes Hyundai,3,0.0,0.0
+Great Neck Car Buyers & Sellers Inc.,1,0.0,0.0
+Great Neck Motorsports,1,0.0,0.0
+Greater Chicago Motors,7,0.0,14.285714285714285
+Greater Phoenix Motors,2,100.0,0.0
+Greeley Volkswagen,2,0.0,0.0
+Green Chevrolet,1,0.0,0.0
+Green Light Auto Sales,1,0.0,0.0
+Green Light Auto Wholesale,16,100.0,12.5
+Greene Ford,2,0.0,0.0
+Greensboro Chrysler Dodge Jeep Ram,1,100.0,0.0
+Greenville Auto & RV,1,100.0,0.0
+"Greenway Dodge, Chrysler, Jeep, RAM",2,0.0,0.0
+Greenway FIAT of East Orlando,1,100.0,0.0
+Greenway Ford,2,0.0,50.0
+Greenway Hyundai Orlando,1,0.0,0.0
+Greenway Kia North,2,0.0,0.0
+Greenway Kia West,1,0.0,0.0
+Greenway Kia of Franklin,2,0.0,0.0
+Greenway Kia of Hickory Hollow,1,0.0,0.0
+Greenway Kia of the Shoals,2,0.0,0.0
+Greenway Nissan Brunswick,2,0.0,50.0
+Greenway Nissan of Jacksonville,1,0.0,0.0
+Greenwood Automotive,3,0.0,0.0
+Greg Hubler Ford,1,0.0,0.0
+Greg's Automotive LLC,1,100.0,0.0
+Gregory Hyundai,13,0.0,0.0
+Gregory INFINITI,9,0.0,22.22222222222222
+Gresham Chrysler Dodge Jeep Ram,1,100.0,0.0
+Gresham Toyota,1,0.0,0.0
+Greve Chrysler Dodge Jeep RAM,1,0.0,0.0
+Gridley Country Ford,1,0.0,0.0
+Grieco Ford,1,0.0,0.0
+Grieco Ford of Delray Beach,13,0.0,15.384615384615385
+Grieco Honda,1,0.0,0.0
+Griffin Motors Company,2,0.0,0.0
+"Grinwald Ford, Inc.",1,0.0,0.0
+Groove Subaru,3,0.0,0.0
+Groove Toyota,2,0.0,0.0
+Grubbs Acura,1,0.0,0.0
+Grubbs Volvo Cars Grapevine,7,0.0,28.57142857142857
+Grubbs Volvo Cars of Central Houston,1,0.0,0.0
+Guarantee Auto Maxx,1,0.0,0.0
+Guaranteed Motor Cars,8,87.5,0.0
+Gulf Coast Auto Brokers of Sarasota,6,0.0,0.0
+Gunbarrel Import Motors,1,100.0,0.0
+Gunn Nissan,1,0.0,100.0
+Gunther Kia,1,0.0,0.0
+Gunther Pre Owned Fort Lauderdale,1,100.0,0.0
+Gunther Volkswagen Volvo Cars Daytona Beach,1,100.0,100.0
+Gunther Volkswagen Volvo Mitsubishi Coconut Creek,1,0.0,0.0
+Gurnee Volkswagen,17,0.0,0.0
+Gus Machado Ford,1,0.0,0.0
+Guy Strohmeier's Auto Center,1,100.0,0.0
+Gwinnett Place Nissan,3,0.0,0.0
+H&H Chrysler Dodge Jeep Ram Papillion,1,100.0,0.0
+H&H Kia,2,0.0,0.0
+HBi Auto,1,0.0,0.0
+HGreg Infiniti Monrovia,6,0.0,16.666666666666664
+HGreg Nissan Buena Park,7,0.0,0.0
+HGreg Nissan Delray,3,0.0,33.33333333333333
+HGreg Nissan Kendall,18,0.0,11.11111111111111
+HGreg Nissan Puente Hills,6,0.0,0.0
+HGreg.com Doral,7,0.0,0.0
+HGreg.com Lux,11,0.0,63.63636363636363
+HGreg.com Orlando,9,0.0,11.11111111111111
+HGreg.com Tampa,1,0.0,0.0
+HGreg.com West Palm Beach,13,0.0,0.0
+HM Brown and Associates,1,100.0,0.0
+Haag Ford Sales Inc,1,0.0,0.0
+Haasz Automall,1,0.0,0.0
+Habberstad BMW of Huntington,3,0.0,33.33333333333333
+Haims Motors Miami of Miami Gardens,1,100.0,0.0
+Haims Motors of Hollywood,5,0.0,0.0
+Haldeman Ford Lincoln,1,0.0,0.0
+Hall Nissan Virginia Beach,1,0.0,100.0
+Halleen Kia,1,0.0,0.0
+Halvorson Ford,1,100.0,0.0
+Hamblock Ford Lincoln,1,100.0,0.0
+Hamilton Volkswagen,1,0.0,0.0
+Hampton Ford-Hyundai,2,0.0,0.0
+Handy Toyota Inc,1,0.0,0.0
+Hanford Chrysler Dodge Jeep RAM,1,0.0,0.0
+Hanlees Davis Chrysler Dodge Jeep Ram,4,100.0,0.0
+Hanlees Davis Nissan,2,0.0,0.0
+Hanlees Davis Toyota,3,0.0,33.33333333333333
+Hanlees Fairfield Nissan,1,100.0,0.0
+Hanlees Fairfield Toyota,1,0.0,0.0
+Hanlees Hilltop Hyundai,1,100.0,0.0
+Hanlees Hilltop Nissan,4,100.0,25.0
+Hanna Imports,12,0.0,0.0
+Hanover Volkswagen,2,100.0,0.0
+Hansel BMW,1,0.0,0.0
+Hansel Volkswagen,2,0.0,0.0
+Harbor Chevrolet,11,0.0,0.0
+Harbor Hyundai,1,0.0,0.0
+Harbor Nissan,1,0.0,0.0
+Hardee Auto Sales,1,0.0,0.0
+Hardin Buick GMC,5,0.0,0.0
+Harley Swain Subaru,1,100.0,100.0
+Haron Jaguar Land Rover,2,0.0,0.0
+Harper Audi,1,0.0,0.0
+Harper Maserati,1,0.0,0.0
+Harper Motors,4,100.0,0.0
+Harris Ford Lincoln,6,0.0,0.0
+Harrison Auto Sales,1,100.0,0.0
+Harry Blackwell Preowned,1,100.0,0.0
+Hart Nissan,2,0.0,100.0
+Hart Nissan of Nova,1,0.0,0.0
+Harte Volkswagen,1,100.0,0.0
+Hartford Toyota Superstore,1,0.0,0.0
+Harvey Cadillac Lexus and Auto Outlet,1,0.0,0.0
+Hastings Automotive,1,100.0,0.0
+Haus of Imports,2,0.0,0.0
+Hawk Nissan Of St Charles,2,0.0,0.0
+Hawk Volkswagen of Joliet,1,0.0,0.0
+Hayes Auto Sales,5,0.0,0.0
+Hayes Chrysler Dodge Jeep RAM - Gainesville,1,0.0,0.0
+Hayes Family Auto,2,0.0,0.0
+Hayes Motor Company,1,0.0,0.0
+Hayward Mitsubishi,1,0.0,0.0
+Healey Brothers Ford,2,0.0,0.0
+Healey Ford Lincoln,1,0.0,0.0
+Healey Kia,1,0.0,0.0
+Healey Mitsubishi,1,100.0,0.0
+Heartland Chrysler Dodge Jeep Ram,2,0.0,0.0
+Heiser Ford Lincoln,1,0.0,0.0
+Heiser Toyota,1,0.0,0.0
+Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,1,0.0,0.0
+Heller Ford,9,0.0,11.11111111111111
+Heller Motors,5,0.0,0.0
+HelpMeSellMyRide,1,100.0,0.0
+Hemet Chrysler Dodge Jeep Ram,1,0.0,0.0
+Henderson Chevrolet,1,0.0,0.0
+Henderson Chevrolet Buick GMC,1,0.0,0.0
+Hendersonville Auto Brokers,1,0.0,0.0
+Hendrick Chevrolet Hoover,1,0.0,0.0
+Hendrick Chevrolet Shawnee Mission,1,0.0,0.0
+Hendrick Honda,1,0.0,0.0
+Hendrick Honda Woodbridge,1,0.0,0.0
+Hendrick Honda of Charleston,1,0.0,0.0
+Hendrick Kia of Concord,1,0.0,0.0
+Hendrick Motors of Charlotte,1,0.0,0.0
+Hendrick Southpoint Auto Mall,5,0.0,20.0
+Hendrick Volkswagen Frisco,1,0.0,0.0
+Henna Chevrolet,2,0.0,50.0
+Hennessy Ford Lincoln Atlanta,3,0.0,33.33333333333333
+Hennessy Porsche,6,0.0,50.0
+Henry Brown Buick GMC,1,0.0,0.0
+Henry Motors,1,100.0,100.0
+Herb Chambers BMW MINI of Boston,1,0.0,100.0
+Herb Chambers Honda of Seekonk,1,0.0,0.0
+Herb Chambers Porsche,5,0.0,40.0
+Herb Connolly Chevrolet,3,0.0,0.0
+Herb Gordon Subaru,2,0.0,50.0
+Heritage Chevrolet Buick Owings Mills,2,0.0,0.0
+Heritage Ford,1,0.0,0.0
+Heritage Mazda Bel Air,1,0.0,0.0
+Heritage Mazda Towson,1,0.0,0.0
+Heritage Toyota CDJR of Harrisburg,1,0.0,0.0
+Heritage Toyota Catonsville,4,0.0,0.0
+Heritage Toyota Owings Mills,1,0.0,100.0
+Heritage Volkswagen,1,0.0,0.0
+Heritage Volkswagen Catonsville,1,0.0,0.0
+Heritage Volkswagen Parkville,1,0.0,0.0
+Herlong Ford,2,0.0,0.0
+Hermes Auto Sales Inc,1,0.0,0.0
+Herrin-Gear INFINITI,1,0.0,0.0
+Herson's Kia,1,0.0,0.0
+Hertrich Buick GMC of Salisbury,1,0.0,0.0
+Hertrich Ford of Easton,1,0.0,0.0
+Hertrich Ford of Elkton,1,100.0,0.0
+Hertrich Honda Kia of Easton,2,100.0,0.0
+Hertrich Nissan of Newark,1,100.0,0.0
+Hertz Car Sales Houston South,1,100.0,0.0
+Hertz Car Sales Jacksonville,1,100.0,0.0
+Hertz Car Sales Norwalk,1,100.0,0.0
+Hertz Car Sales Portland,2,100.0,0.0
+Hertz Car Sales Smithtown,1,100.0,0.0
+Hertz Car Sales Springfield,1,100.0,0.0
+Hertz Car Sales Ventura,1,100.0,0.0
+Herzog-Meier Volkswagen Volvo Mazda,6,0.0,33.33333333333333
+Heuberger Subaru,6,0.0,16.666666666666664
+Hewlett Volkswagen,2,100.0,0.0
+Hi Line Motors,3,0.0,0.0
+Hi Lo Auto Sales of Ellicott City,1,0.0,0.0
+Hi Tech Luxury Imports,1,0.0,0.0
+High Line Auto Sales,2,100.0,0.0
+High Quality Auto Group,2,100.0,0.0
+Highline Auto Sales,41,0.0,4.878048780487805
+Highline Motor Cars,7,0.0,0.0
+Hiley Automotive Group,5,100.0,60.0
+Hiley Mazda VW of Arlington,2,0.0,0.0
+Hill Country Honda,2,0.0,0.0
+Hiller Ford,5,0.0,20.0
+Hillsboro Auto Mart Inc,1,0.0,0.0
+Hillsboro Ford TX,1,0.0,0.0
+Hillside Toyota,1,0.0,100.0
+Hilltop Chrysler Jeep Dodge RAM,1,100.0,0.0
+Hillview Motors,1,100.0,0.0
+Hillyer's Mid-City Ford,1,100.0,0.0
+Hilton Head Lexus,2,0.0,0.0
+Hines Park Lincoln,2,0.0,0.0
+Hoblit Chrysler Dodge Jeep RAM,1,0.0,100.0
+Hoblit Motors Ford,2,100.0,0.0
+Hoehn Acura Carlsbad,1,100.0,100.0
+Hoffman Audi of East Hartford,1,0.0,0.0
+Hoffman Ford,2,0.0,0.0
+Hoffman Ford Lincoln,2,0.0,0.0
+Hoffman Nissan,2,100.0,0.0
+Hoffman Porsche,4,0.0,50.0
+Holiday Ford,1,0.0,0.0
+Hollingsworth Auto Sales of Raleigh,1,0.0,0.0
+Hollywood Chrysler-Jeep,1,0.0,100.0
+Hollywood Kia,2,0.0,0.0
+Holman Honda of Ft. Lauderdale,2,0.0,0.0
+Holman Motorcars,1,0.0,100.0
+Holz Motors,1,0.0,0.0
+Home Motors,1,0.0,0.0
+HomeTown Auto Exchange LLC,1,100.0,0.0
+Homer Skelton Chrysler Dodge Jeep RAM,1,0.0,0.0
+Homer Skelton Ford,1,0.0,0.0
+Hometown Auto Mart,2,100.0,0.0
+Honda Auto Center of Bellevue,3,0.0,0.0
+Honda Marysville,4,0.0,50.0
+Honda West,2,0.0,0.0
+Honda World,1,0.0,0.0
+Honda World Westminster,1,0.0,0.0
+Honda of Ames,3,0.0,0.0
+Honda of Bellingham,1,0.0,100.0
+Honda of Cleveland Heights,1,0.0,0.0
+Honda of Denton,1,0.0,100.0
+Honda of Downtown Chicago,1,0.0,0.0
+Honda of El Cerrito,1,0.0,0.0
+Honda of Fishers,1,0.0,0.0
+Honda of Kirkland,1,0.0,0.0
+Honda of Lake City,2,0.0,0.0
+Honda of Lincoln,1,0.0,0.0
+Honda of Lisle,1,0.0,0.0
+Honda of Murfreesboro,1,0.0,0.0
+Honda of Muskogee,1,100.0,0.0
+Honda of Ocala,1,0.0,0.0
+Honda of Pasadena,1,0.0,0.0
+Honda of Seattle,1,0.0,100.0
+Honda of Serramonte,4,0.0,25.0
+Honda of Stevens Creek,2,0.0,0.0
+Honda on Grand,1,0.0,0.0
+HoneyCar - Charlottesville,1,100.0,0.0
+HoneyCar - Tampa,1,100.0,0.0
+Honolulu Buick GMC Cadillac,1,0.0,0.0
+Hopkins Ford of Elgin,4,0.0,0.0
+Horn Ford,1,100.0,0.0
+Horne Motors of Mesa,1,0.0,0.0
+Hoselton AutoMall,5,0.0,0.0
+House of Cars Arizona,2,100.0,0.0
+House of Imports,12,0.0,8.333333333333332
+House of Kars,1,0.0,0.0
+Houston Auto Preowned,1,0.0,0.0
+Houston Auto Sales,5,100.0,20.0
+Houston Wholesale,2,100.0,0.0
+"Howard Orloff Jaguar, Volvo Cars, Land Rover",4,0.0,75.0
+Howdy Honda,2,0.0,0.0
+Huber's Auto Group,2,100.0,0.0
+Hubert Vester Chevrolet,1,0.0,0.0
+Hubler Honda,1,0.0,0.0
+Hudson Auto Center Of Poulsbo,1,100.0,0.0
+Hudson Autoworks LLC,1,100.0,0.0
+Hudson Cadillac Buick GMC,1,0.0,0.0
+Hudson Ford,1,0.0,0.0
+Hudson Nissan,3,0.0,0.0
+Hudson Nissan on Savannah Hwy,2,0.0,0.0
+Huffines Chevrolet Lewisville,1,0.0,0.0
+Huffines Hyundai McKinney,2,0.0,0.0
+Huffines Kia Corinth,3,0.0,0.0
+Hugh White Honda,2,0.0,50.0
+Humes Chrysler Jeep Dodge RAM,1,0.0,0.0
+Hunt Ford Chrysler Dodge Jeep,1,100.0,0.0
+Huntersville Ford,1,0.0,0.0
+Huntington Beach Chrysler Dodge Jeep Ram,3,0.0,0.0
+Huntington Beach Hyundai,13,0.0,7.6923076923076925
+Huntley Ford,33,0.0,9.090909090909092
+Huntsville Toyota,1,100.0,0.0
+Huston Cadillac Buick GMC,1,0.0,0.0
+Hutchinson Buick GMC Cadillac,2,0.0,0.0
+Hutchinson Kia of Macon,1,0.0,0.0
+Hybrid and Electric Car Sales LLC,3,100.0,33.33333333333333
+Hyman Bros Automobiles,1,0.0,0.0
+Hyman Bros Mitsubishi,1,100.0,0.0
+Hyman Bros. Nissan/Kia,1,0.0,0.0
+HyperCars,2,100.0,0.0
+Hyundai Carson,5,0.0,20.0
+Hyundai Escondido,4,0.0,0.0
+Hyundai Inland Empire,3,0.0,0.0
+Hyundai Of Keene,1,100.0,0.0
+Hyundai of 110,2,0.0,50.0
+Hyundai of Bedford,6,0.0,0.0
+Hyundai of Chantilly,1,0.0,0.0
+Hyundai of Cookeville,1,0.0,0.0
+Hyundai of Cool Springs,2,0.0,0.0
+Hyundai of Fort Myers,1,0.0,0.0
+Hyundai of Kirkland,6,0.0,0.0
+Hyundai of New Port Richey,1,0.0,0.0
+Hyundai of Newport,1,0.0,0.0
+Hyundai of Silsbee,2,0.0,0.0
+I-10 Premier Auto Sales,2,0.0,0.0
+I-90 Nissan,2,0.0,50.0
+I-95 Nissan,19,0.0,0.0
+I20 Chrysler Dodge Jeep Ram,1,100.0,0.0
+IAD Auto,1,0.0,100.0
+ICON Exotics,1,100.0,0.0
+IE Auto Exchange,2,0.0,0.0
+INFINITI OF DENVER,1,0.0,0.0
+INFINITI ROSEVILLE,3,0.0,0.0
+INFINITI Stuart,3,0.0,0.0
+INFINITI of Bellevue,6,0.0,50.0
+INFINITI of Chattanooga,1,0.0,100.0
+INFINITI of Clarendon Hills,5,0.0,20.0
+INFINITI of Englewood,3,0.0,33.33333333333333
+INFINITI of Grand Rapids,1,0.0,0.0
+INFINITI of Hoffman Estates,2,0.0,0.0
+INFINITI of Kansas City,1,0.0,0.0
+INFINITI of Lynnwood,1,0.0,0.0
+INFINITI of Mission Viejo,1,0.0,0.0
+INFINITI of Naperville,8,0.0,0.0
+INFINITI of Orland Park A Zeigler Auto Group Company,2,0.0,50.0
+INFINITI of San Antonio,1,0.0,0.0
+INFINITI of San Jose,1,0.0,100.0
+INFINITI of Scottsdale,1,0.0,0.0
+INFINITI of Suitland,1,0.0,0.0
+INFINITI of Tacoma,8,0.0,0.0
+INFINITI of Valencia,1,0.0,0.0
+Icon Auto Group LLC,1,100.0,0.0
+Iconic Auto Exchange,1,100.0,100.0
+Iconic Coach,1,100.0,0.0
+Ide Volkswagen,1,0.0,0.0
+Ideal Cars,1,0.0,0.0
+Ideal Hyundai of Frederick,2,0.0,0.0
+Illinois Motors,2,0.0,50.0
+Ilusso,3,100.0,100.0
+Ilusso Miami,9,100.0,33.33333333333333
+Image Auto Sales,3,0.0,0.0
+Imperial Auto LLC,4,0.0,0.0
+Imperial Auto Sales,1,100.0,0.0
+Imperial Automotives,1,100.0,0.0
+Imperial Chevrolet,2,0.0,0.0
+Imperial Ford,12,0.0,0.0
+Imperial Hyundai,2,0.0,0.0
+Imperial Toyota,3,0.0,0.0
+Impex Auto Sales,24,0.0,4.166666666666666
+Impex Chevrolet GMC Buick,12,0.0,0.0
+Import Auto Sales,13,100.0,0.0
+Import Exchange Inc.,1,100.0,0.0
+Import Masters,18,0.0,0.0
+Incredible Auto Sales,2,0.0,0.0
+Indy Auto Man,6,0.0,0.0
+Indy Wholesale Direct,1,0.0,100.0
+Infinite Routes Auto,1,100.0,0.0
+Infiniti of Clearwater,10,0.0,0.0
+Ingersoll Auto of Danbury,2,0.0,0.0
+Ingram Park Chrysler Jeep Dodge RAM,1,0.0,0.0
+Ingram Park Nissan,1,100.0,0.0
+Inside Car Guys LLC,1,100.0,0.0
+Inspired Auto Sales,1,100.0,0.0
+Integrity Auto Sales,4,100.0,0.0
+Integrity Ford of Bellefontaine,1,100.0,0.0
+Inter Auto,1,0.0,0.0
+International Autos,1,0.0,0.0
+"International Autos Jaguar, Land Rover, Subaru, Volvo Cars",2,0.0,0.0
+International Motor,1,100.0,0.0
+International Motor Group,2,0.0,0.0
+Interstate Ford,2,0.0,0.0
+Inver Grove Auto Sales,1,100.0,0.0
+Inver Grove Honda,3,0.0,0.0
+Inver Grove Toyota,2,0.0,0.0
+Ira Ford Auburn,1,0.0,0.0
+Ira Ford Saco,1,0.0,0.0
+Ira Toyota Saco,2,0.0,0.0
+Ira Toyota of Danvers,3,0.0,33.33333333333333
+Ira Toyota of Manchester,2,0.0,0.0
+Irvine Alfa Romeo,23,0.0,17.391304347826086
+Irwin Automotive Group,1,0.0,0.0
+Island Honda Maui,1,0.0,0.0
+Island Kia,1,0.0,0.0
+Isringhausen Imports,2,0.0,0.0
+J & G Auto Sales,1,0.0,0.0
+J & M Automotive,3,0.0,0.0
+J & S Autohaus,51,0.0,23.52941176470588
+J C L Automotive,10,100.0,0.0
+J Star Chrysler Dodge Jeep Ram of Anaheim Hills,5,0.0,20.0
+J&A Auto Sales,2,100.0,0.0
+J&L Auto Sales,2,100.0,50.0
+J&S Autohaus III,3,0.0,33.33333333333333
+J&S Autohaus Six,1,0.0,0.0
+J-Rus Inc.,2,100.0,0.0
+J.B.A. Chevrolet,1,0.0,0.0
+"JBA Motors, LLC",4,100.0,25.0
+JH Barkau & Sons Auto Sales,1,0.0,0.0
+JKB Auto Sales (Harrisonville),1,0.0,0.0
+JLR San Jose LLC,1,100.0,0.0
+JT Auto Group,5,0.0,0.0
+JTs Dodgeland of Columbia Dodge RAM,1,0.0,0.0
+JVB Automotive,1,100.0,0.0
+Jack Carroll's Skagit Hyundai,1,100.0,0.0
+Jack Daniels Audi of Paramus,1,0.0,100.0
+Jack Daniels Kia,2,0.0,0.0
+Jack Daniels Volkswagen,1,0.0,0.0
+Jack Giambalvo Hyundai,1,0.0,0.0
+Jack Giambalvo Hyundai of Hanover,2,100.0,0.0
+Jack Ingram Motors,3,100.0,33.33333333333333
+Jack Kain Ford,1,0.0,100.0
+Jack Powell Chrysler Jeep Dodge RAM,1,0.0,0.0
+Jack Schmitt Chevrolet Wood River,2,100.0,0.0
+Jack Schmitt Chevrolet of OFallon,2,0.0,0.0
+Jackie Cooper Imports,7,0.0,28.57142857142857
+Jackie Cooper Nissan,1,0.0,0.0
+Jackson Ford,1,0.0,0.0
+Jackson Kia,4,0.0,25.0
+Jackson Nissan,3,0.0,0.0
+Jacksonville Chrysler Dodge Jeep RAM Fiat,1,0.0,0.0
+Jacksonville Kia,1,100.0,0.0
+Jacky Jones Ford of Sweetwater,1,0.0,0.0
+Jacky Jones Sales & Service,1,100.0,100.0
+Jacobs Mitsubishi,5,0.0,0.0
+Jacobs Mitsubishi Wesley Chapel,1,100.0,0.0
+Jaffarian Volvo Cars,2,0.0,50.0
+Jaguar Albany,1,0.0,0.0
+Jaguar Lakewood,1,0.0,0.0
+Jaguar Land Rover Bellevue,3,0.0,33.33333333333333
+Jaguar Land Rover Bethesda,4,0.0,0.0
+Jaguar Land Rover Buckhead,2,0.0,0.0
+Jaguar Land Rover Chantilly,2,0.0,0.0
+Jaguar Land Rover Dallas,1,0.0,100.0
+Jaguar Land Rover Fairfield,1,100.0,0.0
+Jaguar Land Rover Frisco,1,0.0,0.0
+Jaguar Land Rover Glen Cove,1,0.0,0.0
+Jaguar Land Rover Henderson,2,100.0,0.0
+Jaguar Land Rover Hinsdale,1,0.0,0.0
+Jaguar Land Rover Huntington,1,0.0,0.0
+Jaguar Land Rover Minneapolis,6,0.0,16.666666666666664
+Jaguar Land Rover Nashville,1,100.0,0.0
+Jaguar Land Rover Norwood,2,0.0,50.0
+Jaguar Land Rover Porsche Volvo Cars of Greenville,1,0.0,0.0
+Jaguar Land Rover Portland,4,100.0,0.0
+Jaguar Land Rover Riverside,3,100.0,33.33333333333333
+Jaguar Land Rover Sarasota,4,0.0,50.0
+Jaguar Land Rover Seattle,5,0.0,40.0
+Jaguar Land Rover South Bay,2,0.0,0.0
+Jaguar Land Rover St. Petersburg,1,0.0,0.0
+Jaguar Land Rover Treasure Coast,1,0.0,0.0
+Jaguar Land Rover Troy,2,0.0,50.0
+Jaguar Land Rover Tulsa,1,0.0,0.0
+Jaguar Land Rover Tysons Corner,2,0.0,50.0
+Jaguar Land Rover Volvo of Monterey,1,100.0,0.0
+Jaguar Land Rover West Chester,2,100.0,0.0
+Jaguar Land Rover West Houston,1,0.0,0.0
+Jaguar Land Rover Woodland Hills,2,0.0,0.0
+Jaguar Land Rover of West Columbia,1,0.0,0.0
+Jaguar Palm Beach,2,0.0,0.0
+"Jaguar, Land Rover of Wichita",1,100.0,0.0
+"Jaguar, Land Rover, Volvo Cars of Indianapolis",3,0.0,66.66666666666666
+Jake Kaplan's Jaguar Land Rover Warwick,2,0.0,0.0
+Jake Sweeney Chevrolet,1,0.0,0.0
+Jake Sweeney Kia Fiat,5,0.0,0.0
+Jamaica 26 Motors,1,0.0,0.0
+James Collins Ford,1,0.0,0.0
+Jamie Hathcock Auto Group,1,100.0,0.0
+Janesville Kia,1,0.0,0.0
+Janesville Nissan,1,0.0,0.0
+Jannell Ford of Hanover,1,0.0,0.0
+Japanese Auto Gallery,1,100.0,0.0
+Jarrett Gordon Ford of Davenport,1,0.0,0.0
+Jarrett Scott Ford,2,0.0,0.0
+Jason Lewis Chrysler Dodge Jeep RAM,1,0.0,0.0
+Jax Exports Inc,3,0.0,0.0
+Jeep Chrysler Dodge RAM of Ontario,2,0.0,0.0
+Jeff Belzer's Lakeville,5,0.0,20.0
+Jeff Belzer's New Prague,1,0.0,0.0
+Jeff Drennen Ford,1,0.0,0.0
+Jeff England Motor Company,1,100.0,0.0
+Jeff Schmitt Nissan,4,0.0,0.0
+Jeff Wyler Columbus Auto Mall,2,0.0,0.0
+Jeff Wyler Fairfield,1,0.0,0.0
+Jeff Wyler Honda Auto Mall,1,0.0,0.0
+Jeff Wyler Honda in Florence,1,0.0,0.0
+Jeff Wyler Nissan of Cincinnati,3,0.0,0.0
+Jeff Wyler Nissan of Louisville,3,0.0,0.0
+Jeff Wyler Springfield Chrysler Dodge Jeep RAM,1,100.0,100.0
+Jeff Wyler Superior Honda,1,0.0,0.0
+Jeff Wyler Superior Kia,1,0.0,0.0
+Jenkins Kia of Crystal River,2,0.0,0.0
+Jennifer's Auto Sales & Service,2,100.0,0.0
+Jerry Duncan Ford Lincoln,1,100.0,0.0
+Jerry Haggerty Chevrolet,2,0.0,50.0
+Jerry Hunt Supercenter,2,0.0,0.0
+Jerry Seiner South Jordan,2,0.0,0.0
+Jerry Ulm Dodge Chrysler RAM,4,0.0,50.0
+Jerry's Chevrolet,2,0.0,0.0
+Jerry's Leesburg Chevrolet,1,0.0,0.0
+Jerry's Leesburg Ford,3,0.0,0.0
+Jerry's Toyota,1,0.0,0.0
+Jersey Car Direct,1,0.0,0.0
+Jersey City Autoland,1,100.0,0.0
+Jessup Auto Plaza,3,0.0,0.0
+Jet Car Automotive,1,0.0,0.0
+Jet's Auto Sales,1,0.0,0.0
+Jidd Motors Mitsubishi,9,0.0,0.0
+Jim Burke Ford,2,0.0,0.0
+Jim Butler Centralia,1,0.0,0.0
+Jim Butler Chevrolet,12,0.0,8.333333333333332
+Jim Butler Kia,3,0.0,33.33333333333333
+Jim Butler Maserati,2,100.0,50.0
+Jim Clark Chevrolet,1,0.0,0.0
+Jim Cogdill Chrysler Dodge Jeep RAM,1,0.0,0.0
+Jim Coleman INFINITI,2,0.0,0.0
+Jim Coleman Nissan,1,0.0,0.0
+Jim Coleman Toyota,1,0.0,0.0
+Jim Ellis Buick GMC,1,0.0,0.0
+Jim Ellis Cadillac,3,0.0,0.0
+Jim Ellis Chevrolet of Atlanta,5,0.0,40.0
+Jim Ellis Ford Sandy Springs,3,0.0,0.0
+Jim Ellis Hyundai,1,0.0,0.0
+Jim Ellis Volkswagen of Kennesaw,1,0.0,0.0
+Jim Falk Motors,1,0.0,0.0
+Jim Glover Chevrolet on the River,2,0.0,0.0
+Jim Glover Dodge Chrysler Jeep Ram Fiat,2,0.0,0.0
+Jim Hudson Cadillac,4,0.0,0.0
+Jim Hudson Chevrolet,1,0.0,0.0
+Jim Marsh Kia,1,0.0,0.0
+Jim McKay Chevrolet,2,0.0,0.0
+Jim ONeal Ford,3,0.0,0.0
+Jim Price Chevrolet Hyundai,3,0.0,0.0
+Jim Riehl's Friendly Ford Inc.,1,0.0,0.0
+Jim Shorkey Kia of Gainesville,2,100.0,0.0
+Jim Shorkey Nissan of Gainesville,1,100.0,0.0
+Jim Shorkey North Hills Mitsubishi,1,0.0,0.0
+Jim Wernig Chevrolet,1,100.0,0.0
+Jim Xamis Ford Lincoln,1,0.0,0.0
+Jim's Auto Sales,5,100.0,0.0
+Jimmy Gray Chevrolet,2,0.0,0.0
+Jimmy Vasser Chevrolet of Napa,5,100.0,0.0
+Jimmy Vasser Toyota of Napa,1,0.0,0.0
+Jireh Motors,1,100.0,0.0
+Jmac Import & Export,2,100.0,100.0
+Joe Machens Hyundai,1,0.0,0.0
+Joe Machens Volkswagen,2,0.0,0.0
+Joe Myers Mazda,1,0.0,0.0
+Joe Ricci Automotive,1,0.0,0.0
+Joey Accardi Chrysler Dodge Jeep Ram,2,0.0,0.0
+John Deery Motors,1,100.0,0.0
+John Elway Cadillac,1,0.0,100.0
+John Jones Auto Group Corydon,1,0.0,0.0
+John Jones Auto Group Scottsburg,1,0.0,0.0
+John Kennedy Ford Feasterville,1,100.0,0.0
+John Kennedy Ford Jenkintown,1,100.0,0.0
+John Megel Chevrolet,1,0.0,0.0
+John Roberts Nissan,1,0.0,0.0
+Johnson Ford,2,100.0,50.0
+Johnson Lexus of Durham,6,0.0,0.0
+Johnson Maserati Alfa Romeo of Cary,1,100.0,0.0
+Johnson Subaru of Cary,1,0.0,0.0
+Johnson Volvo Cars Durham,2,0.0,100.0
+Jon Hall Chevrolet,1,0.0,0.0
+Jones Bel Air Nissan,1,100.0,100.0
+Jones Ford,1,0.0,0.0
+Jones Ford Buckeye,2,0.0,0.0
+Jones Preowned Superstore,3,0.0,0.0
+Jordan Motorcars,2,100.0,0.0
+Joseph Buick GMC Trucks,1,100.0,0.0
+Joseph VW of Cincinnati,1,0.0,0.0
+Joshua Motor Car Co Inc,1,0.0,0.0
+Journey West Motors Inc.,1,100.0,0.0
+Junction Auto Sales,4,100.0,0.0
+Junge Cedar Rapids,1,100.0,100.0
+Just 4 Fun Motors,2,100.0,0.0
+K 1 Motors,1,100.0,100.0
+KC Summers Nissan Toyota Buick GMC,1,100.0,0.0
+KDK Mitsubishi,1,0.0,0.0
+KEER Automotive,1,100.0,0.0
+KIA AutoSport of Pensacola,1,0.0,0.0
+KIA of Port Charlotte,1,0.0,0.0
+KIA of South Austin,6,0.0,0.0
+KNB Motors Inc,2,0.0,0.0
+Kalidy Kia,14,0.0,7.142857142857142
+Kalispell Toyota,1,0.0,0.0
+KarGenie,1,0.0,0.0
+Kareem Auto Sales,3,0.0,0.0
+Karl Chevrolet,6,0.0,0.0
+Karl Chevrolet of Stuart,1,0.0,0.0
+Karl Flammer Ford,2,0.0,0.0
+Karl Malone Ford Park City,1,100.0,0.0
+Karma Fuquay,5,0.0,0.0
+Karp Kia,1,0.0,100.0
+Karplus Warehouse Inc.,15,0.0,0.0
+Karsten & Moore Auto Group,4,100.0,0.0
+Kayser Chrysler Center,1,0.0,0.0
+Kayser Ford Lincoln,1,0.0,100.0
+Kearns Motor Car Co.,1,0.0,0.0
+Kearny Mesa Kia,2,0.0,0.0
+Keast Auto Center,1,100.0,0.0
+Keffer Mazda,1,0.0,0.0
+Keller Bros. Dodge RAM,1,100.0,0.0
+Keller Ford Lincoln,1,0.0,0.0
+Keller Motors,1,100.0,0.0
+Kelly Ford,1,0.0,0.0
+Kelly Nissan of Woburn,4,0.0,25.0
+Ken Fowler Subaru,10,0.0,10.0
+Ken Ganley Chrysler Dodge Jeep Ram Hyundai Norwalk,1,0.0,0.0
+Ken Ganley Nissan Mayfield,2,0.0,50.0
+Ken Ganley Volkswagen Bedford,1,0.0,0.0
+Ken Garff Hyundai Southtowne,2,0.0,0.0
+Ken Garff Kia Bell Road,3,0.0,0.0
+Ken Garff Nissan Riverdale,1,0.0,0.0
+Ken Garff St. George Ford,3,0.0,66.66666666666666
+Ken Garff Volvo Cars,1,100.0,100.0
+Ken Grody Ford,1,0.0,0.0
+Ken Houtz Chevrolet Buick,1,100.0,0.0
+Ken Pollock Volvo Cars,2,0.0,50.0
+Ken Stoepel Ford,1,0.0,0.0
+Ken Vance Motors,2,0.0,0.0
+Kendall Ford Lincoln of Anchorage,1,0.0,0.0
+Kendall Ford of Bend,2,100.0,0.0
+Kendall Ford of Eugene,1,0.0,100.0
+Kendall Ford of Meridian,3,0.0,0.0
+Kendall Ford of Wasilla,1,0.0,0.0
+Kendall GM of Nampa,2,100.0,50.0
+Kendall Honda,1,0.0,0.0
+Kendall Lexus of Eugene,1,0.0,0.0
+Kendall Toyota of Bend,1,0.0,0.0
+Kendall Toyota of Eugene,2,0.0,0.0
+Kendall Value Lot,1,100.0,0.0
+Kendall Volkswagen of Bend,1,0.0,0.0
+Kenny Kent Chevrolet,2,0.0,0.0
+Kenny Ross Mazda,1,0.0,0.0
+Kenosha Nissan,3,0.0,0.0
+Kenosha Toyota,1,0.0,0.0
+Kent County Motors,1,0.0,0.0
+Kentson Car Company,1,0.0,0.0
+Kentson Car Company American Fork,3,0.0,66.66666666666666
+Key Auto Center of York,9,0.0,0.0
+Key Auto Denver,1,100.0,0.0
+Key Chevrolet of White River,2,100.0,0.0
+Key Chrysler Dodge Jeep RAM of Marianna,2,100.0,0.0
+Key Ford of Exeter,3,0.0,0.0
+Key Ford of Hazleton,3,0.0,0.0
+Key Ford of Rockland,2,0.0,0.0
+Key Hyundai of Salem,1,0.0,0.0
+Keyes Chevrolet,4,0.0,0.0
+Keyes Hyundai of Mission Hills,2,0.0,0.0
+Keyser & Miller Ford,1,0.0,0.0
+Keywood Motors,2,0.0,0.0
+Kia Country,1,0.0,0.0
+Kia Delray,1,0.0,0.0
+Kia Of Greer,2,0.0,0.0
+Kia Of Lagrange,1,0.0,0.0
+Kia Of Mccomb,2,100.0,0.0
+Kia Store Rainbow City-Gadsden,1,0.0,0.0
+Kia of Attleboro,2,0.0,0.0
+Kia of Auburn,2,0.0,0.0
+Kia of Cape Coral,2,0.0,0.0
+Kia of Carson,3,0.0,0.0
+Kia of Cerritos,1,0.0,0.0
+Kia of Clermont,2,0.0,0.0
+Kia of Coatesville,1,0.0,0.0
+Kia of Everett,6,0.0,0.0
+Kia of Frisco,2,0.0,0.0
+Kia of Irvine,6,0.0,0.0
+Kia of Jackson,1,0.0,0.0
+Kia of Manhattan,1,100.0,0.0
+Kia of Muncie,1,0.0,0.0
+Kia of Orange Park,1,0.0,0.0
+Kia of Puyallup,1,0.0,0.0
+Kia of Riverdale,2,0.0,50.0
+Kia of Round Rock,1,0.0,0.0
+Kia of Vacaville,2,0.0,0.0
+Kia of Wesley Chapel,2,0.0,0.0
+Kia of West Chester,1,0.0,0.0
+Kian Motors,6,0.0,16.666666666666664
+Kimberly Car City,1,0.0,0.0
+King Chevrolet Buick GMC,2,0.0,0.0
+King Hyundai of Deerfield Beach,1,0.0,0.0
+King Kia,1,0.0,0.0
+King Kia Of Laurel,1,100.0,0.0
+King Volkswagen,3,0.0,0.0
+King's Colonial Ford,1,100.0,0.0
+Kings Toyota,2,0.0,0.0
+Kingstowne Motorcars,4,0.0,0.0
+Klaben Motor Sales,1,100.0,0.0
+Klein Ford,1,0.0,0.0
+Klick Lewis Chevrolet,5,0.0,0.0
+Knauz Auto Park,14,0.0,64.28571428571429
+Koch 33 Volkswagen,1,0.0,0.0
+Koenig Subaru,2,0.0,0.0
+Koeppel Ford,1,0.0,0.0
+Koeppel Hyundai,1,100.0,0.0
+Kolar Imported,1,0.0,0.0
+Kool Chevrolet,6,0.0,16.666666666666664
+Koons Annapolis Toyota,2,0.0,50.0
+Koons Arlington Toyota,2,0.0,0.0
+Koons Chevrolet of White Marsh,1,0.0,0.0
+Koons Clarksville Chevy Buick GMC,5,0.0,20.0
+Koons Kia,3,0.0,0.0
+Koons Kia Owings Mills,4,0.0,75.0
+Koons Lexus of Wilmington,2,0.0,0.0
+Koons Outlet,1,0.0,0.0
+Koons Sterling Ford,5,0.0,20.0
+Koons Tysons Chrysler Dodge Jeep RAM,1,0.0,100.0
+Koons Tysons Toyota,3,0.0,0.0
+Koons Woodbridge Buick GMC,1,0.0,0.0
+Koons Woodbridge Ford,4,0.0,0.0
+Koons Woodbridge Hyundai,12,0.0,8.333333333333332
+Koons of Falls Church Ford,6,0.0,16.666666666666664
+Koons of Tysons Chevrolet Buick GMC,7,0.0,14.285714285714285
+Krietz Auto Sales,1,0.0,0.0
+Kuhn Volkswagen,1,0.0,0.0
+Kunes Chevrolet GMC of Elkhorn,1,0.0,0.0
+Kunes Chrysler Dodge Jeep Ram of Elkhorn,1,0.0,0.0
+Kunes Ford of Antioch,1,0.0,0.0
+Kunes Ford of Delavan,1,0.0,0.0
+Kunes Ford of East Moline,1,0.0,0.0
+Kunes Honda of Sycamore,1,0.0,100.0
+Kunes Mitsubishi of Madison,1,0.0,0.0
+Kuni BMW,5,0.0,20.0
+Kutztown Cadillac Buick GMC,1,0.0,0.0
+LA Auto Exchange,6,0.0,16.666666666666664
+LA Auto Star,4,0.0,25.0
+LA Fine Motors,2,100.0,0.0
+LA Moteurs LLC,1,100.0,0.0
+LAX Chrysler Dodge Jeep RAM,3,0.0,0.0
+LEV KIA of Framingham,3,0.0,0.0
+LKL Motors,6,0.0,0.0
+LUXE Automotive,3,0.0,0.0
+LV AUTO SALE LLC,2,100.0,0.0
+LW Automotive,2,0.0,0.0
+LaFontaine Chevrolet,1,0.0,0.0
+LaFontaine Chrysler Jeep Dodge RAM Fenton,1,0.0,0.0
+LaFontaine Ford Birch Run,2,0.0,0.0
+LaFontaine Ford of Grand Rapids,5,0.0,20.0
+LaFontaine Ford of Lansing,1,0.0,0.0
+LaFontaine Subaru,1,0.0,0.0
+LaFontaine Volkswagen of Dearborn,1,0.0,0.0
+LaPorte Chrysler Dodge Jeep RAM,5,0.0,0.0
+Labadie Toyota,1,0.0,0.0
+Laguna Motors,2,0.0,0.0
+Laguna Niguel Cadillac,3,100.0,33.33333333333333
+Laguna Niguel GMC,3,100.0,0.0
+Lake Country Toyota,1,0.0,0.0
+Lake Elsinore Chrysler Dodge Jeep Ram,2,0.0,0.0
+Lake Norman Chrysler Dodge Jeep Ram,5,0.0,0.0
+Lakeland Volkswagen,1,0.0,0.0
+Lakeshore Chrysler Dodge Jeep RAM,2,0.0,0.0
+Lamb Nissan,4,100.0,0.0
+Lamborghini Broward,1,100.0,100.0
+"Lamborghini Houston, Rolls Royce North Houston, McLaren Houston",1,0.0,100.0
+Lamborghini Sarasota,1,100.0,0.0
+"Lancaster County Motors, Inc.",1,0.0,0.0
+Lance Cunningham Ford,2,0.0,0.0
+Land Rover Albany,2,0.0,0.0
+Land Rover Albuquerque,1,0.0,0.0
+Land Rover Cary,1,0.0,0.0
+Land Rover Denver,3,0.0,66.66666666666666
+Land Rover Jaguar Cerritos,3,100.0,0.0
+Land Rover Jaguar Naperville,1,100.0,0.0
+Land Rover Jaguar San Diego,1,0.0,0.0
+Land Rover Jaguar Van Nuys,3,100.0,0.0
+Land Rover North Hills,1,0.0,0.0
+Land Rover Palm Beach,1,0.0,100.0
+Land Rover Richfield,1,0.0,0.0
+Land Rover Roaring Fork,1,0.0,0.0
+Land Rover Rockland,1,0.0,0.0
+Land Rover Rocklin,1,100.0,0.0
+Land Rover San Antonio,1,0.0,100.0
+Land Rover Scarborough,1,100.0,0.0
+Land Rover Southwest Houston,1,0.0,100.0
+Land Rover Tampa,1,0.0,0.0
+Land Rover Ventura,2,100.0,0.0
+Land Rover of Chattanooga,2,100.0,50.0
+Land of Cars,1,100.0,0.0
+Landers CDJR of Norman,1,0.0,0.0
+Landers Chevrolet Cadillac of Joplin,2,0.0,0.0
+Landers Chrysler Dodge Jeep RAM,1,0.0,0.0
+Landers Kia,3,0.0,0.0
+Landers McLarty Chevrolet,2,0.0,0.0
+Landers McLarty Dodge Chrysler Jeep Ram - Huntsville,2,0.0,0.0
+Landers McLarty Ford of Ft. Payne,3,0.0,66.66666666666666
+Landers McLarty Subaru,1,0.0,0.0
+Landers Toyota of Northwest Arkansas,2,0.0,0.0
+Landmark Auto Sales,1,100.0,0.0
+Landmark Dodge Chrysler Jeep RAM Morrow,1,0.0,0.0
+Landmark Dodge Chrysler Jeep Ram,1,0.0,0.0
+Landmark Ford,1,0.0,0.0
+Landmark Motors,7,14.285714285714285,0.0
+Lang Autosports,1,100.0,0.0
+Langdale Hyundai of South Georgia,3,0.0,0.0
+Lapin Motor Company,2,100.0,0.0
+Laramie Peak Motors,2,0.0,0.0
+Largo Honda,6,0.0,0.0
+Laria Chevrolet Buick,21,0.0,4.761904761904762
+Larry H. Miller Chevrolet Murray,2,0.0,0.0
+Larry H. Miller Ford Draper,1,0.0,0.0
+Larry H. Miller Hyundai Albuquerque,2,0.0,0.0
+Larry H. Miller Hyundai Peoria,3,0.0,0.0
+Larry H. Miller Nissan 104th,2,0.0,0.0
+Larry H. Miller Nissan Arapahoe,2,0.0,0.0
+Larry H. Miller Nissan Highlands Ranch,2,0.0,50.0
+Larry H. Miller Southwest Hyundai,2,0.0,0.0
+Larry H. Miller Super Ford Salt Lake City,1,0.0,0.0
+Larry H. Miller Used Car Supermarket Murray,1,0.0,0.0
+Larry H. Miller Volkswagen Lakewood,1,0.0,0.0
+Larry H. Miller Volkswagen Tucson,1,0.0,0.0
+Larry Roesch Volkswagen,5,0.0,0.0
+Larson Ford,1,0.0,100.0
+Larson Hyundai,2,0.0,0.0
+"Lasco Ford, Inc.",1,0.0,0.0
+Lassen Toyota,1,0.0,0.0
+Laura Buick GMC,2,0.0,50.0
+Lawrence Kia,2,0.0,0.0
+Lawton Kia,1,0.0,0.0
+LeSueur Car Company,89,0.0,5.617977528089887
+Lease Return Center,12,0.0,8.333333333333332
+Lebanon Ford,1,0.0,0.0
+Lee Dodge Chrysler Jeep RAM Westbrook,1,0.0,0.0
+Lee Janssen Motor Co.,1,0.0,0.0
+Lee Johnson Kia,5,0.0,0.0
+Lee Johnson Mazda,3,0.0,33.33333333333333
+Lee Johnson Nissan of Kirkland,4,0.0,25.0
+Lee Nissan,2,0.0,0.0
+Lee Nissan of Topsham,2,0.0,0.0
+Lee's Summit Dodge Chrysler Jeep RAM,1,0.0,0.0
+Lee's Summit Honda,2,0.0,0.0
+Leesburg Volkswagen,1,0.0,0.0
+Legacy Auto Sales,2,100.0,0.0
+Legacy Buick GMC,2,0.0,50.0
+Legacy Chrysler Dodge Jeep Ram,1,100.0,0.0
+Legacy Ford,1,0.0,0.0
+"Legacy Motors, Inc.",1,100.0,0.0
+Legacy Westbank Buick GMC,1,0.0,0.0
+Legend Auto Sales,2,100.0,0.0
+Lehigh Valley Honda,1,0.0,0.0
+Lehighton Ford,1,100.0,0.0
+Lehman Buick GMC,1,0.0,0.0
+Lehman Hyundai,2,0.0,50.0
+Lehman Volvo Cars of Mechanicsburg,1,100.0,100.0
+Lehman Volvo Cars of York,1,100.0,100.0
+Lehmer's Concord Buick GMC,2,0.0,0.0
+Leif Johnson Ford Inc.,3,0.0,0.0
+Leith BMW,1,0.0,0.0
+Leith Honda,1,0.0,0.0
+Leith Nissan,1,0.0,100.0
+Leith Wendell,1,0.0,0.0
+Leman's Chevy City,4,0.0,25.0
+Len Dudas Motors Inc.,1,0.0,100.0
+Len Stoler Hyundai,2,100.0,0.0
+"Lenz Truck - Fond du Lac, WI",7,0.0,0.0
+"Lenz Truck - Minocqua, WI",1,100.0,0.0
+Les Stanford Chevrolet Cadillac,1,0.0,0.0
+Leskovar Mitsubishi,18,0.0,0.0
+Lester Glenn Chrysler Dodge Jeep RAM,1,0.0,0.0
+Lester Glenn Ford,1,0.0,0.0
+Lester Glenn Hyundai,1,0.0,0.0
+Lets Go Auto,1,0.0,0.0
+Levelland Chevrolet Buick GMC,1,100.0,0.0
+Levis Auto Sales,2,100.0,0.0
+Levittown Ford,1,0.0,0.0
+Lewis Motor Sales,1,100.0,0.0
+Lewisville Volkswagen,3,0.0,0.0
+Lexus Monterey Peninsula,1,100.0,100.0
+Lexus Of Highland Park,1,100.0,0.0
+Lexus Santa Monica,2,100.0,0.0
+Lexus of Birmingham,3,0.0,0.0
+Lexus of Cerritos,4,0.0,0.0
+Lexus of Chattanooga,1,0.0,0.0
+Lexus of Concord,2,0.0,0.0
+Lexus of Dayton,1,0.0,0.0
+Lexus of Greenwood Village,1,0.0,0.0
+Lexus of Marin,2,0.0,0.0
+Lexus of Milwaukee,2,0.0,0.0
+Lexus of Omaha,1,0.0,0.0
+Lexus of Orange County,1,0.0,0.0
+Lexus of Palm Beach,1,0.0,0.0
+Lexus of Roseville,3,0.0,0.0
+Lexus of Sacramento,8,0.0,25.0
+Lexus of Seattle,1,0.0,0.0
+Lexus of Serramonte,2,0.0,0.0
+Lexus of Tulsa,1,0.0,0.0
+Lexus of Watertown,3,0.0,0.0
+Lexus of Wichita,1,0.0,0.0
+Lexus of Woodland Hills,1,0.0,0.0
+Lia Hyundai of Enfield,1,0.0,0.0
+Lia Nissan of Enfield,2,100.0,50.0
+Liberty Auto City,2,0.0,0.0
+Liberty Auto Plaza,1,0.0,0.0
+Liberty Autoland,1,100.0,100.0
+Liberty Buick,1,0.0,0.0
+Liberty Buick GMC,1,0.0,0.0
+Liberty Ford Aurora,2,0.0,0.0
+Liberty Mitsubishi,2,0.0,0.0
+Liberty Motors LLC,1,100.0,0.0
+Libertyville Chevrolet,2,0.0,0.0
+Liccardi Chrysler Dodge Ram,1,0.0,0.0
+Liccardi Chrysler Dodge Ram Mitsubishi,3,0.0,66.66666666666666
+Liccardi Ford Lincoln,3,0.0,66.66666666666666
+Lincoln of Bloomington,2,0.0,100.0
+Lincoln of Cincinnati,2,100.0,0.0
+Lincoln of Memphis,1,100.0,0.0
+Lincoln of Wayne,1,0.0,0.0
+Linders Inc.,2,0.0,0.0
+Lindsay Cadillac,1,0.0,0.0
+Lindsay Honda,2,0.0,0.0
+Lindsay Volkswagen of Dulles,6,0.0,0.0
+Lindsay Volkswagen of Manassas,1,100.0,0.0
+Link Ford Lincoln and RV,1,0.0,0.0
+Lion Country Kia,1,0.0,0.0
+Lithia Chrysler Dodge Jeep RAM Fiat of Spokane,2,0.0,0.0
+Lithia Chrysler Dodge Jeep Ram Fiat of Santa Fe,3,0.0,0.0
+Lithia Chrysler Jeep Dodge RAM of Grants Pass,3,0.0,0.0
+Lithia Chrysler Jeep Dodge Ram FIAT of Roseburg,1,0.0,0.0
+Lithia Chrysler Jeep of Reno,2,0.0,0.0
+Lithia Ford Lincoln Of Boise,1,0.0,0.0
+Lithia Ford of Fresno,3,0.0,0.0
+Lithia Hyundai Of Anchorage,1,0.0,100.0
+Lithia Hyundai Of Odessa,2,0.0,50.0
+Lithia Hyundai of Fresno,5,0.0,0.0
+Lithia Nissan Of Eugene,2,0.0,100.0
+Lithia Nissan of Clovis,2,0.0,50.0
+Lithia Reno Subaru,1,0.0,0.0
+Lithia Springs Ford,1,0.0,0.0
+Lithia Subaru Of Oregon City,9,0.0,0.0
+Lithia Subaru of Fresno,2,0.0,0.0
+Lithia Toyota of Abilene,1,100.0,0.0
+Lithia Toyota of Redding,2,0.0,0.0
+Lithia Toyota of Springfield,1,0.0,0.0
+Lithia Volkswagen of Reno,1,0.0,0.0
+Livermore Subaru,2,100.0,0.0
+Lockhart Cadillac Inc. - North,1,0.0,0.0
+Lodi Chrysler Dodge Jeep RAM,1,0.0,0.0
+Lokey Kia,3,0.0,0.0
+Lokey Nissan,3,0.0,0.0
+Lokey Volkswagen,3,0.0,33.33333333333333
+Lombard Toyota,1,0.0,0.0
+Lone Star Auto Brokers LLC,1,100.0,0.0
+Lone Star Chevrolet,1,0.0,0.0
+Long Island Sports Cars - Aston Martin Long Island - McLaren Long Island,1,100.0,0.0
+Long McArthur Ford Lincoln,1,0.0,0.0
+Longo Toyota,3,0.0,0.0
+Lorenzo Buick GMC,1,0.0,0.0
+Lorenzo Ford,1,0.0,0.0
+Lorenzo Nissan Ft Lauderdale,2,0.0,0.0
+Lot 31,1,100.0,100.0
+Lot 99,2,0.0,50.0
+Lotspeich Automotive,1,100.0,0.0
+Lou Bachrodt Auto Mall,1,0.0,0.0
+Lou Bachrodt of Coconut Creek,4,0.0,0.0
+Lou Dominion's Deals on Wheels-Benton Harbor,2,100.0,0.0
+Lou Fusz Kia Evansville,3,100.0,0.0
+Lou Sobh Honda,2,0.0,0.0
+Lou Sobh Kia,1,0.0,0.0
+Louisburg Ford,2,0.0,0.0
+Louisville INFINITI,7,0.0,14.285714285714285
+Love Chevrolet,2,0.0,0.0
+Love PreOwned AutoCenter,3,100.0,33.33333333333333
+Loveland Ford Lincoln,4,0.0,0.0
+Lovering Volvo Cars Nashua,1,0.0,100.0
+Low Country Volkswagen,1,0.0,0.0
+Lowery Brothers Motors,1,0.0,0.0
+Lucky Line Motors,1,100.0,0.0
+Lugoff Chevrolet Buick GMC,1,0.0,0.0
+Lugoff Ford,3,0.0,0.0
+Lunde's Peoria Volkswagen,6,0.0,0.0
+Lunghamer Ford of Owosso,1,100.0,0.0
+Lupient Buick GMC,1,0.0,0.0
+Lupient KIA Nissan,1,0.0,0.0
+Lute Riley Honda,1,0.0,0.0
+Luther Bloomington Hyundai,2,0.0,0.0
+Luther Bloomington Subaru,1,0.0,0.0
+Luther Brookdale Chevrolet,4,0.0,0.0
+Luther Burnsville Hyundai,1,0.0,0.0
+Luther Burnsville Volkswagen,1,0.0,0.0
+Luther Cadillac,1,0.0,0.0
+Luther Family Ford,1,0.0,0.0
+Luther Hopkins Honda,1,0.0,0.0
+Luther INFINITI of Bloomington,5,0.0,40.0
+Luther Kia of Bloomington,1,0.0,0.0
+Luther North Country Ford Lincoln,3,0.0,33.33333333333333
+Luther Park Place BMW,1,0.0,0.0
+Luther Used Car Company,2,0.0,0.0
+Luther Westside VW,8,0.0,12.5
+Lux Auto Depot Limited,1,100.0,0.0
+Lux Auto Plus,1,0.0,0.0
+Lux Cars Chicago,7,0.0,0.0
+Lux Motors,3,0.0,0.0
+"LuxSport Motor Group, LLC.",1,0.0,100.0
+Luxury & Imports Leavenworth,3,0.0,0.0
+Luxury Auto Collection,6,100.0,0.0
+Luxury Auto Works,2,0.0,0.0
+Luxury Car Outlet,1,100.0,0.0
+Luxury Imports,1,100.0,0.0
+Luxury Motor Car Company,2,0.0,0.0
+Luxury Motor Cars,1,0.0,0.0
+Luxury Motor Club,2,0.0,0.0
+Luxury Motorsports,16,0.0,6.25
+Luxury of Queens Inc.,5,100.0,0.0
+Lynch Buick GMC of West Bend,1,0.0,0.0
+Lynch Chevrolet of Kenosha,1,0.0,0.0
+Lynch Ford Chevrolet,1,0.0,0.0
+Lynch Ford of Mukwonago,2,100.0,50.0
+Lynch Toyota,1,0.0,0.0
+Lynn Layton Cadillac Nissan,1,100.0,0.0
+Lynnes Nissan,1,0.0,0.0
+M & F Auto Sales,3,0.0,0.0
+M & I Motors,6,0.0,0.0
+M & S Auto,1,100.0,0.0
+M Auto Group,1,100.0,0.0
+M Sport Motor Cars,4,0.0,0.0
+M Sport Motors,3,100.0,0.0
+M&F Auto Sales,3,100.0,0.0
+M2 Auto Group,1,100.0,0.0
+MAG Midwestern Auto Group,3,0.0,33.33333333333333
+MB Motors - Bellingham,5,0.0,0.0
+MINI of Knoxville,3,0.0,33.33333333333333
+MINI of Las Vegas,2,0.0,0.0
+MINI of Stevens Creek,2,0.0,0.0
+MJG Auto Sales LLC,9,100.0,11.11111111111111
+MOTORVAULT,1,100.0,0.0
+Mac Haik Ford,3,0.0,0.0
+Mac Haik Ford Lincoln,3,0.0,0.0
+Mac Haik Ford Pasadena,4,0.0,0.0
+Mac Haik Pre-Owned Spring,3,100.0,0.0
+Macova Auto Group Inc,1,100.0,0.0
+Madelia Ford,1,0.0,0.0
+Madera Ford,1,0.0,0.0
+Mag Auto Corp,1,0.0,0.0
+Magnussen's Toyota Palo Alto,1,0.0,0.0
+Maguire Chevrolet of Trumansburg,1,0.0,0.0
+Maguire Chrysler Dodge Jeep Ram Fiat Ithaca,1,0.0,0.0
+Maguire Ford of Canandaigua,1,0.0,0.0
+Maguire Hyundai Subaru,2,0.0,0.0
+Maguire Nissan of Ithaca,1,0.0,0.0
+Maguire Nissan of Syracuse,1,0.0,100.0
+Main Street Buick GMC,2,0.0,100.0
+Maita Chevrolet,2,0.0,0.0
+Maita Toyota,1,0.0,0.0
+Majeski Motors,1,100.0,100.0
+Major Motor Cars,48,100.0,0.0
+MajorWorld Chevy,4,0.0,25.0
+Makes and Models,1,100.0,0.0
+Mall of Georgia Ford,1,0.0,0.0
+Mall of Georgia MINI,15,0.0,26.666666666666668
+Mall of Georgia Mazda,2,0.0,100.0
+Malloy Ford of Alexandria,4,0.0,0.0
+Malloy Ford of Winchester,3,0.0,33.33333333333333
+Manchester City Nissan,1,0.0,0.0
+Manchester Motors,3,0.0,0.0
+Manderbach Ford,1,0.0,0.0
+Mangold Ford,2,0.0,0.0
+Manhattan Motorcars Inc.,9,0.0,11.11111111111111
+Manheim Imports,22,0.0,36.36363636363637
+Manly Honda,1,0.0,0.0
+Manly Hyundai,1,0.0,0.0
+Manteca Ford,1,0.0,0.0
+Maple Hill Auto Group,2,0.0,50.0
+Maplewood Toyota,3,0.0,0.0
+Marchese Chevrolet,1,0.0,0.0
+Marchese Ford of Mechanicville,3,0.0,0.0
+"Marchese Ford, Inc.",1,100.0,0.0
+Marcotte Ford,2,0.0,0.0
+Marietta Auto Sales,1,0.0,0.0
+Marietta Toyota,1,0.0,0.0
+Marin Acura,1,0.0,0.0
+Marin Luxury Cars - Jaguar Land Rover,2,100.0,0.0
+"Marina CDJR - Delivery from Rochester, NY (for Buffalo NY)",2,100.0,0.0
+Marina Chrysler Dodge Jeep Mitsubishi RAM,3,0.0,0.0
+Marino Chrysler Jeep Dodge RAM,2,0.0,0.0
+Marino Performance Motors,4,100.0,75.0
+Mario Lomedico Exotic Motors,1,100.0,100.0
+Maritime Chevrolet of Fairfield,1,0.0,0.0
+Mark Allen Buick GMC,1,0.0,0.0
+Mark Ficken Ford Lincoln,2,0.0,50.0
+Mark Jacobson Toyota,1,0.0,0.0
+Mark Kia,28,0.0,14.285714285714285
+Mark Mazda,12,0.0,8.333333333333332
+Mark Motors,3,100.0,33.33333333333333
+Mark Wahlberg Buick GMC,3,0.0,0.0
+Mark Wahlberg Chevrolet,4,0.0,25.0
+Mark Wahlberg Chevrolet of Avon,1,0.0,0.0
+Mark Wahlberg Chevrolet of Worthington,1,0.0,0.0
+Marlboro Nissan,2,0.0,50.0
+Marquardt of Barrington Buick-GMC,1,0.0,0.0
+Marshal Mize Ford,1,0.0,0.0
+Marshall Goldman Motor Sales,1,0.0,0.0
+Martin Chevrolet,2,0.0,0.0
+Martin Chevrolet - Torrance,1,0.0,0.0
+Martin Nissan,5,0.0,20.0
+Martin Swanty Chrysler Dodge Jeep RAM,1,0.0,0.0
+Marty's Buick GMC,1,0.0,0.0
+Marysville Toyota,4,0.0,0.0
+Maserati of Atlanta,1,0.0,0.0
+Maserati of Bergen County,2,0.0,50.0
+Maserati of Central Florida,3,100.0,0.0
+Maserati of Newport Beach,1,0.0,0.0
+Maserati of Tampa,5,0.0,0.0
+Mastria Kia,2,0.0,0.0
+Mastria Mazda,1,0.0,0.0
+Mastria Nissan,4,0.0,0.0
+Mastria Volkswagen of Raynham,2,0.0,0.0
+Mastrovito Hyundai,2,0.0,0.0
+Mathews Ford Lincoln,2,0.0,0.0
+Mathews Nissan,2,0.0,0.0
+Matt Blatt Kia,3,0.0,33.33333333333333
+Matt Blatt Toms River Kia,1,0.0,100.0
+Matt Bowers Nissan Eastern Shore,1,100.0,0.0
+Matthews Hyundai of Greece,1,100.0,0.0
+Matthews Kia of Schenectady,1,0.0,0.0
+Matthews Motors Clayton,4,0.0,0.0
+Matthews Motors Wilmington,2,0.0,0.0
+Maverick Car Company,1,0.0,0.0
+Maverick Motors,1,100.0,0.0
+Max Ford of Richmond,1,100.0,0.0
+Max Hyundai Manhattan,10,0.0,0.0
+Max Motors (Butler),1,0.0,0.0
+Max Motors Harrisonville,2,0.0,0.0
+Max Motors of Nevada Chrysler Dodge Jeep Ram,1,100.0,0.0
+MaxDrive Auto Sales,3,0.0,0.0
+Maximum Auto Outlet,2,0.0,0.0
+Maxkar Motors,1,0.0,0.0
+Maxwell Ford,1,0.0,0.0
+Maxx Autos Plus Tacoma,1,100.0,0.0
+MaxxVin LLC,5,100.0,20.0
+Mazda Roseville,3,0.0,0.0
+Mazda of Claremont,10,0.0,0.0
+Mazda of Kent,2,0.0,0.0
+Mazda of Palm Beach,2,0.0,50.0
+Mazda of Vacaville,6,0.0,16.666666666666664
+McAndrew Motors,1,100.0,0.0
+McCarthy Blue Springs Hyundai,1,0.0,0.0
+McCarthy Olathe Hyundai,1,0.0,0.0
+McCarthy Olathe Nissan,1,0.0,0.0
+McCloskey Motors Inc.,1,0.0,0.0
+McCluskey Chevrolet,18,0.0,0.0
+McCombs Ford West,2,0.0,0.0
+McCrea Subaru,3,0.0,0.0
+McDaniel GM Superstore,1,0.0,0.0
+McDaniel Toyota,2,0.0,0.0
+McDaniels Acura/Audi,2,100.0,0.0
+McDavid Ford,2,0.0,0.0
+McDonald GMC Cadillac,1,0.0,0.0
+McDonald Hyundai,5,0.0,40.0
+McDonald Mazda North,1,0.0,0.0
+McDonald Mazda South,1,0.0,100.0
+McDonald Toyota of Ft Morgan,1,100.0,0.0
+McDonald Volkswagen,5,0.0,20.0
+McDonald Volvo Cars,5,100.0,60.0
+McDonough Hyundai,1,100.0,100.0
+McDonough Nissan,2,0.0,50.0
+McGavock Nissan,1,100.0,0.0
+McGee Chrysler Dodge Jeep Ram of Barre and Hyundai of Barre,2,0.0,0.0
+McGee Toyota,1,0.0,0.0
+McGee Toyota of Epping,2,0.0,50.0
+"McGonigal Buick, Cadillac",1,100.0,100.0
+McGovern Chrysler Dodge Jeep RAM of Greenfield,1,0.0,0.0
+McGovern Ford at Drum Hill,1,0.0,0.0
+McGovern Ford of Framingham,6,0.0,0.0
+McGovern Ford of Saugus,1,0.0,0.0
+McGovern Hyundai,5,0.0,0.0
+McGovern Hyundai Rt 2,2,0.0,50.0
+McGovern Kia of Norwood,1,0.0,0.0
+McGovern Subaru,1,0.0,0.0
+McGovern Volvo Cars of Albany,1,100.0,0.0
+McGrath Acura of Chicago,1,0.0,0.0
+McGrath Arlington Kia,3,0.0,33.33333333333333
+McGrath City Hyundai,3,0.0,0.0
+McGrath Elmhurst BMW,1,100.0,0.0
+McGrath Honda in Elgin,1,0.0,0.0
+McGrath Kia Highland Park,1,0.0,0.0
+McGrath Lexus Chicago,1,0.0,0.0
+McGrath Nissan,1,100.0,100.0
+McGrath Volvo Cars Barrington,1,0.0,0.0
+McGrath Volvo Cars of Fort Myers,2,0.0,0.0
+McKenna Porsche,1,0.0,0.0
+McKinney Mazda,1,0.0,0.0
+McKinnon Nissan,1,0.0,0.0
+McLaren Charlotte,2,100.0,50.0
+McLarty Daniel Buick GMC,1,0.0,0.0
+McLarty Daniel Chrysler Dodge Jeep RAM of Bentonville,2,0.0,50.0
+McLarty Daniel Chrysler Dodge Jeep Ram Fiat of Springdale,1,0.0,0.0
+McLarty Daniel Ford,2,0.0,0.0
+McLarty Daniel Nissan,3,0.0,0.0
+McLarty Nissan of Little Rock,1,0.0,0.0
+McLoughlin Chevrolet,4,0.0,0.0
+McMinnville Auto Sales LLC,1,100.0,0.0
+Mccurley Mazda,1,0.0,0.0
+Mcgrath Evanston Subaru,1,0.0,0.0
+Meador Chrysler Dodge Jeep Ram,1,0.0,0.0
+Meadowland of Carmel,1,0.0,0.0
+Mel Hambelton Ford,1,0.0,0.0
+Melloy Honda,1,100.0,0.0
+Melloy Nissan,2,0.0,0.0
+Melton Sales,1,0.0,0.0
+MemberCar,2,0.0,0.0
+Merced Auto World,1,100.0,100.0
+Merced Kia,1,100.0,0.0
+Mercedes Benz of Grapevine,2,0.0,0.0
+Mercedes-Benz & Chevrolet in San Luis Obispo,4,100.0,25.0
+"Mercedes-Benz Manhattan, Inc.",2,0.0,50.0
+Mercedes-Benz Of Bedford,1,0.0,100.0
+Mercedes-Benz Of Tacoma,4,0.0,0.0
+Mercedes-Benz Of Tampa,11,0.0,36.36363636363637
+Mercedes-Benz Of Winston-Salem,2,100.0,50.0
+Mercedes-Benz of Albuquerque,1,0.0,0.0
+Mercedes-Benz of Alexandria,2,0.0,50.0
+Mercedes-Benz of Arlington,1,0.0,100.0
+Mercedes-Benz of Arrowhead,3,0.0,0.0
+Mercedes-Benz of Atlantic City,2,0.0,50.0
+Mercedes-Benz of Austin,12,0.0,33.33333333333333
+Mercedes-Benz of Bakersfield,1,100.0,0.0
+Mercedes-Benz of Barrington,2,0.0,100.0
+Mercedes-Benz of Beaverton,5,0.0,0.0
+Mercedes-Benz of Bellevue,1,0.0,0.0
+Mercedes-Benz of Billings,5,100.0,0.0
+Mercedes-Benz of Boerne,2,0.0,0.0
+Mercedes-Benz of Buckhead,1,0.0,100.0
+Mercedes-Benz of Burlington,2,0.0,0.0
+Mercedes-Benz of Calabasas,1,0.0,0.0
+Mercedes-Benz of Carlsbad,3,100.0,0.0
+Mercedes-Benz of Chandler,2,0.0,50.0
+Mercedes-Benz of Chantilly,3,0.0,33.33333333333333
+Mercedes-Benz of Chicago,3,0.0,66.66666666666666
+Mercedes-Benz of Clear Lake,1,0.0,0.0
+Mercedes-Benz of Clearwater,4,0.0,25.0
+Mercedes-Benz of Coconut Creek,1,0.0,100.0
+Mercedes-Benz of Columbia,4,0.0,0.0
+Mercedes-Benz of Columbus,1,0.0,0.0
+Mercedes-Benz of Covington,3,0.0,33.33333333333333
+Mercedes-Benz of Delray,4,0.0,50.0
+Mercedes-Benz of Denver,2,0.0,0.0
+Mercedes-Benz of Draper,2,0.0,50.0
+Mercedes-Benz of Easton,1,0.0,0.0
+Mercedes-Benz of El Cajon,2,0.0,0.0
+Mercedes-Benz of El Dorado Hills,5,0.0,20.0
+Mercedes-Benz of Elmbrook,2,0.0,0.0
+Mercedes-Benz of Encino,1,0.0,0.0
+Mercedes-Benz of Eugene,2,0.0,100.0
+Mercedes-Benz of Fairfield,2,100.0,0.0
+Mercedes-Benz of Farmington,3,0.0,33.33333333333333
+Mercedes-Benz of Fayetteville,1,0.0,0.0
+Mercedes-Benz of Foothill Ranch,1,0.0,0.0
+Mercedes-Benz of Fort Mitchell,3,0.0,33.33333333333333
+Mercedes-Benz of Fort Myers,1,0.0,0.0
+Mercedes-Benz of Fort Washington,3,0.0,0.0
+Mercedes-Benz of Fort Wayne,1,100.0,0.0
+Mercedes-Benz of Fredericksburg,1,0.0,100.0
+Mercedes-Benz of Fresno,1,0.0,0.0
+Mercedes-Benz of Gainesville,5,0.0,40.0
+Mercedes-Benz of Georgetown,1,0.0,0.0
+Mercedes-Benz of Gilbert,5,0.0,40.0
+Mercedes-Benz of Goldens Bridge,1,0.0,0.0
+Mercedes-Benz of Hanover,2,0.0,50.0
+Mercedes-Benz of Hilton Head,3,0.0,66.66666666666666
+Mercedes-Benz of Hoffman Estates,31,0.0,83.87096774193549
+Mercedes-Benz of Honolulu,2,0.0,0.0
+Mercedes-Benz of Houston Greenway,5,0.0,20.0
+Mercedes-Benz of Houston North,2,0.0,50.0
+Mercedes-Benz of Hunt Valley,1,0.0,0.0
+Mercedes-Benz of Kansas City,1,0.0,0.0
+Mercedes-Benz of Knoxville,12,0.0,25.0
+Mercedes-Benz of Lafayette,1,100.0,100.0
+Mercedes-Benz of Laguna Niguel,2,0.0,50.0
+Mercedes-Benz of Laredo,1,100.0,100.0
+Mercedes-Benz of Littleton,2,0.0,100.0
+Mercedes-Benz of Los Angeles,4,0.0,25.0
+Mercedes-Benz of Louisville,2,0.0,0.0
+Mercedes-Benz of Lynnwood,1,0.0,0.0
+Mercedes-Benz of Marietta,1,0.0,0.0
+Mercedes-Benz of Marin,4,100.0,0.0
+Mercedes-Benz of Maui,1,0.0,0.0
+Mercedes-Benz of McKinney,3,0.0,0.0
+Mercedes-Benz of Melbourne,4,100.0,50.0
+Mercedes-Benz of Memphis,2,100.0,0.0
+Mercedes-Benz of Miami,2,0.0,50.0
+Mercedes-Benz of Milwaukee North,1,100.0,100.0
+Mercedes-Benz of Mt. Pleasant,1,0.0,100.0
+Mercedes-Benz of Music City,7,0.0,42.857142857142854
+Mercedes-Benz of Nanuet,1,0.0,100.0
+Mercedes-Benz of Naples,2,0.0,100.0
+Mercedes-Benz of Nashville,3,0.0,66.66666666666666
+Mercedes-Benz of New London,1,100.0,100.0
+Mercedes-Benz of North Haven,1,0.0,0.0
+Mercedes-Benz of North Orlando,2,0.0,50.0
+Mercedes-Benz of Northwest Arkansas,4,100.0,50.0
+Mercedes-Benz of Oakland,1,100.0,0.0
+Mercedes-Benz of Omaha,5,0.0,40.0
+Mercedes-Benz of Ontario,5,0.0,40.0
+Mercedes-Benz of Orlando,1,0.0,0.0
+Mercedes-Benz of Palm Springs,1,0.0,0.0
+Mercedes-Benz of Pembroke Pines,2,0.0,50.0
+Mercedes-Benz of Pittsburgh,1,100.0,0.0
+Mercedes-Benz of Plano,3,0.0,33.33333333333333
+Mercedes-Benz of Pleasanton,2,0.0,0.0
+Mercedes-Benz of Pompano,3,0.0,33.33333333333333
+Mercedes-Benz of Portland,1,0.0,0.0
+Mercedes-Benz of Portsmouth,2,0.0,0.0
+Mercedes-Benz of Rochester,1,100.0,0.0
+Mercedes-Benz of Rocklin,7,0.0,0.0
+Mercedes-Benz of Sacramento,6,0.0,16.666666666666664
+Mercedes-Benz of Salt Lake City,4,0.0,25.0
+Mercedes-Benz of San Antonio,2,0.0,0.0
+Mercedes-Benz of San Francisco / Smart Center San Francisco,1,100.0,0.0
+Mercedes-Benz of San Jose,2,0.0,0.0
+Mercedes-Benz of Santa Rosa,3,100.0,33.33333333333333
+Mercedes-Benz of Sarasota,2,0.0,50.0
+Mercedes-Benz of Scottsdale,11,0.0,0.0
+Mercedes-Benz of Shrewsbury,1,0.0,100.0
+Mercedes-Benz of Silver Spring,1,0.0,100.0
+Mercedes-Benz of South Bay,2,0.0,0.0
+Mercedes-Benz of South Charlotte,3,0.0,33.33333333333333
+Mercedes-Benz of South Mississippi,1,0.0,100.0
+Mercedes-Benz of South Orlando,4,0.0,75.0
+Mercedes-Benz of Springfield,1,0.0,0.0
+Mercedes-Benz of St Louis,2,0.0,0.0
+Mercedes-Benz of St. Charles,3,0.0,33.33333333333333
+Mercedes-Benz of Stevens Creek,4,0.0,25.0
+Mercedes-Benz of Stockton,1,0.0,0.0
+Mercedes-Benz of Sugar Land,5,0.0,0.0
+Mercedes-Benz of Temecula,3,0.0,33.33333333333333
+Mercedes-Benz of The Woodlands,1,0.0,0.0
+Mercedes-Benz of Tri-Cities,1,100.0,100.0
+Mercedes-Benz of Tucson,3,0.0,33.33333333333333
+Mercedes-Benz of Tysons Corner,2,0.0,50.0
+Mercedes-Benz of Union,1,0.0,0.0
+Mercedes-Benz of Valencia,5,0.0,0.0
+Mercedes-Benz of Walnut Creek,37,0.0,32.432432432432435
+Mercedes-Benz of Warwick,3,0.0,66.66666666666666
+Mercedes-Benz of Wesley Chapel,1,0.0,0.0
+Mercedes-Benz of West Houston,2,0.0,0.0
+Mercedes-Benz of Westwood,2,0.0,50.0
+Mercedes-Benz of White Plains,3,0.0,100.0
+Mercedes-Benz of Wichita,1,100.0,100.0
+Mercedes-Benz of Wilmington,1,0.0,0.0
+Mercedes-Benz of Wilsonville,5,0.0,0.0
+Merchants Automotive Group,17,0.0,11.76470588235294
+Meriden Hyundai,3,100.0,0.0
+Merit Auto Group,2,0.0,0.0
+Merit Partners,1,0.0,0.0
+Merlex Auto Group,4,0.0,0.0
+Metro Auto,1,0.0,0.0
+Metro Automobiles,1,100.0,0.0
+Metro Ford,5,0.0,0.0
+Metro Ford of Madison,4,0.0,25.0
+Metro Ford of OKC,1,0.0,0.0
+Metro Motors LLC,1,100.0,0.0
+Metro Nissan of Montclair,1,0.0,0.0
+Metro West Auto Sales,1,100.0,0.0
+Miami Lakes Automall - Chevrolet Kia Dodge Chrysler Jeep Ram Mitsubishi,2,0.0,0.0
+Michael's Auto Plaza,1,0.0,0.0
+Michaels Autos,6,0.0,16.666666666666664
+"Michaels Motorcars, Inc.",1,100.0,0.0
+Michaud Mitsubishi,1,0.0,0.0
+Michigan Auto,1,0.0,0.0
+Michigan City Hyundai,2,100.0,0.0
+Mid-Illini Auto Group,1,100.0,0.0
+Middletown Nissan,1,0.0,0.0
+Midland Ford Lincoln,1,0.0,100.0
+Midtown Kia,1,0.0,0.0
+Midway Auto Group,4,0.0,0.0
+Midway Autohaus,3,0.0,0.0
+Midway Automotive,2,0.0,0.0
+Midway Chevrolet,2,0.0,0.0
+Midway Dodge,1,0.0,0.0
+Midway Motors Supercenter,1,0.0,0.0
+Midway Nissan,3,0.0,66.66666666666666
+Mike Alsop Chevrolet,1,0.0,0.0
+Mike Alsop Pre-Owned,1,100.0,0.0
+Mike Anderson Chevrolet Gas City,2,100.0,0.0
+Mike Anderson Chevrolet Of Merrillville,1,0.0,0.0
+Mike Anderson Chevrolet of Chicago,3,0.0,0.0
+Mike Castrucci CDJR,1,100.0,0.0
+Mike Castrucci Ford,1,0.0,0.0
+Mike Castrucci of Alexandria,2,0.0,0.0
+Mike Erdman Nissan,1,0.0,0.0
+Mike Haggerty Buick GMC,1,0.0,0.0
+Mike Miller Mitsubishi,2,100.0,0.0
+Mike Molstead Motors,1,0.0,0.0
+Mike Murphy Ford,7,0.0,0.0
+Mike Rezi Nissan Atlanta,3,0.0,66.66666666666666
+Mike Shaw Subaru,2,0.0,0.0
+Mike Ward Maserati,1,100.0,100.0
+Mike's Auto Forum,1,100.0,0.0
+Mike's Motors,1,100.0,0.0
+"Milan Motors, LLC",1,0.0,100.0
+Milford Nissan,1,0.0,0.0
+Milledgeville Chrysler Dodge Jeep Ram,1,0.0,0.0
+"Millenia Motors, Inc",2,0.0,0.0
+Millennium Hyundai,7,0.0,0.0
+Miller Chevrolet,1,0.0,0.0
+Miller Ford Lincoln,1,0.0,0.0
+Miller Motors,1,0.0,0.0
+Mills Chevrolet,1,0.0,0.0
+Mills Ford Brainerd,1,100.0,0.0
+Milnes Chevrolet,1,0.0,0.0
+Milosch's Pre-Owned Superstore,1,100.0,0.0
+Milpas Motors,2,100.0,0.0
+Mini of Hawaii,1,0.0,0.0
+Mini of Wesley Chapel,2,0.0,100.0
+Minnesota Truck Headquarters of St. Cloud,1,0.0,0.0
+Mint Auto Sales,1,0.0,0.0
+Minuteman VW,2,0.0,0.0
+Miracle Chrysler Dodge Jeep Ram,1,0.0,0.0
+Miracle Toyota,1,0.0,100.0
+Mission Trucks,6,100.0,0.0
+Mitch Hall Chevrolet Buick GMC Cadillac,1,100.0,0.0
+Mobile Luxury Motors,1,100.0,0.0
+Moda Cars,1,100.0,0.0
+Modern Auto Sales,7,0.0,0.0
+Modern Chevrolet,1,0.0,0.0
+Modern Classic Motors,4,0.0,0.0
+Modern INFINITI of Greensboro,1,0.0,0.0
+Modern Motorcars,1,0.0,100.0
+Modesto Toyota,2,0.0,0.0
+Mohegan Lake Volkswagen,1,0.0,100.0
+Molye Chevrolet,11,0.0,0.0
+Momentum BMW,2,0.0,0.0
+Momentum Maserati Alfa Romeo,5,0.0,40.0
+Momentum Motorcars,2,0.0,50.0
+Momentum Volkswagen of Upper Kirby,1,0.0,0.0
+Monaco Motor Group,1,100.0,0.0
+Monicatti Auto Sales,1,100.0,0.0
+Montclair Auto Exchange,1,0.0,0.0
+Montgomery Chevrolet,2,0.0,0.0
+Montrose Buick GMC,1,0.0,0.0
+Montrose Ford,4,0.0,0.0
+Montrose Westside Auto Campus,3,0.0,33.33333333333333
+Moore Cadillac- We will buy your car,1,0.0,0.0
+Moran Chevrolet,2,0.0,0.0
+Morgan Automotive Inc.,1,0.0,0.0
+Moritz Chevrolet,1,0.0,100.0
+Morong Falmouth Mazda,2,0.0,0.0
+Morrie's 394 Hyundai,1,0.0,0.0
+Morrie's Grand Ledge Ford Lincoln,1,0.0,100.0
+Morrie's Luxury Auto,2,0.0,100.0
+Morrie's Mercedes Benz of St. Paul,4,0.0,50.0
+Morrie's Minnetonka Ford,1,0.0,0.0
+Morrie's Minnetonka Subaru,2,0.0,0.0
+Moss Bros. Volkswagen of Moreno Valley,4,0.0,0.0
+Mossy Nissan Escondido,1,100.0,100.0
+Motor City Mini,1,100.0,0.0
+Motor Master,1,100.0,100.0
+Motor Max of Grand Rapids,2,0.0,0.0
+Motor Trends of Houston,4,0.0,25.0
+Motor Werks Honda,2,0.0,0.0
+MotorWorld Pre-Owned,2,0.0,50.0
+Motorcar Classics,1,0.0,0.0
+Motorcars Limited,3,0.0,0.0
+Motorcars Washington,6,100.0,16.666666666666664
+Motorcars of Atlanta,2,100.0,50.0
+Motorcars of Gaithersburg,1,100.0,0.0
+Motorpoint Roswell,26,0.0,3.8461538461538463
+Motors Northwest,10,0.0,10.0
+Motorwerks BMW,2,0.0,50.0
+Mount Juliet Chrysler Dodge Jeep Ram,1,0.0,0.0
+Mountain Mitsubishi,4,100.0,0.0
+"Mountain Motors, Inc",1,100.0,0.0
+Mountain States Toyota,1,0.0,0.0
+Mountain View Chevrolet,3,0.0,0.0
+Mountain View Motors,3,100.0,0.0
+Moyer Nissan,4,0.0,25.0
+Moyer Nissan of Lebanon,1,100.0,0.0
+Mt. Ephraim Chrysler Dodge RAM,1,0.0,0.0
+Mudarri Motorsports,8,0.0,0.0
+Mulder Auto Tire and Lube,1,100.0,0.0
+Mullahey Chrysler Dodge Jeep Ram,2,100.0,0.0
+Muller Subaru Volkswagen,2,0.0,50.0
+Muller's Woodfield Acura,2,0.0,0.0
+Mullinax Ford of Central Florida,3,0.0,33.33333333333333
+Mullinax Ford of Kissimmee,1,0.0,0.0
+Mullinax Ford of New Smyrna Beach,3,0.0,0.0
+Mullinax Ford of Olympia,2,0.0,0.0
+Mullinax Ford of Vero Beach,1,0.0,0.0
+Mullinax Ford of West Palm Beach,1,0.0,0.0
+Mungenast St. Louis Honda,1,0.0,0.0
+Murdock Chevrolet,2,0.0,0.0
+Murdock Hyundai Lindon,11,0.0,18.181818181818183
+Murdock Hyundai Murray,6,0.0,0.0
+Murdock Hyundai of Logan,5,0.0,0.0
+Murdock Volkswagen of Logan,5,0.0,0.0
+Murfreesboro Hyundai,2,0.0,50.0
+Murray Ford Superstore,1,0.0,100.0
+Murray Ford of Kingsland,2,0.0,0.0
+My Auto Import Center,2,0.0,0.0
+Myers Ford,1,0.0,0.0
+NIELSEN FORD OF MORRISTOWN,1,0.0,0.0
+NJ State Auto Used Cars,3,0.0,0.0
+NOLA Motorcars,2,100.0,0.0
+NW Automotive Group,2,0.0,0.0
+NW Truck & SUV,2,100.0,0.0
+NYC Motorcars of Hempstead,1,0.0,0.0
+Nalley BMW,5,0.0,40.0
+Napa Ford,1,0.0,0.0
+Napa Nissan,3,100.0,33.33333333333333
+Naperville Auto Haus,1,100.0,0.0
+Naples INFINITI,1,0.0,0.0
+Naples Nissan,1,0.0,0.0
+Napleton Autowerks Loves Park,1,0.0,0.0
+"Napleton Florida - Delivery from Orlando, Florida for Naples/Fort Myers",1,100.0,0.0
+"Napleton Florida - Delivery from West Palm Beach, Florida for Naples/Fort Myers",1,100.0,0.0
+Napleton Hyundai of Carmel,1,0.0,0.0
+Napleton Italian Imports,1,0.0,0.0
+Napleton Kia of Fishers,1,0.0,0.0
+Napleton Off Lease,3,0.0,0.0
+Napleton Porsche of Westmont,6,0.0,33.33333333333333
+Napleton's Arlington Heights Chrysler Dodge Jeep RAM,1,0.0,0.0
+Napleton's Auto Park Of Urbana,3,0.0,0.0
+Napleton's Countryside Mazda,1,0.0,0.0
+Napleton's Mid Rivers Kia,1,0.0,0.0
+Napleton's North Palm Hyundai,1,0.0,0.0
+Napleton's Palatine Subaru,1,0.0,100.0
+Napleton's Schaumburg Mazda,1,0.0,0.0
+Napleton's St. Louis Nissan,4,0.0,0.0
+Napleton's Valley Hyundai,2,0.0,0.0
+Napoli Kia,1,0.0,0.0
+Napoli Nissan,1,0.0,0.0
+"Naryan Auto Group, Inc.",1,100.0,0.0
+Nash Auto,4,0.0,0.0
+Nashua Used Car Superstore,1,100.0,0.0
+Nashville Speed Shop LLC,2,100.0,0.0
+Nate Wade Subaru,1,0.0,0.0
+National Auto of Waldorf,1,0.0,0.0
+National City Auto Center,4,0.0,0.0
+National Motors of Ellicott City,1,0.0,0.0
+Neil Huffman Chevy GMC Nissan of Frankfort,2,0.0,50.0
+Nelson Mazda Cool Springs,3,0.0,0.0
+Nelson Mazda Murfreesboro,1,0.0,0.0
+Nelson Toyota,1,0.0,0.0
+Net Sales Auto,5,100.0,0.0
+Netto Motors,1,100.0,0.0
+"New Autos, Inc",1,100.0,0.0
+New Century BMW,1,0.0,0.0
+New City Nissan,4,0.0,0.0
+New Country Motor Cars,1,0.0,0.0
+New Holland Auto Group,2,0.0,0.0
+"New Line Motors, Inc",1,0.0,0.0
+New PBB Auto Inc,1,100.0,0.0
+New Rochelle Toyota,1,0.0,0.0
+Newberg Ford,5,0.0,0.0
+NexGen Motors,1,0.0,0.0
+Nexcar,1,0.0,0.0
+Next Ride Motors,3,0.0,0.0
+Next Step Auto Sales LLC,1,0.0,0.0
+Nick Abraham Auto Mall,2,0.0,0.0
+Nick Alexander Imports,1,0.0,0.0
+Nick Mayer Ford West,1,0.0,0.0
+Niello Audi,3,33.33333333333333,66.66666666666666
+Niello BMW Mini,2,0.0,0.0
+Niello Volkswagen,5,0.0,0.0
+Niello Volvo Cars Sacramento,4,100.0,75.0
+Nimey's New Generation Cars,1,100.0,0.0
+Nimnicht Buick GMC,1,0.0,0.0
+Nimnicht Chevrolet,1,0.0,0.0
+Nissan City of Red Bank,2,100.0,0.0
+Nissan Ellicott City,1,0.0,100.0
+Nissan North,2,0.0,0.0
+Nissan Of Norwich,1,100.0,0.0
+Nissan of Athens,1,0.0,100.0
+Nissan of Bayshore,1,0.0,0.0
+Nissan of Boerne,2,0.0,0.0
+Nissan of Bowie,1,0.0,100.0
+Nissan of Bradenton,2,0.0,50.0
+Nissan of Clearwater,1,0.0,100.0
+Nissan of Cool Springs,1,0.0,100.0
+Nissan of Costa Mesa,8,0.0,37.5
+Nissan of Dearborn,1,100.0,0.0
+Nissan of Duarte,1,0.0,0.0
+Nissan of Elk Grove,9,0.0,0.0
+Nissan of Greenville,1,0.0,0.0
+Nissan of Hendersonville,4,0.0,75.0
+Nissan of Irvine,3,100.0,33.33333333333333
+Nissan of Lagrange,1,0.0,0.0
+Nissan of Lexington Park,1,0.0,0.0
+Nissan of McKinney,4,0.0,0.0
+Nissan of Mission Hills,7,0.0,28.57142857142857
+Nissan of Newnan,1,0.0,100.0
+Nissan of Omaha,1,0.0,0.0
+Nissan of Orange Park,3,0.0,0.0
+Nissan of Orangeburg,1,100.0,0.0
+Nissan of Portland,2,100.0,100.0
+Nissan of Queens,2,0.0,50.0
+Nissan of Richmond,4,0.0,0.0
+Nissan of Sacramento,3,0.0,33.33333333333333
+Nissan of San Juan Capistrano,2,0.0,0.0
+Nissan of Shelby,2,100.0,0.0
+Nissan of Stockton,3,0.0,0.0
+Nissan of Streetsboro,3,0.0,33.33333333333333
+Nissan of The Main Line,1,0.0,100.0
+Nissan of Thousand Oaks,1,100.0,0.0
+Nissan of Torrance,1,0.0,100.0
+Nissan of Turnersville,1,0.0,0.0
+Nissan of Tustin,1,0.0,100.0
+Nissan of Vacaville,2,0.0,0.0
+Nissan of Van Nuys,3,100.0,66.66666666666666
+Nissan of Yuba City,1,0.0,0.0
+Nissan of the Bronx,1,0.0,0.0
+No. 1 Auto Sales,1,100.0,0.0
+Noblesville Imports,1,100.0,100.0
+Norco Truck Center,5,0.0,0.0
+Norm Reeves Hyundai Superstore,4,0.0,25.0
+Norman Frede Chevrolet,1,0.0,100.0
+Normandin Chrysler Jeep Dodge Ram Fiat,6,100.0,0.0
+North Bay Ford,2,0.0,0.0
+North Bay Imports,13,0.0,0.0
+North Bay Nissan,3,100.0,0.0
+North Bend Chevrolet,1,0.0,0.0
+North City Honda,1,0.0,0.0
+North Coast Auto Mall of Akron,1,0.0,0.0
+North Coast Auto Mall of Bedford,1,0.0,0.0
+North Coast Auto Mall of Cleveland,1,0.0,0.0
+North Coast Mitsubishi Bedford,2,0.0,0.0
+North Coast Mitsubishi of Akron,2,100.0,0.0
+North Country Chevrolet GMC,1,100.0,0.0
+North Country Ford Chrysler Dodge Jeep Ram,2,0.0,0.0
+North End Mazda,1,0.0,0.0
+North End Motors,3,0.0,0.0
+North Ft. Lauderdale Subaru,3,0.0,0.0
+North Miami Mitsubishi,1,0.0,0.0
+North Park Chevrolet,2,0.0,0.0
+North Park Toyota of San Antonio,1,0.0,100.0
+North State Auto,5,100.0,0.0
+Northampton Volkswagen,2,0.0,0.0
+Northeast Kia,4,0.0,25.0
+Northern Kentucky Auto Sales,1,0.0,0.0
+Northridge Toyota,2,100.0,0.0
+Northside Auto,8,100.0,12.5
+Northstar Mitsubishi,1,0.0,0.0
+"Northtowne Volkswagen, Hyundai, Mazda",3,0.0,0.0
+Northwest Auto Hub,2,0.0,0.0
+Northwest Chevrolet of Bellingham,3,0.0,33.33333333333333
+Northwest Chrysler Jeep Dodge RAM,1,0.0,0.0
+Northwest Motorsport - Puyallup,1,0.0,0.0
+Norwalk Toyota,2,0.0,0.0
+Nucar Volkswagen of Norwood,1,0.0,0.0
+Nunzi's Auto Sales,1,100.0,0.0
+Nxcess Motorcars,4,0.0,0.0
+"Nye Automotive Group - Delivery from Oneida, NY (for Rochester, NY)",4,100.0,0.0
+O'Brien Hyundai of Normal,3,0.0,0.0
+O'Brien Mitsubishi,1,0.0,0.0
+O'Brien Nissan of Bloomington,1,0.0,0.0
+O'Fallon Buick GMC,1,100.0,0.0
+O'Fallon Motors,1,100.0,0.0
+O'Gara Coach San Diego,1,100.0,0.0
+O'Meara GMC,1,0.0,0.0
+O'Meara Volkswagen of Thornton,2,0.0,0.0
+O'Steen Volkswagen,2,0.0,0.0
+O.C. Welch Ford,13,0.0,61.53846153846154
+OC Auto Club,4,100.0,0.0
+OC Auto Exchange,2,0.0,0.0
+OC Autosource,2,100.0,50.0
+OC Chief Auto,18,100.0,0.0
+ODaniel Chrysler Dodge Jeep Ram,3,0.0,0.0
+Oakbrook Toyota in Westmont,1,0.0,0.0
+Oakland Chevrolet,2,100.0,0.0
+Oakland Kia,5,100.0,0.0
+Ocean Auto Club,3,0.0,0.0
+Ocean Auto Club of Doral,1,0.0,0.0
+Ocean Cadillac,1,0.0,0.0
+Ocean Crest Chevrolet Buick GMC,1,0.0,0.0
+Ocean Honda Santa Cruz,2,0.0,0.0
+Ocean Honda of Burlingame,1,100.0,0.0
+Ocean Honda of Ventura,1,0.0,0.0
+Ocean Mazda,2,0.0,50.0
+Octane Buick GMC,1,0.0,0.0
+Off Lease Only Bradenton,7,0.0,0.0
+Off Lease Only Broward,8,0.0,0.0
+Off Lease Only Miami,14,0.0,0.0
+Off Lease Only Orlando,19,0.0,15.789473684210526
+Off Lease Only Palm Beach,22,0.0,4.545454545454546
+Ogden Lincoln Of Westmont,9,0.0,22.22222222222222
+Olathe Ford Lincoln,2,0.0,0.0
+Olympia Nissan,5,0.0,0.0
+Omaha Motors,1,100.0,0.0
+One Subaru of Hayward,2,100.0,0.0
+One Toyota Of Oakland,3,100.0,0.0
+Onion Creek Volkswagen,1,0.0,0.0
+Online Automotive,1,100.0,0.0
+Opelika Ford Chrysler Dodge Jeep Ram,1,0.0,0.0
+Orange Coast Chrysler Jeep Dodge Ram Fiat,5,0.0,0.0
+Original Owner Autos,1,100.0,0.0
+Orlando Chrysler Dodge Jeep Ram,1,0.0,0.0
+Orlando INFINITI,2,0.0,0.0
+Orlando VW South,2,0.0,0.0
+Orleans Ford,3,0.0,0.0
+Orr BMW,1,100.0,0.0
+Orr Nissan Central,1,100.0,0.0
+Oswego Motors,1,0.0,0.0
+"OttoSource, Corp.",35,0.0,2.857142857142857
+Ourisman Chevrolet Baltimore - Curbside pickup and home delivery available,2,0.0,0.0
+Ourisman Chevrolet of Bowie - Curbside Pick Up and Home Delivery Available,1,0.0,0.0
+Ourisman Chevrolet of Rockville - Curbside pickup and home delivery available,2,0.0,0.0
+Ourisman Chrysler Dodge Jeep Ram of Bowie - Curbside Pick Up and Home Delivery Available,1,0.0,0.0
+Ourisman Chrysler Dodge Jeep Ram of Woodbridge,1,100.0,0.0
+Ourisman Fairfax Kia,2,0.0,0.0
+Ourisman Honda of Tysons Corner,1,0.0,0.0
+Ourisman Hyundai of Bowie,5,0.0,20.0
+Ourisman Jeep,3,0.0,0.0
+Ourisman Volkswagen Volvo of Bethesda,4,0.0,50.0
+Ourisman Volvo Audi of Frederick,2,0.0,50.0
+Ourisman of Rockville,3,0.0,0.0
+OutLet4Cars.com,1,100.0,0.0
+Outten Chevy of Allentown,1,0.0,0.0
+Overdrive USA,1,0.0,0.0
+Overstock Vehicles,3,100.0,0.0
+Overturf Volkswagen Kia,2,0.0,0.0
+Oxford Car and Truck,1,100.0,0.0
+Oxmoor Chrysler,1,0.0,0.0
+Oxmoor Ford,4,0.0,25.0
+Oxmoor Hyundai,1,0.0,0.0
+Oxmoor Toyota,4,0.0,25.0
+Oxnard Mazda,1,100.0,0.0
+PA Auto Select,1,0.0,0.0
+PAAUTOSALES.COM,2,0.0,0.0
+PALS Personal Auto Locator Service of Knoxville,2,100.0,0.0
+PDX Motors,1,0.0,100.0
+PLATINUM MOTOR CARS,1,0.0,100.0
+PNW Luxury Cars,6,0.0,0.0
+PPNJ Auto Mall,10,0.0,0.0
+PREMIER Kia of Carlsbad,4,0.0,0.0
+Pacific Auto Center - Costa Mesa,26,0.0,3.8461538461538463
+Pacific Auto Center - Fontana,39,0.0,7.6923076923076925
+Pacific BMW,10,0.0,20.0
+Pacific Volkswagen,2,0.0,0.0
+Pacifico Ford,2,0.0,0.0
+Packey Webb Ford,2,0.0,0.0
+Pallotta Ford Lincoln,1,0.0,0.0
+Palm Beach Toyota,2,0.0,0.0
+Palm Coast Ford,1,0.0,0.0
+Palm Springs Motors Ford,2,0.0,0.0
+Palm Springs Nissan,2,0.0,0.0
+Palmer Dodge Chrysler Jeep RAM,1,0.0,0.0
+Palmetto 57 Nissan,2,0.0,50.0
+Palomino Motors,5,100.0,20.0
+Paoli Ford,1,0.0,0.0
+Paradise Automotive Group,8,100.0,0.0
+Paradise Chevrolet Cadillac,1,0.0,0.0
+Paramount Ford,1,0.0,0.0
+Paramount Hyundai of Hickory,5,0.0,20.0
+Paramount Kia of Hickory,1,0.0,0.0
+Paramount Motors NW,15,100.0,0.0
+Paramount Volvo VW Porsche,3,0.0,33.33333333333333
+Paris Chevrolet Buick GMC,1,0.0,0.0
+Park Chrysler Jeep,2,0.0,50.0
+Park Ford of Mahopac,2,0.0,0.0
+Park Place LTD,2,0.0,0.0
+Park Place Motors,1,100.0,0.0
+Park Place Volvo Cars,1,100.0,100.0
+Parker Johnstone's Wilsonville Honda,2,0.0,0.0
+Parker Toyota,1,0.0,0.0
+Parks Buick GMC,1,0.0,0.0
+Parks Buick GMC Kernersville,1,0.0,0.0
+Parks Lincoln of Longwood,1,0.0,100.0
+Parks Motor Sales Inc,4,0.0,0.0
+Parkside Kia,1,0.0,0.0
+Parkway Ford Lincoln of Lexington,1,0.0,0.0
+Parkway Honda,1,0.0,0.0
+Parkway Hyundai of Wilmington,3,100.0,33.33333333333333
+Parkwood Automall,1,0.0,0.0
+Parsons Ford Lincoln,1,0.0,0.0
+Pary's Auto Sales,1,0.0,0.0
+Passport BMW,1,0.0,0.0
+Passport Mazda,1,0.0,0.0
+Passport Nissan of Alexandria,3,0.0,0.0
+Pat Fischer Nissan,1,0.0,0.0
+Pat Lobb Toyota of Mckinney,1,0.0,0.0
+Pat McGrath Chevyland,1,0.0,0.0
+Patrick Hyundai of Schaumburg,3,0.0,0.0
+Patriot Chevrolet,2,0.0,0.0
+Patriot Chevrolet Buick GMC of Ardmore,1,0.0,0.0
+Patriot Chrysler Dodge Jeep RAM,1,0.0,0.0
+Patriot Chrysler Dodge Jeep Ram of McAlester,1,0.0,0.0
+Patriot Subaru of NA,1,100.0,0.0
+Paul Brown Chrysler Dodge Jeep RAM Kia,1,0.0,0.0
+Paul Clark Ford,3,0.0,0.0
+Paul Miller Nissan,2,0.0,50.0
+Paul Miller Toyota of West Caldwell,1,0.0,0.0
+Paul Miller Volkswagen,1,0.0,0.0
+Paul Sevag Motors Inc.,1,0.0,0.0
+Paul Sherry Chrysler Dodge Jeep RAM,1,0.0,0.0
+Paulding Chrysler Dodge Jeep Ram,1,0.0,0.0
+Payless Car Sales - Anchorage,14,0.0,21.428571428571427
+Payless Car Sales - Valley,4,100.0,0.0
+Peacock Ford,2,0.0,0.0
+Peak KIA Colorado Springs,2,0.0,0.0
+Peak Kia,4,0.0,0.0
+Pearson Hyundai,3,0.0,0.0
+Pearson Mazda,1,100.0,0.0
+Pearson Toyota,1,0.0,0.0
+Pedder Hyundai of Poway,3,0.0,0.0
+Pedersen Volvo Cars,1,100.0,0.0
+Peltier Kia Tyler,4,0.0,0.0
+Pennington Ford Centralia,1,100.0,0.0
+Penske Cadillac of South Bay,1,0.0,0.0
+Penske Chevrolet of Cerritos,1,0.0,0.0
+Penske Honda,1,0.0,0.0
+Peoria Ford,1,0.0,0.0
+Peoria Nissan,3,0.0,0.0
+Perfect 10 Auto,1,0.0,0.0
+Perfect Auto,3,66.66666666666666,0.0
+Perfect Auto Collection,1,0.0,0.0
+Performance Auto Sales Inc,1,0.0,0.0
+Performance Ford,2,0.0,0.0
+Performance Ford Lincoln Bountiful,4,0.0,0.0
+Performance Motors,2,100.0,0.0
+Performance Toyota Bountiful,1,0.0,100.0
+Perillo BMW,9,0.0,33.33333333333333
+Perillo Downers Grove,4,0.0,75.0
+Perkins Motor Plex,26,0.0,0.0
+Perkins Motor Plex Jackson,2,100.0,0.0
+Perkins Motor Plex of Franklin,2,100.0,0.0
+Perkins Motor Plex of Paducah,2,100.0,0.0
+Perry Brothers Used Car Superstore,1,100.0,0.0
+Perry Chrysler Dodge Jeep Ram,1,0.0,0.0
+Perrysburg Automall,2,0.0,0.0
+Peru Ford,1,100.0,0.0
+Peruzzi Nissan,1,0.0,0.0
+Pete Mankins Nissan,1,0.0,0.0
+Peter Boulware Toyota,1,0.0,0.0
+Peters Chevrolet,2,0.0,0.0
+Peterson Auto Group,4,0.0,0.0
+Peterson Chrysler Dodge Jeep Ram,3,0.0,0.0
+Peterson Chrysler Jeep Dodge,3,0.0,0.0
+Pettijohn Auto,1,0.0,0.0
+Phil Long Ford of Chapel Hills,6,0.0,0.0
+Phil Long Ford of Denver,8,0.0,0.0
+Phil Long Hyundai of Chapel Hills,1,0.0,0.0
+Phil Long Hyundai of Motor City,2,0.0,0.0
+Phil Meador Toyota,1,100.0,0.0
+Phil Smith Kia,1,0.0,0.0
+Phil Wright Autoplex,1,0.0,0.0
+Philips Automobiles of Distinction,1,100.0,0.0
+"Phillips Auto Group of Bradley, Inc.",1,0.0,0.0
+Phillips Chevrolet,3,0.0,0.0
+Phoenix Auto Inc,1,100.0,0.0
+Phoenix Motors,1,100.0,0.0
+Piemontes Dundee Chevrolet Inc.,2,0.0,0.0
+Pierre Chevrolet,3,0.0,0.0
+Pierre Ford,8,0.0,0.0
+Pigg Enterprises Inc,3,0.0,33.33333333333333
+Pinckney Chrysler Dodge Jeep RAM,1,0.0,0.0
+Pine Belt Chevy of Lakewood,1,0.0,100.0
+Pinegar Chevy Buick GMC,4,0.0,0.0
+Pinkham Lincoln Automotive,1,0.0,0.0
+Pinnacle Nissan,3,0.0,0.0
+Pioneer Ford,2,0.0,0.0
+Pit Stop Auto Sales,2,100.0,0.0
+Planet Ford 45,2,0.0,0.0
+Planet Ford 59,1,0.0,0.0
+Planet Honda,1,0.0,0.0
+Planet Hyundai,4,0.0,0.0
+Planet Subaru,1,0.0,100.0
+Platinum Auto Group,1,100.0,0.0
+Platinum Autohaus,4,0.0,0.0
+Platinum Autos,3,0.0,33.33333333333333
+Platinum Cars Marietta,2,0.0,0.0
+Platinum Mitsubishi,1,0.0,0.0
+Platinum Motors LLC,1,100.0,0.0
+Platinum Motorsports,3,100.0,0.0
+Platinum Used Cars,2,0.0,0.0
+Platt Auto Group,25,100.0,0.0
+Plattner Labelle Ford,6,0.0,33.33333333333333
+Plattners Punta Gorda Auto Max,1,100.0,0.0
+Plaza Auto Mall,4,0.0,0.0
+Plaza Motors,2,0.0,0.0
+Pohanka Acura,1,0.0,0.0
+Pohanka Lexus,1,0.0,0.0
+"Pointe Buick GMC, LLC",1,0.0,0.0
+Poquet Auto,9,0.0,0.0
+Porsche Annapolis,1,0.0,0.0
+Porsche Arlington,3,0.0,33.33333333333333
+Porsche Atlanta Perimeter,6,0.0,16.666666666666664
+Porsche Audi of Wallingford,1,100.0,100.0
+Porsche Austin,7,0.0,57.14285714285714
+Porsche Barrington,16,0.0,25.0
+Porsche Beachwood,5,0.0,0.0
+Porsche Beaverton,4,0.0,0.0
+Porsche Bellevue,6,0.0,33.33333333333333
+Porsche Bethesda,1,0.0,0.0
+Porsche Chandler,1,0.0,0.0
+Porsche Chantilly,3,0.0,100.0
+Porsche Colorado Springs,5,0.0,60.0
+Porsche Delaware,4,0.0,75.0
+Porsche Downtown Chicago,8,0.0,37.5
+Porsche Downtown LA,2,0.0,0.0
+Porsche Englewood,2,0.0,50.0
+Porsche Fort Myers,2,0.0,0.0
+Porsche Fremont,2,0.0,100.0
+Porsche Hawaii,2,100.0,0.0
+Porsche Hilton Head,2,0.0,50.0
+Porsche Hunt Valley,5,0.0,20.0
+Porsche Huntington,2,0.0,100.0
+Porsche Irvine,6,0.0,50.0
+Porsche Jacksonville,4,0.0,50.0
+Porsche Lehigh Valley,1,0.0,100.0
+Porsche Littleton,5,0.0,0.0
+Porsche Livermore,2,100.0,50.0
+Porsche Long Beach,1,100.0,100.0
+Porsche Main Line,10,0.0,40.0
+Porsche Marin,8,0.0,12.5
+Porsche Mechanicsburg,5,0.0,40.0
+Porsche Milwaukee North,1,0.0,100.0
+Porsche Minneapolis,7,0.0,42.857142857142854
+Porsche Mobile,2,50.0,0.0
+Porsche Monmouth,1,0.0,0.0
+Porsche Naples,6,0.0,66.66666666666666
+Porsche Newport Beach,7,0.0,14.285714285714285
+Porsche North Houston,7,0.0,28.57142857142857
+Porsche North Olmsted,1,0.0,0.0
+Porsche North Scottsdale,9,0.0,22.22222222222222
+Porsche Norwell,2,0.0,0.0
+Porsche Of Omaha,1,100.0,0.0
+Porsche Oklahoma City,4,0.0,25.0
+Porsche Ontario,3,0.0,66.66666666666666
+Porsche Orland Park,5,0.0,0.0
+Porsche Orlando,3,0.0,0.0
+Porsche Owings Mills,5,0.0,20.0
+Porsche Palm Springs,9,100.0,11.11111111111111
+Porsche Plano,6,0.0,16.666666666666664
+Porsche Princeton,6,0.0,50.0
+Porsche Redwood City,3,0.0,33.33333333333333
+Porsche River Oaks,1,0.0,0.0
+Porsche Riverside,4,0.0,50.0
+Porsche Rocklin,4,100.0,50.0
+Porsche Salt Lake City,4,0.0,75.0
+Porsche San Diego,10,0.0,50.0
+Porsche South Austin,3,100.0,33.33333333333333
+Porsche South Bay,1,0.0,0.0
+Porsche South Orlando,6,0.0,16.666666666666664
+Porsche South Shore,7,0.0,57.14285714285714
+Porsche St. Louis,2,0.0,50.0
+Porsche St. Paul,4,0.0,25.0
+Porsche Stratham,2,100.0,0.0
+Porsche Tacoma,7,0.0,28.57142857142857
+Porsche West Broward,6,0.0,0.0
+Porsche West Houston,2,0.0,0.0
+Porsche West Palm Beach,15,0.0,53.333333333333336
+Porsche Westlake,5,0.0,60.0
+Porsche Westwood,1,0.0,100.0
+Porsche Wichita,1,0.0,100.0
+Porsche Woodland Hills,7,0.0,71.42857142857143
+Porsche of Destin,1,0.0,0.0
+Porsche of El Paso,2,0.0,100.0
+Porsche of Kings Auto Mall,1,100.0,100.0
+Porsche of Nashville,2,100.0,50.0
+Porsche of New Orleans,1,0.0,0.0
+Porsche of Ocala,2,0.0,0.0
+Porsche of Tampa,4,0.0,50.0
+Porsche of the Motor City,1,100.0,100.0
+Port Orchard Ford,1,0.0,0.0
+Portland Auto Sales,3,100.0,0.0
+Portland Volvo Cars,2,0.0,100.0
+Portsmouth Ford,1,0.0,0.0
+Posh Motors,1,100.0,0.0
+Post Oak Motors,1,100.0,0.0
+Post Oak Toyota,3,0.0,0.0
+Potamkin Hyundai,2,0.0,0.0
+Poway Honda,1,0.0,0.0
+Power Ford,2,0.0,0.0
+Power Motors NYC Inc,1,100.0,100.0
+Power of Bowser,2,0.0,0.0
+Pre Owned Only of San Jose,3,0.0,33.33333333333333
+Precise Automotive Group,3,0.0,0.0
+Preferred Automotive Group Illinois Road,12,100.0,8.333333333333332
+Premier Auto Group,2,100.0,0.0
+Premier Auto Imports,4,100.0,0.0
+Premier Automotive,6,0.0,0.0
+Premier Chrysler Dodge Jeep Ram of Lamesa,1,100.0,0.0
+Premier Nissan of Fremont,1,100.0,100.0
+Premier Subaru Kia,4,0.0,0.0
+Premium Auto Sales,1,100.0,0.0
+Premium Autos,40,30.0,0.0
+Prescott Honda,1,0.0,0.0
+Prestige Audi,6,0.0,33.33333333333333
+Prestige Auto Mart of Taunton,1,0.0,0.0
+Prestige Auto Mart of Westport,9,0.0,0.0
+Prestige Cadillac,1,0.0,0.0
+Prestige Chrysler Dodge Jeep RAM,1,0.0,0.0
+Prestige Collection,1,0.0,100.0
+Prestige Imports,6,0.0,16.666666666666664
+Prestige Imports Porsche,3,100.0,33.33333333333333
+Prestige Mitsubishi,1,0.0,0.0
+Prestige Motor Works,3,0.0,0.0
+Prestige Motors,3,0.0,0.0
+Prestige Motors Pasco,3,100.0,0.0
+Prestige Toyota of Ramsey,1,0.0,0.0
+Prestige Volvo,2,0.0,50.0
+Prestige Wholesale,2,100.0,0.0
+Preston Chrysler Dodge Jeep Ram,1,0.0,0.0
+Preston Ford Lincoln Hyundai Nissan,1,0.0,0.0
+Preston Honda,1,0.0,0.0
+Preston Superstore,3,0.0,0.0
+Price Ford of Simi Valley,1,0.0,0.0
+Price Kia,2,100.0,50.0
+Price Leblanc Nissan,1,0.0,0.0
+Price Pro,28,0.0,3.571428571428571
+Priced Rite Auto,2,100.0,0.0
+Prime Autos of Hagerstown,1,100.0,0.0
+Prime Motors LLC,1,0.0,0.0
+Prime One Motorsports,1,100.0,0.0
+Prime Rides Autohaus,1,100.0,0.0
+Principle BMW of San Antonio,6,0.0,66.66666666666666
+Principle Toyota of Hernando,2,0.0,0.0
+Principle Volvo Cars San Antonio,2,0.0,0.0
+Priority Chevrolet,1,0.0,0.0
+Pristine Mitsubishi,3,0.0,0.0
+Pristine Motorsports,3,0.0,0.0
+Pritchard's Lake Chevrolet,2,100.0,50.0
+Pritchard's of Britt,1,100.0,0.0
+Private Collection Motors,1,100.0,0.0
+Pro Cars USA Inc,2,0.0,0.0
+Prospect Auto Sales,1,100.0,0.0
+Prosper Chrysler Dodge Jeep Ram,2,0.0,0.0
+Prosper Ford,1,0.0,0.0
+Providence Auto Group,1,100.0,0.0
+Pryor Chevrolet Buick GMC,1,0.0,0.0
+Puente Hills Chrysler Dodge Jeep Ram,1,0.0,0.0
+Puente Hills Hyundai,3,0.0,0.0
+Puente Hills Mitsubishi,1,0.0,0.0
+Puente Hills Subaru,1,0.0,0.0
+Pugmire Ford Cartersville,1,0.0,0.0
+Pulse Autos,1,100.0,0.0
+Pure Country Chevrolet - dupe,1,100.0,0.0
+Putnam Toyota,2,100.0,0.0
+Putnam Volvo Cars Mazda Subaru Dodge Jeep Chrysler RAM Nissan,4,100.0,25.0
+Quakertown Mitsubishi,2,0.0,0.0
+Quality Auto Center,1,0.0,0.0
+Quality Auto Center of Springfield,2,0.0,0.0
+Quantum Auto Sales,5,100.0,20.0
+Quebedeaux Buick GMC,5,0.0,0.0
+Queens Auto Mall,1,0.0,0.0
+R & B Car Company South Bend,1,0.0,0.0
+RAVMOTORS,1,0.0,0.0
+RAVMOTORS of Crystal,1,0.0,0.0
+RBM of Atlanta,1,0.0,100.0
+RC Automotive,7,100.0,0.0
+"RK Chevrolet, Inc.",2,0.0,50.0
+RMR 4x4,2,100.0,0.0
+ROGER KEHDI MITSUBISHI,1,100.0,0.0
+RPM,1,100.0,0.0
+RPM Garage,1,0.0,0.0
+"RPM Motorcars, LLC.",1,100.0,0.0
+RT Auto Center,1,100.0,0.0
+RUIZ RANCH MOTORS,1,100.0,0.0
+RVA Automotive Group,1,0.0,0.0
+Raceway Nissan,1,0.0,0.0
+Radley Cadillac,2,0.0,0.0
+Rahib Motors,1,100.0,0.0
+Rainbow Mitsubishi North,2,0.0,0.0
+Rairdon's Alfa Romeo Maserati and Fiat of Kirkland,7,0.0,0.0
+Rairdon's Auto Outlet,2,100.0,0.0
+Rairdon's Dodge Chrysler Jeep Hyundai RAM of Bellingham,2,100.0,0.0
+Rally Kia,1,0.0,0.0
+Rallye Motors,1,0.0,100.0
+Ralph's Auto Center,1,0.0,0.0
+Ramey Motors,2,0.0,0.0
+Ramey Tazewell,1,100.0,0.0
+Ramsey Corp. Com,1,0.0,0.0
+Randy Curnow Buick GMC,4,0.0,25.0
+Randy Marion Buick GMC of Huntersville,1,0.0,0.0
+Randy Marion Chrysler Dodge Jeep Ram of Salisbury,1,0.0,0.0
+"Randy Marion Ford Lincoln, LLC",2,0.0,0.0
+Randy Marion Kia Salisbury,1,0.0,0.0
+Rapids Honda,1,0.0,0.0
+Ray Catena Mercedes Benz Freehold,1,0.0,100.0
+"Ray Catena Porsche, Jaguar, Land Rover of Edison",1,0.0,0.0
+Ray Dennison Chevrolet,2,0.0,0.0
+Ray Laks Honda,1,0.0,0.0
+Ray Skillman Buick GMC South,1,0.0,0.0
+Ray Skillman Ford,1,0.0,0.0
+Ray Skillman Hoosier Ford,2,0.0,0.0
+Ray Skillman Hyundai of Avon,3,0.0,0.0
+Ray Skillman Northeast Kia on Shadeland,3,0.0,0.0
+Ray Skillman West Kia Hyundai Mitsubishi,3,0.0,0.0
+Raymond Chevrolet-Kia,2,0.0,0.0
+Razzari Chrysler Dodge Jeep RAM,6,0.0,0.0
+Real Deal Cars,8,100.0,0.0
+Red McCombs Ford,1,0.0,0.0
+Red McCombs Hyundai Northwest,1,0.0,0.0
+Red Noland Pre-Owned,1,0.0,0.0
+Red Star Auto Inc.,1,100.0,0.0
+Redline Auto Sales,1,0.0,0.0
+Redline European,1,0.0,0.0
+Redondo Beach Auto Sales,1,100.0,0.0
+Redondo Mitsubishi,4,0.0,0.0
+Redwood City INFINITI,3,100.0,33.33333333333333
+Redwood Ford,1,0.0,0.0
+Reed Hyundai of Kansas City,1,0.0,0.0
+Reed Nissan,2,0.0,50.0
+Reeder Chevrolet,1,0.0,0.0
+Reedman Toll Nissan of Drexel Hill,1,0.0,100.0
+"Reel's Auto Sales, LLC",1,100.0,0.0
+Regal Chevrolet Kia Lakeland,1,0.0,0.0
+Reggie Jackson Airport Honda,1,100.0,0.0
+Register Chevrolet,2,0.0,0.0
+Rehan Motors,2,100.0,0.0
+Reineke Ford Lincoln,1,100.0,0.0
+Reiselman Nissan,2,0.0,0.0
+Reliable Chevrolet,3,0.0,0.0
+Reliable Nissan,3,0.0,0.0
+Reliable Subaru,1,100.0,100.0
+Reliance Chrysler Jeep Dodge Ram,1,0.0,0.0
+Reliance Nissan of Alvin,3,100.0,0.0
+Renton Chrysler Dodge Jeep Ram,2,0.0,50.0
+Reserve Auto Group,5,0.0,80.0
+Ressler Cadillac,1,100.0,0.0
+Revved Motors,3,0.0,33.33333333333333
+Reydel Volkswagen of Linden,1,0.0,0.0
+Reynolds Automotive,1,100.0,0.0
+Rich Morton Mazda,2,0.0,0.0
+Richardson Chrysler Jeep Dodge Ram,1,0.0,0.0
+Richmond BMW,1,0.0,0.0
+Rick Case Hyundai Fort Lauderdale,1,0.0,0.0
+Rick Case Hyundai of Duluth,1,0.0,0.0
+Rick Case Kia,3,0.0,33.33333333333333
+Rick Case Kia at Gwinnett Place,1,0.0,0.0
+Rick Case Maserati,1,0.0,0.0
+Rick Case Volkswagen,2,0.0,0.0
+Rick Hendrick Buick GMC,1,0.0,0.0
+Rick Hendrick Chevrolet Charleston,4,0.0,0.0
+Rick Hendrick Chevrolet of Buford,2,0.0,0.0
+Rick Hendrick Chevrolet of Duluth,2,0.0,0.0
+Rick Hendrick Chrysler Dodge Jeep RAM Duluth,1,0.0,100.0
+Rick Hendrick Toyota Sandy Springs,1,0.0,0.0
+Rick Hill Imports,2,0.0,50.0
+Rick Ridings Ford,2,0.0,50.0
+Rickenbaugh Cadillac Volvo Cars,7,0.0,28.57142857142857
+Ride N Drive,1,0.0,0.0
+Rides Auto Sales,1,0.0,0.0
+Rides Unlimited Chicago,1,0.0,0.0
+Ridge Road Imports,1,100.0,100.0
+Right Price Motors,2,100.0,0.0
+Right Toyota,2,0.0,0.0
+RightDrive,5,0.0,0.0
+Rise V West,1,0.0,0.0
+Ritchey Automotive,1,0.0,0.0
+Rivard Buick GMC,2,0.0,50.0
+River City Auto Inc,1,100.0,0.0
+River Oaks Chrysler Jeep Dodge RAM,1,0.0,100.0
+RiverBend Ford,2,0.0,0.0
+Riverchase Kia,3,0.0,0.0
+Riverhead Buick GMC,1,100.0,0.0
+Riverhead Hyundai & Riverhead Nissan,6,0.0,16.666666666666664
+Riverside Nissan,2,0.0,0.0
+Rizza Cadillac Buick GMC,1,0.0,0.0
+Road Masters II Inc.,1,100.0,0.0
+Road Runner Auto Sales of Wayne,13,0.0,0.0
+Roadsport,3,100.0,0.0
+Rob Sight Ford,3,0.0,0.0
+Robbins Motor Company Chrysler Dodge Jeep Ram Fiat,2,0.0,0.0
+Roberson Albany Ford,1,100.0,0.0
+Roberson Motors,4,0.0,0.0
+Robert DeNooyer Chevrolet,4,0.0,0.0
+Roberts Auto Sales,6,0.0,16.666666666666664
+Roberts Toyota,1,0.0,0.0
+Rochester Ford,4,0.0,0.0
+Rochester Mazda,1,100.0,0.0
+Rochester Volkswagen,1,0.0,0.0
+Rock Hill Ford,4,0.0,25.0
+Rock Honda,3,0.0,0.0
+Rockdale Country Ford,1,0.0,0.0
+Rockland Motors,1,100.0,0.0
+Rockwall Ford,1,0.0,0.0
+Rocky Mountain Auto Brokers Inc.,1,0.0,0.0
+Rocky Mountain Eurosport Parker,7,0.0,0.0
+Rod Hatfield Chevrolet,1,0.0,100.0
+Rodland Toyota,1,0.0,0.0
+Roesch Ford,1,0.0,0.0
+Rollit Motors,1,0.0,0.0
+Rolls Auto Sales,1,0.0,0.0
+Rolls-Royce Motor Cars Raleigh,5,0.0,0.0
+Romain Cross Pointe Auto Park,1,0.0,0.0
+Romeo Chevrolet Buick GMC,3,0.0,0.0
+Romeo Kia,1,0.0,0.0
+Romeo VW of Kingston,3,0.0,0.0
+Ron Bouchard's Nissan,2,0.0,50.0
+Ron Craft Chevrolet,1,0.0,0.0
+Ron Dupratt Ford,3,0.0,0.0
+Ron Marhofer Nissan,2,0.0,0.0
+Ron Motor Inc.,1,100.0,0.0
+Ron Norris Ford,1,100.0,0.0
+Ron Tirapelli Ford,1,0.0,0.0
+Ron Tonkin Acura,3,0.0,0.0
+Ron Tonkin Alfa Romeo,1,0.0,0.0
+Ron Tonkin Chevrolet,1,0.0,0.0
+Ron Tonkin Chrysler Jeep Dodge Ram Fiat,1,0.0,0.0
+Ron Tonkin Hyundai,4,0.0,0.0
+Ron Tonkin Kia,3,0.0,0.0
+Roseburg Honda,1,0.0,0.0
+Rosen Hyundai of Algonquin,1,0.0,100.0
+Rosenthal Acura,1,0.0,0.0
+Rosenthal Chevrolet,2,0.0,0.0
+Rosenthal Landmark Honda,1,0.0,0.0
+Roseville Hyundai,2,0.0,0.0
+Roseville Toyota,1,0.0,0.0
+Rosso Corsa,1,100.0,0.0
+Roth Cadillac Audi Erie,1,100.0,0.0
+Roughlock Auto,2,100.0,0.0
+Round Rock Nissan,1,0.0,0.0
+Route 1 Chevrolet,1,100.0,0.0
+Route 1 Hyundai,1,0.0,0.0
+Route 10 Nissan,3,0.0,0.0
+Route 130 Chrysler Jeep Dodge,1,0.0,0.0
+Route 17 Mitsubishi,1,0.0,0.0
+Route 17 Nissan,1,0.0,0.0
+Route 22 Honda,1,0.0,0.0
+Route 22 Nissan,1,0.0,0.0
+Route 23 Automall,1,0.0,0.0
+Route 23 Nissan,3,0.0,33.33333333333333
+Route 33 Nissan,2,0.0,50.0
+Route 46 Nissan,3,0.0,0.0
+Rowe Ford Lincoln Hyundai,2,0.0,0.0
+Royal Automotive,1,0.0,0.0
+Royal Buick GMC Cadillac Tucson,1,0.0,0.0
+Royal Kia Tucson,1,0.0,0.0
+Royal Nissan,1,0.0,0.0
+Royal South Toyota Scion,1,0.0,0.0
+Rte 61 Classics and Toy Barn LLC,1,100.0,0.0
+Ruddell Auto,3,0.0,0.0
+Rudolph Honda,1,0.0,0.0
+Rudolph Volkswagen of El Paso,2,0.0,0.0
+Rusnak BMW,1,0.0,0.0
+Rusnak Volvo Cars,6,0.0,50.0
+Rusnak/Pasadena Porsche,3,0.0,100.0
+Rusnak/Westlake Audi,2,0.0,0.0
+Russ Darrow Kia of Wauwatosa,2,0.0,0.0
+Russ Darrow Nissan of West Bend,1,0.0,100.0
+Russ Darrow Waukesha Mitsubishi,2,0.0,0.0
+Russ Hubler Ford,1,100.0,0.0
+Russ Milne Ford,1,0.0,0.0
+Russell Barnett Kia,1,100.0,0.0
+Russell Westbrook Hyundai of Anaheim,7,0.0,14.285714285714285
+Russell Westbrook Hyundai of Garden Grove,9,0.0,22.22222222222222
+Rusty Drewing Chevrolet Buick GMC,1,0.0,0.0
+Rusty Drewing Toyota,4,0.0,0.0
+Ryan Auto Mall GM,1,0.0,0.0
+Ryan O'Neal Autos,1,100.0,0.0
+Rydell of Independence,1,0.0,0.0
+S & D West Bridgewater,2,100.0,0.0
+S&M Auto Sales,2,0.0,0.0
+SC Motors II,13,0.0,0.0
+SHiFTED,2,100.0,0.0
+SJL Motors,6,0.0,0.0
+SJL Motors of Miami,33,100.0,0.0
+ST. GEORGE AUTO gallery,2,100.0,0.0
+STG Auto Group - Garden Grove,8,0.0,25.0
+STG Auto Group of Bellflower,2,0.0,0.0
+STG Auto Group of Montclair,5,0.0,0.0
+Sacramento Chrysler Dodge Jeep Ram,3,100.0,0.0
+Safford Brown Hyundai Fairfax,1,0.0,0.0
+Safford Brown Hyundai Manassas,1,0.0,0.0
+Safford Brown Mazda Alexandria,1,0.0,0.0
+Safford Brown Subaru Manassas,2,0.0,0.0
+Safford Chrysler Jeep Dodge RAM Fiat of Springfield,1,0.0,100.0
+Safford Hyundai of Springfield,2,0.0,0.0
+Sager Ford,2,100.0,0.0
+Sale Auto Mall,2,0.0,0.0
+Salem Ford,7,0.0,14.285714285714285
+Salt Lake Valley Chevrolet,1,0.0,0.0
+Salt Lake Valley Chrysler Dodge Jeep Ram,3,0.0,33.33333333333333
+Sam Galloway Ford,1,0.0,0.0
+Sam Leman Dodge Chrysler Jeep RAM - Peoria,2,0.0,0.0
+Sam Leman Ford,3,0.0,0.0
+Sam Leman Toyota - Bloomington,1,0.0,0.0
+Sam Pack's 5 Star Chevrolet,1,0.0,0.0
+Sam Pack's Five Star Ford Carrollton,2,0.0,50.0
+Sam Pierce Chevrolet,3,0.0,0.0
+Sam's Auto,3,100.0,0.0
+Sammys Enterprise,1,100.0,0.0
+San Diego Chrysler Dodge Jeep RAM,1,0.0,0.0
+San Diego eCars Inc.,21,100.0,0.0
+San Francisco Audi Volkswagen Volvo Cars,1,100.0,0.0
+San Leandro Nissan,1,100.0,0.0
+San Marcos Toyota,1,0.0,0.0
+San Tan Ford,1,0.0,0.0
+Sanborn Chevrolet,1,0.0,0.0
+Sanderson Ford,4,0.0,0.0
+Sandia Toyota,2,0.0,0.0
+Sands Chevrolet - Glendale,2,0.0,0.0
+Sands Chevrolet - Surprise,2,0.0,0.0
+Sands Ford of Pottsville,3,0.0,0.0
+Sands Kia,2,0.0,0.0
+Sanford Honda,1,0.0,0.0
+Sanford Imports,1,100.0,0.0
+Sansone Jr's 66 Auto,3,100.0,0.0
+Sansone Rt 1 Auto Mall,1,0.0,0.0
+Santa Barbara Auto Group,1,100.0,0.0
+Santa Cruz Subaru,1,0.0,100.0
+Santa Cruz Toyota,1,0.0,0.0
+Santa Cruz Volkswagen Chrysler Dodge Jeep Ram,3,100.0,0.0
+Santa Margarita Ford,2,0.0,0.0
+Santa Monica Audi,5,0.0,0.0
+Santa Monica BMW,1,0.0,0.0
+Santa Monica Chrysler Jeep Dodge Ram,2,0.0,0.0
+Santa Monica Ford,4,0.0,0.0
+Santa Monica Suvs,1,100.0,0.0
+Sapaugh GM Country,1,0.0,0.0
+Sarasota Ford,4,0.0,25.0
+Sarasota Toyota,2,0.0,0.0
+Sarat Ford Lincoln,1,0.0,0.0
+Sarchione Auto Gallery,9,100.0,11.11111111111111
+Sarchione Chevrolet,1,0.0,100.0
+Sarchione Ford,1,0.0,0.0
+Sarchione Ford of Waynesburg,2,0.0,50.0
+Sawmill Auto Sales,1,0.0,0.0
+Sawnee Mountain Motors,1,100.0,0.0
+Scarsdale Ford,1,0.0,0.0
+Schaumburg Ford,9,0.0,0.0
+Schaumburg Honda Automobiles,5,0.0,0.0
+Schaumburg Kia,5,0.0,0.0
+Schaumburg Toyota,1,0.0,0.0
+Scheidemantle Motors,1,100.0,0.0
+Schicker Ford of St. Louis,1,0.0,0.0
+Schmelz Countryside Alfa Romeo FIAT Saab VW,1,0.0,0.0
+Schoepp Motors West,2,0.0,0.0
+Schomp BMW,4,0.0,0.0
+Schomp Hyundai,1,0.0,0.0
+Schomp Mini,1,0.0,0.0
+Schomp Nissan,1,0.0,0.0
+Schrier Automotive Inc,2,0.0,0.0
+Scott Mazda,1,100.0,0.0
+Scott Volvo Cars Allentown,2,100.0,50.0
+Scotti's Auto Sales,2,0.0,50.0
+Scottsdale Auto Group,4,0.0,25.0
+Scottsdale Ferrari-Maserati,1,0.0,0.0
+Scranton Chevrolet of Norwich,1,0.0,0.0
+Seabreeze Ford,4,0.0,25.0
+Seaport Auto,1,0.0,0.0
+Sears Imported Autos,2,0.0,0.0
+Seattle Auto Haus LLC,1,100.0,0.0
+Seattle Hyundai,1,0.0,0.0
+Seattle Jeep,2,0.0,0.0
+Seattle Mini,1,0.0,0.0
+Secor Volvo,4,0.0,50.0
+Secured Auto Group,6,100.0,0.0
+Seelye Kia of Battle Creek,1,0.0,0.0
+Seguin Chevrolet,1,0.0,0.0
+Selden Motors,1,0.0,0.0
+Select Auto Imports,4,0.0,0.0
+Select Motor Car,1,100.0,0.0
+Select Motor Cars,9,100.0,22.22222222222222
+Select Motors,3,100.0,0.0
+Selective Autoplex,11,0.0,0.0
+Selma Chrysler Dodge Jeep Ram,1,0.0,0.0
+Selma Hyundai,4,0.0,0.0
+Selma Kia,1,0.0,0.0
+Selma Nissan,4,0.0,50.0
+Selman Chevrolet,1,100.0,0.0
+Seminole Chevrolet,1,0.0,0.0
+Seminole Ford,1,100.0,0.0
+Seminole Toyota,1,0.0,0.0
+Sentry Ford Lincoln,1,0.0,0.0
+Serpentini Chevrolet - Strongsville,1,0.0,0.0
+Serpentini Chevrolet Orrville,1,0.0,0.0
+Serra Auto Campus,2,100.0,50.0
+Serra Auto Park,1,0.0,100.0
+Serra Chevrolet Buick GMC of Nashville,1,0.0,0.0
+Serra Ford Farmington Hills,1,0.0,0.0
+Serra Gardendale Kia,1,0.0,0.0
+Serra Hyundai,2,0.0,0.0
+Serra Volkswagen,1,0.0,0.0
+Serramonte Ford,4,0.0,0.0
+Service Chevrolet Cadillac,2,0.0,50.0
+Seth Wadley Auto Group,3,0.0,0.0
+Seth Wadley Ford Lincoln,2,0.0,0.0
+Seth Wadley Ford of Perry,1,0.0,0.0
+Sevierville Auto Brokers,1,100.0,0.0
+Sewell BMW MINI of Plano,12,0.0,50.0
+Sewell BMW of Grapevine,4,0.0,25.0
+Sewell Buick GMC of Midland,1,0.0,0.0
+Sewell Cadillac,2,0.0,0.0
+Sewell Ford Lincoln,2,0.0,50.0
+Sewell Subaru,1,100.0,100.0
+Sewickley BMW,4,0.0,25.0
+Shafer Auto Group,5,100.0,0.0
+Shah Auto Group,1,0.0,0.0
+Shaker's Family Hyundai,1,0.0,0.0
+Shawnee Mission KIA,1,0.0,0.0
+Shaws Auto Sales,1,100.0,0.0
+Sheehan Pre-owned,1,100.0,100.0
+Sheehy Ford Lincoln of Gaithersburg,2,0.0,0.0
+Sheehy Ford of Ashland,2,0.0,50.0
+Sheehy Ford of Springfield,1,0.0,0.0
+Sheehy Honda,3,0.0,0.0
+Sheehy Hyundai of Waldorf,1,0.0,100.0
+Sheehy INFINITI of Annapolis,1,0.0,100.0
+Sheehy INFINITI of Chantilly,2,0.0,50.0
+Sheehy Nissan of Glen Burnie,2,0.0,50.0
+Sheehy Nissan of Manassas,1,0.0,0.0
+Sheehy Nissan of Waldorf,1,0.0,0.0
+Sheehy Nissan of White Marsh,2,0.0,100.0
+Shelor Motor Mile,3,0.0,0.0
+Shepherd's Chevrolet GMC of Rochester Inc,1,100.0,0.0
+Sheridan Ford,3,0.0,0.0
+Sherman Dodge Chrysler Jeep RAM,4,0.0,0.0
+Shields Chrysler Dodge Jeep RAM,1,0.0,0.0
+Shift Bay Area,20,0.0,0.0
+Shift Downers Grove,1,100.0,0.0
+Shift Los Angeles,7,0.0,0.0
+Shift Portland,12,0.0,0.0
+Shift Sacramento - Online,4,100.0,0.0
+Shift San Diego - Online,15,100.0,0.0
+Shingle Springs Subaru,1,0.0,0.0
+Shirlie Slack Mitsubishi,5,0.0,0.0
+Sho Case Auto,1,0.0,0.0
+ShopiCar Inc,1,0.0,0.0
+Shoreline Chrysler Dodge Jeep Ram,1,100.0,0.0
+Shoreline Hyundai,1,100.0,0.0
+Short Redmond SuperStore,1,100.0,100.0
+Shottenkirk Chevrolet,4,0.0,0.0
+Shottenkirk Chrysler Dodge Jeep RAM,2,0.0,0.0
+Shottenkirk Desert Lexus,4,0.0,25.0
+Shottenkirk Ford,1,0.0,0.0
+Shottenkirk Honda Davis,4,0.0,0.0
+Shottenkirk Honda Huntsville,2,0.0,0.0
+Shottenkirk Hyundai of Granbury,2,0.0,0.0
+Shottenkirk Nissan Katy,3,0.0,33.33333333333333
+Shottenkirk Nissan Rome,1,100.0,0.0
+Shottenkirk Superstore,1,0.0,0.0
+Shottenkirk Toyota of Granbury,2,0.0,50.0
+Shottenkirk Toyota of Weatherford,1,0.0,100.0
+Show Me Auto Mall,1,0.0,0.0
+Showcase Auto Sales,1,100.0,100.0
+Showcase Honda,2,0.0,0.0
+Showcase Mitsubishi,1,0.0,0.0
+Shults Ford Lincoln,3,0.0,0.0
+Sid Dillon CDJR Fiat of Lincoln,1,0.0,0.0
+Sid Dillon Hyundai,6,0.0,0.0
+Sierra Mazda,2,0.0,0.0
+Sierra Motors,1,0.0,0.0
+Sign It Drive It,4,0.0,0.0
+Signature Dealer Group,1,0.0,0.0
+Silicon Valley Enthusiast,3,0.0,0.0
+Sill-TerHar Motors,3,0.0,33.33333333333333
+Silveira Buick GMC,2,100.0,0.0
+Silveira Chevrolet,3,100.0,0.0
+Silver Line Auto Group,1,0.0,0.0
+Silver Star Motorcars,2,100.0,0.0
+Silver Star Motors,3,0.0,33.33333333333333
+Simmons-Rockwell Hyundai,2,100.0,50.0
+Sioux Empire Automotive,1,0.0,0.0
+Six Stars Auto Sales Inc,1,0.0,0.0
+Skinners Chevrolet Buick GMC,1,100.0,0.0
+Sky Motor Cars,1,0.0,100.0
+Sky Preowned,1,100.0,0.0
+Skyline Ford,1,0.0,0.0
+Skyline Mitsubishi,4,0.0,0.0
+Skyview Motors,1,100.0,0.0
+Sleepy Hollow Chevrolet Buick GMC,6,0.0,0.0
+Sloane Porsche Audi,1,0.0,0.0
+Smart Chevrolet,2,0.0,0.0
+Smart Ford South Boston,1,100.0,0.0
+Smedley's Chevrolet,1,0.0,0.0
+Smith Imports,1,0.0,100.0
+Smithtown Kia,1,0.0,0.0
+Smythe Volvo Cars,1,0.0,0.0
+SoCal Auto Group,1,0.0,0.0
+Soerens Ford,1,100.0,0.0
+Sommer's Automotive,1,0.0,0.0
+Sonia's Auto Sales,1,0.0,0.0
+Sons Ford,1,0.0,100.0
+Sons Kia,2,0.0,50.0
+Sonydam Auto Sales,1,100.0,0.0
+Sound Auto Wholesalers,5,0.0,0.0
+Sound Ford,3,0.0,0.0
+South Austin Nissan,1,0.0,0.0
+South Bay Ford Lincoln,3,0.0,0.0
+South Charlotte Chevrolet,1,0.0,0.0
+South Charlotte Hyundai,2,0.0,0.0
+South Colorado Springs Nissan,1,0.0,0.0
+South Dade Toyota,1,0.0,0.0
+South Florida Jeeps of the Palm Beaches,1,100.0,0.0
+South Shore Mitsubishi,2,0.0,0.0
+South Tacoma Honda,1,0.0,100.0
+South Texas American Auto,1,100.0,0.0
+South West Sales,3,100.0,0.0
+Southeast Auto Showroom,1,0.0,100.0
+Southeast Car Agency,5,0.0,0.0
+Southern 441 Nissan,1,0.0,0.0
+Southern Pines Chevrolet GMC,2,0.0,0.0
+Southern Trust Auto Group,2,100.0,0.0
+Southern Volkswagen Greenbrier,1,0.0,0.0
+Southlake Automall,1,0.0,100.0
+Southtowne Hyundai Of Newnan,4,0.0,0.0
+Southtowne Mitsubishi,2,0.0,0.0
+Southwest Kia,1,0.0,0.0
+Southwest Kia of Mesquite,1,0.0,0.0
+Southwest Kia of Rockwall,4,0.0,0.0
+Space Auto Group,4,100.0,0.0
+Spady Auto Group of Scottsdale,7,100.0,57.14285714285714
+Spanos Motors,2,0.0,0.0
+Spartan Toyota,1,0.0,0.0
+Speedway Auto Mall,1,100.0,0.0
+Speedway Motors LLC,1,100.0,0.0
+Speedy Automotive,2,0.0,0.0
+Spitzer Chevrolet North Canton,3,0.0,0.0
+Spitzer Chrysler Dodge Jeep Ram Cleveland,1,0.0,0.0
+Sport Chevrolet Cadillac,2,0.0,0.0
+Sport Durst Mazda,1,100.0,0.0
+Sport Mazda North,2,0.0,0.0
+Sport Mazda South,1,0.0,0.0
+Sport Mitsubishi,4,0.0,0.0
+Sport Subaru,1,0.0,0.0
+Sports & Imports,1,100.0,0.0
+Spreen Acura,1,0.0,100.0
+Spreen Honda Corona,1,0.0,0.0
+Springfield Ford Inc,1,0.0,0.0
+Springs Automotive Group,10,0.0,10.0
+Sprinkler Used Cars,1,0.0,0.0
+Squared Auto,1,0.0,0.0
+St Charles Chrysler Dodge Jeep RAM,1,0.0,0.0
+St. Charles Nissan Hyundai,6,0.0,0.0
+St. Mina Auto Sales,1,100.0,0.0
+Stadium Auto California,3,100.0,0.0
+Stadium Nissan,3,0.0,0.0
+Stan's Auto Sales LLC,1,100.0,0.0
+Star Auto Mall,2,0.0,0.0
+Star Auto Works,3,0.0,0.0
+Star City Motors,2,100.0,0.0
+Star Lincoln,1,0.0,0.0
+Star Motor Cars,1,0.0,0.0
+Star Motor Sales,27,0.0,0.0
+Starfleet Cars,2,0.0,0.0
+State Line Nissan Inc.,2,0.0,0.0
+State Motors Lincoln,1,0.0,0.0
+Stateline Alfa Romeo,1,0.0,0.0
+Stearns Ford,4,0.0,0.0
+Stearns Motors of Naples,1,100.0,0.0
+Steel Chariot,6,100.0,0.0
+Steele North Star Chrysler Jeep Dodge Ram,1,0.0,0.0
+Stephen Wade Nissan,1,100.0,0.0
+Stephen Wade Toyota,6,0.0,0.0
+Sterling McCall Buick GMC,2,0.0,0.0
+Sterling McCall Honda,1,0.0,0.0
+Sterling McCall Hyundai,2,0.0,50.0
+Sterling McCall Lexus,1,0.0,0.0
+Sterling McCall Nissan,3,0.0,66.66666666666666
+Sterling McCall Toyota,1,0.0,0.0
+Sterling McCall Toyota Fort Bend,1,0.0,0.0
+Sterling Motorcar,1,0.0,0.0
+Sterling Value Pre-Owned,1,100.0,0.0
+Steve Rogers Ford,2,0.0,0.0
+Steve Thomas BMW,3,0.0,33.33333333333333
+Steve White Motors,1,0.0,100.0
+Steve White Volkswagen Audi - Greenville,4,0.0,25.0
+Stevens Creek BMW,8,0.0,25.0
+Stevens Creek Chevrolet,4,0.0,25.0
+Stevens Creek Hyundai,5,100.0,0.0
+Stevens Creek INFINITI,2,0.0,0.0
+Stevens Creek Mazda,1,0.0,0.0
+Stevens Creek Nissan,7,0.0,0.0
+Stevens Creek Showcase,7,0.0,14.285714285714285
+Stevens Creek Toyota,2,0.0,0.0
+Stevens Ford of Milford,2,100.0,0.0
+Stevens Point Auto Center,1,0.0,0.0
+Stevenson-Hendrick Honda Wilmington,1,0.0,0.0
+Stevinson Chevrolet,1,0.0,0.0
+Stevinson Toyota East,2,0.0,0.0
+Stew Hansen Hyundai,1,0.0,0.0
+Stillman Volvo Cars,1,100.0,100.0
+Stivers Ford Lincoln,2,0.0,0.0
+Stockton Hyundai,4,0.0,25.0
+Stogner Auto Sales,1,100.0,0.0
+Stohlman Subaru of Sterling,1,0.0,100.0
+Stokes Hodges Ford,2,0.0,0.0
+Stone Mountain Nissan,1,0.0,0.0
+Stone Mountain Toyota,1,0.0,0.0
+Stone Mountain Volkswagen,2,0.0,0.0
+Stouffair Motors,1,100.0,0.0
+Straub Automotive,1,0.0,0.0
+Straub Ford,1,0.0,0.0
+Stream Auto Outlet,1,0.0,0.0
+Street Toyota,2,0.0,0.0
+Strong Auto,1,0.0,0.0
+Stuckey Ford Bellefonte,1,100.0,0.0
+Stuckey Mitsubishi,1,0.0,0.0
+Stuteville Ford of Tahlequah,1,100.0,0.0
+Stykemain Chevrolet,2,0.0,0.0
+Subaru Of Georgetown,1,0.0,100.0
+Subaru Of Kennesaw,1,0.0,0.0
+Subaru Superstore of Chandler,3,0.0,0.0
+Subaru Superstore of Surprise,1,0.0,0.0
+Subaru of EL Cajon,1,100.0,0.0
+Subaru of Fort Myers,4,0.0,0.0
+Subaru of Gwinnett,1,0.0,0.0
+Subaru of Keene,1,0.0,0.0
+Subaru of Las Vegas,1,0.0,0.0
+Subaru of Loveland,1,0.0,0.0
+Subaru of Moon Township,1,0.0,0.0
+Subaru of Morgantown,1,0.0,0.0
+Subaru of North Tampa,1,0.0,100.0
+Subaru of Portland,1,100.0,0.0
+Subaru of San Bernardino,3,0.0,0.0
+Subaru of Troy,1,0.0,0.0
+Suburban Chevrolet,2,0.0,50.0
+Suburban Chrysler Dodge Jeep RAM Fiat of Ann Arbor,3,0.0,0.0
+Suburban Ford of Sterling Heights,3,0.0,0.0
+Suburban Ford of Troy,3,0.0,0.0
+Suburban Ford of Waterford,4,0.0,0.0
+Suburban Honda,1,0.0,0.0
+Suburban Nissan of Farmington Hills,1,0.0,0.0
+Suburban Subaru,5,0.0,20.0
+Suburban Toyota of Troy,1,0.0,0.0
+Suburban Volvo,1,0.0,100.0
+Success Auto Sales,2,100.0,0.0
+Sullivan Brothers Nissan,1,0.0,0.0
+Sullivan Motor Company Inc.,8,100.0,0.0
+Summit Automotive Ford,2,0.0,0.0
+Summit Place Kia Auburn Hills,1,0.0,0.0
+Summit Place Kia East,1,0.0,0.0
+Sunburst Auto Sales,1,100.0,0.0
+Sunland Park Chrysler Jeep Dodge RAM,1,0.0,0.0
+Sunnyside Chevrolet,2,0.0,50.0
+Sunnyvale Ford,5,0.0,0.0
+Sunnyvale Volkswagen,3,0.0,0.0
+Sunrise Ford Volkswagen,2,0.0,0.0
+Sunset Ford,1,0.0,0.0
+Sunset Honda,5,0.0,0.0
+Sunshine Chevrolet,1,0.0,0.0
+Suntrup Hyundai South,1,0.0,0.0
+Suntrup Kia South,5,0.0,0.0
+Suntrup Nissan,2,0.0,0.0
+Suntrup Volkswagen,1,0.0,0.0
+Sunwise Fairfield Preowned Superstore,1,100.0,0.0
+Super Car Guys,20,0.0,0.0
+Superb Motors Group,1,0.0,0.0
+Superior Auto Sales,1,0.0,0.0
+Superior Chevrolet Buick GMC of Siloam Springs,1,0.0,0.0
+Superior Chevrolet of Conway,2,0.0,0.0
+Superior Dodge Chrysler Jeep Ram of Conway,2,0.0,0.0
+Superior Mazda of Bentonville,14,0.0,0.0
+Superior Motors,1,100.0,0.0
+Superior Nissan of Fayetteville,1,0.0,0.0
+Supreme Motors,3,0.0,0.0
+Sure Car,1,100.0,0.0
+Surefire Motors,1,100.0,0.0
+Surprise Ford,1,0.0,0.0
+Susquehanna Chrysler Dodge Jeep RAM,1,0.0,0.0
+Susquehanna Ford,4,100.0,0.0
+Sutliff Volkswagen,2,100.0,0.0
+Sutton Ford,1,0.0,0.0
+Swanty's Chrysler Dodge Jeep RAM,3,0.0,0.0
+SweetCars,2,0.0,50.0
+Szott Ford,1,0.0,0.0
+Szott I-96 Chrysler Dodge Jeep Ram,1,100.0,0.0
+THE COLLECTION,6,0.0,66.66666666666666
+THIScar,6,0.0,33.33333333333333
+THOMPSON'S CHRYSLER DODGE JEEP RAM,2,100.0,0.0
+TJ Chapman Auto LLC,16,0.0,0.0
+TJK AUTO LLC,1,100.0,0.0
+TLC Motors,2,0.0,0.0
+TRED Private Seller (Palo Alto),2,100.0,0.0
+TX Auto Group,3,0.0,0.0
+TXTCharlie,5,100.0,60.0
+Tacoma Auto Loans.com,1,100.0,0.0
+Tacoma Nissan,4,100.0,25.0
+Tacoma Subaru,1,0.0,0.0
+Tactical Fleet,2,100.0,0.0
+Tameron Gulf Coast,1,0.0,0.0
+Tamiami Ford Inc,3,0.0,0.0
+Tamiami Hyundai,1,0.0,0.0
+Tampa Bay Auto Network,5,0.0,20.0
+Tarrytown Honda,2,0.0,0.0
+Tasca Automotive Group,2,0.0,0.0
+Tasca Buick GMC Clearwater,1,0.0,0.0
+Tasca Ford Berlin,2,0.0,0.0
+Tasca Ford Dickson City,4,0.0,0.0
+Taylor BMW,1,100.0,0.0
+Taylor Cadillac,1,0.0,0.0
+Taylor Chevrolet,1,0.0,0.0
+Taylor Ford,1,0.0,0.0
+Taylor Grubaugh Chevrolet Buick GMC,1,100.0,0.0
+Taylor Hyundai of Augusta,1,0.0,0.0
+Taylor Kia Hyundai of Toledo,2,0.0,0.0
+Taylor Kia of Lima,2,0.0,0.0
+Taz Autogroup,1,100.0,0.0
+Team Chevrolet,1,0.0,0.0
+Team Ford Steubenville,1,100.0,0.0
+Team Gunther Kia Volkswagen,1,100.0,0.0
+Team Honda,1,0.0,0.0
+Team Kia Of Bend,3,0.0,0.0
+Team Nissan,3,0.0,33.33333333333333
+Team One Toyota,1,0.0,0.0
+Ted Britt Chevrolet Sterling,2,0.0,0.0
+Ted Britt Ford - We Will Buy Your Car,3,100.0,33.33333333333333
+Ted Britt Ford Lincoln of Chantilly,2,0.0,50.0
+Temecula Hyundai,15,0.0,0.0
+Temecula Nissan,5,0.0,40.0
+Temecula Valley Buick GMC,1,0.0,0.0
+Temecula Valley Lexus,2,0.0,0.0
+Tempe Kia,7,0.0,0.0
+TenPin Motors,1,100.0,100.0
+Tenvoorde Ford,2,0.0,0.0
+Terry Labonte Chevrolet,2,0.0,0.0
+Teton Motors Inc,1,0.0,0.0
+Texas Auto North,2,0.0,0.0
+Texas Auto Pros,1,0.0,0.0
+Texas Auto South,3,0.0,0.0
+Texas Carz,1,0.0,0.0
+Texas Vehicle Exchange,2,100.0,0.0
+The Audi Connection,2,100.0,50.0
+The Audi Exchange,5,0.0,0.0
+The Audi Exchange St. Charles,1,0.0,0.0
+The Audi Exchange of Kirkwood,10,0.0,0.0
+The Auto Livery,1,100.0,0.0
+The Autobarn Collection,5,0.0,0.0
+The Autobarn Countryside Subaru,2,0.0,0.0
+The Autobarn Nissan of Evanston,1,0.0,0.0
+The Autobarn Volkswagen of Countryside,2,0.0,0.0
+The Autobarn Volvo Cars of Oak Park,1,0.0,100.0
+The BMW Store Cincinnati,2,0.0,0.0
+The Bear Lot,3,100.0,0.0
+The Car Buying Center,3,100.0,0.0
+The Car House,1,0.0,0.0
+The Chevrolet Exchange,2,0.0,0.0
+The Faricy Boys,8,0.0,12.5
+The Faricy Boys Automotive in Salida,2,100.0,0.0
+The Faricy Boys Ford,2,0.0,50.0
+The Garage,3,100.0,0.0
+The Highline Group,6,0.0,33.33333333333333
+The Internet Car Lot,8,0.0,0.0
+The Motor Collection,2,100.0,0.0
+The Porsche Exchange,5,0.0,20.0
+The Sharpest Rides,8,0.0,0.0
+The Taverna Collection,1,0.0,0.0
+Theodore Robins Ford,1,0.0,0.0
+Thomas Classics,2,0.0,100.0
+Thomas Dodge Chrysler Jeep RAM of Highland,1,0.0,0.0
+Thomasville Toyota,1,0.0,0.0
+Thompson Lexus Doylestown,1,0.0,0.0
+Thompson Lexus Willow Grove,1,0.0,0.0
+Thompson's Toyota,3,100.0,0.0
+Thompsons GMC,1,0.0,0.0
+Thoroughbred Ford,2,0.0,0.0
+Three 21 Auto,1,100.0,0.0
+Thunder Chrysler Dodge Jeep Ram,2,0.0,0.0
+Tim Dahle Mazda Murray,2,0.0,0.0
+Tim Dahle Mazda Southtowne,3,0.0,66.66666666666666
+Tim Dahle Nissan Southtowne,28,0.0,10.714285714285714
+Tim Short Chrysler Dodge Jeep Ram Hyundai - Fiat,3,0.0,0.0
+"Tim's Truck Capital & Auto Sales, Inc.",1,0.0,0.0
+Timeless Motorcars,6,0.0,0.0
+Tipton Ford Inc,1,0.0,0.0
+Titan Auto Sales,6,0.0,0.0
+Titus-Will Chevrolet - Tacoma,2,0.0,0.0
+Titus-Will Chevrolet Buick GMC - Olympia,3,100.0,0.0
+Titus-Will Hyundai,1,100.0,0.0
+Titus-Will Toyota - Tacoma,1,0.0,0.0
+Titus-Will Used Cars - Olympia,2,100.0,0.0
+Tom Bush Volkswagen,1,0.0,0.0
+Tom Dolan's Reno KIA,1,0.0,0.0
+Tom Gill Chevrolet,4,0.0,0.0
+Tom Hodges Mitsubishi,1,0.0,0.0
+Tom Kadlec Honda,1,0.0,0.0
+Tom O'Brien Chrysler Jeep Dodge Ram - Indianapolis,1,0.0,0.0
+Tom Peacock Nissan,1,0.0,100.0
+Tom Roush Mazda,1,0.0,0.0
+Tom Wood Nissan,3,0.0,0.0
+Tom Wood Porsche,4,0.0,50.0
+Tom Wood Subaru,1,0.0,0.0
+Tom Wood Volkswagen,1,0.0,0.0
+Tom's Auto Sales West,1,100.0,0.0
+Tom's Ford,1,0.0,0.0
+Tomlinson Motor Company,4,0.0,25.0
+Tommie Vaughn Ford,1,0.0,0.0
+Tonkin Gladstone Hyundai,5,0.0,0.0
+Tonkin Hillsboro Ford,2,0.0,0.0
+Tonkin Wilsonville Nissan,10,0.0,0.0
+Tony Betten & Sons Ford,3,0.0,0.0
+Tony Serra Nissan Cullman,1,0.0,100.0
+Top Auto Direct,2,100.0,0.0
+Top Gear Motors,1,0.0,0.0
+Top Line Auto,3,100.0,0.0
+Top Notch Auto Sales,2,100.0,0.0
+Topline Automotive Inc.,2,100.0,0.0
+Topsfield Motor Co.,6,100.0,0.0
+Torre Nissan,2,0.0,0.0
+Torrington Hyundai,1,0.0,0.0
+Torrington Toyota,1,0.0,0.0
+Towbin Dodge RAM,2,0.0,0.0
+Towbin Fiat / Alfa Romeo,1,0.0,0.0
+Towbin Kia,2,0.0,0.0
+Towbin Motor Cars,3,33.33333333333333,66.66666666666666
+Town & Country Ford,6,0.0,16.666666666666664
+Town & Country Ford of Pell City,2,0.0,0.0
+Town Center Nissan,3,0.0,66.66666666666666
+Town East Ford,1,0.0,0.0
+Town North Nissan,2,0.0,50.0
+Towne Auto Group Southwestern Blvd,3,100.0,0.0
+Towne Ford,6,0.0,0.0
+Toy Barn,7,0.0,57.14285714285714
+Toyota Certified Center of Santee,1,100.0,0.0
+Toyota Certified at Capital Plaza,1,0.0,100.0
+Toyota Escondido,1,0.0,0.0
+Toyota Hyundai of Southern Maryland,2,0.0,0.0
+Toyota Marin,2,0.0,0.0
+Toyota Salinas,1,0.0,0.0
+Toyota Santa Monica,1,0.0,0.0
+Toyota Town of Stockton,1,0.0,0.0
+Toyota Walnut Creek,1,0.0,0.0
+Toyota of Anaheim,1,0.0,0.0
+Toyota of Ann Arbor,1,0.0,0.0
+Toyota of Batavia,1,0.0,0.0
+Toyota of Bellingham,1,0.0,0.0
+Toyota of Brookfield,2,0.0,0.0
+Toyota of Cedar Park,2,0.0,0.0
+Toyota of Clermont,1,0.0,100.0
+Toyota of Cleveland,1,0.0,0.0
+Toyota of Dallas,4,0.0,25.0
+Toyota of Deerfield Beach,1,0.0,0.0
+Toyota of Greenfield,1,0.0,0.0
+Toyota of Hackensack,2,0.0,0.0
+Toyota of Hollywood,5,80.0,0.0
+Toyota of Huntington Beach,1,0.0,0.0
+Toyota of Katy,1,0.0,0.0
+Toyota of Keene,1,0.0,0.0
+Toyota of Lake City,1,0.0,0.0
+Toyota of Lancaster,1,0.0,0.0
+Toyota of Lincoln Park,1,0.0,0.0
+Toyota of Louisville / Scion of Louisville,1,0.0,0.0
+Toyota of Muncie,1,0.0,0.0
+Toyota of Nashua,1,0.0,0.0
+Toyota of Newnan,1,100.0,0.0
+Toyota of North Austin,1,0.0,0.0
+Toyota of Olympia,4,0.0,0.0
+Toyota of Orlando,1,0.0,0.0
+Toyota of Plano,2,0.0,0.0
+Toyota of Portland,1,100.0,0.0
+Toyota of Rock Hill,1,0.0,0.0
+Toyota of San Luis Obispo,2,0.0,0.0
+Toyota of Santa Barbara,1,100.0,0.0
+Toyota of Santa Fe,1,0.0,0.0
+Toyota of Tampa Bay on Fletcher,2,0.0,50.0
+Toyota of Vero Beach,3,0.0,0.0
+Toyota of Wallingford,1,0.0,0.0
+Toyota of York,1,0.0,100.0
+Toyota of the Shoals,2,100.0,0.0
+Tracy Volkswagen,4,0.0,0.0
+Tradeline Motorcars,2,0.0,0.0
+Tri State Ford,1,0.0,0.0
+Tri-City Chrysler Dodge Jeep Kia,1,100.0,0.0
+Tri-County Ford,1,0.0,0.0
+Tri-State Nissan,1,0.0,0.0
+Trice Hughes Inc.,1,100.0,0.0
+Trinity Cadillac,2,0.0,50.0
+Troncalli Chrysler Dodge Jeep RAM,1,0.0,0.0
+"TruWorth Auto - Kokomo, IN",2,0.0,0.0
+Truck City Ford,2,0.0,50.0
+Truck World Centerville,1,0.0,0.0
+Trucks Only!,1,0.0,0.0
+Trust Auto,5,0.0,0.0
+Trusted Auto Brokers,1,0.0,0.0
+Tubbs Brothers Inc.,1,0.0,0.0
+Tucker Chevrolet,1,100.0,0.0
+Tulley BMW of Manchester,2,0.0,0.0
+Tuscaloosa Hyundai,1,100.0,0.0
+Tustin Buick GMC,5,0.0,40.0
+Tustin Toyota,1,0.0,0.0
+Twin Lakes Chrysler Dodge Jeep RAM,1,0.0,0.0
+Twin Pine Ford,2,0.0,0.0
+Twins Auto Mall,2,100.0,0.0
+Twins Auto Sales - Redford,1,0.0,0.0
+Twins Auto Sales Inc.,4,0.0,25.0
+Twins Auto of Dublin,1,0.0,0.0
+U.S. Auto Auction,1,0.0,0.0
+UPTOWN Chrysler Dodge Jeep Ram FIAT,1,0.0,0.0
+US Express Auto,2,100.0,0.0
+USA CAR EXPO,2,0.0,0.0
+USA Direct Auto,3,0.0,0.0
+USI Motors,1,100.0,0.0
+Uftring Automall,2,0.0,0.0
+Uftring Chevrolet in Washington,1,0.0,0.0
+Uftring Nissan,1,0.0,0.0
+Ultimate Motor Cars,2,0.0,0.0
+Ultimate Motorsports Inc.,6,0.0,0.0
+Ultimate Powersports,2,100.0,0.0
+Ultimo Motors East,2,0.0,0.0
+Ultimo Motors North Shore,8,0.0,0.0
+Ultimo Motors West,3,0.0,66.66666666666666
+Ultra Motorcars,3,100.0,0.0
+Underriner Honda,3,0.0,66.66666666666666
+Union County Kia,1,0.0,0.0
+Union Park Honda BMW Buick GMC Volvo Cars Jaguar,1,100.0,0.0
+Unique Auto Group,2,0.0,50.0
+Unique Auto Mall,8,0.0,62.5
+Uniquely European Auto Sales LLC,1,100.0,0.0
+United Auto Exchange,1,0.0,0.0
+United Auto Group,3,33.33333333333333,0.0
+United BMW,7,0.0,14.285714285714285
+United Imports,2,50.0,0.0
+United Motors,1,0.0,0.0
+United Nissan Imperial,1,100.0,0.0
+United Nissan Reno,2,0.0,0.0
+Unity Cadillac,1,0.0,0.0
+Universal Auto Group,5,100.0,0.0
+Universal Auto Plaza,4,0.0,0.0
+Universal Auto Sales,2,0.0,0.0
+Universal City Nissan,8,0.0,0.0
+Universal Mitsubishi,6,0.0,0.0
+Universal Nissan,2,0.0,0.0
+University Audi Lynnwood,5,100.0,0.0
+University Volvo Cars,1,0.0,100.0
+Unlimited Auto Group,1,0.0,0.0
+Unlimited Motors,4,0.0,25.0
+Unlimited Motors Fishers,3,0.0,0.0
+Unlimited Motors in Noblesville,2,0.0,0.0
+Urban Motors 3,1,100.0,0.0
+Used Car Motor Mall of Grand Rapids,1,100.0,0.0
+Used Imports Auto,4,100.0,0.0
+Utter Family of Dealerships,4,0.0,0.0
+VINS DC,17,0.0,5.88235294117647
+VIP Auto House,3,100.0,0.0
+VIP Auto Sales & Service,1,100.0,0.0
+VIP Autos,1,100.0,0.0
+VW of Clarksville,2,0.0,0.0
+Vacaville Dodge Chrysler Jeep RAM,3,0.0,33.33333333333333
+Vaden Chevrolet Brunswick,1,0.0,0.0
+Vaden Nissan Statesboro,1,0.0,0.0
+Vaden Nissan of Hinesville,1,100.0,0.0
+Vaden Nissan of Savannah,2,0.0,0.0
+Vaden of Beaufort,1,0.0,0.0
+Valencia BMW,4,0.0,25.0
+Valenti Autocenter,18,100.0,66.66666666666666
+Vallejo Nissan,12,100.0,66.66666666666666
+Valley Cadillac,2,0.0,0.0
+Valley Chevrolet of Hastings,1,100.0,0.0
+Valley Hi Nissan,1,100.0,0.0
+Valley Imports Mercedes-Benz,1,100.0,0.0
+Valley Kia of Fontana,2,0.0,0.0
+Valley Mitsubishi Longmont,3,0.0,0.0
+Van Bortel Chevrolet,2,100.0,0.0
+Van Bortel Ford,4,0.0,0.0
+Van Chevrolet,1,0.0,0.0
+Van Griffith Kia,4,0.0,0.0
+Van Horn Chevrolet of Newhall,2,0.0,0.0
+Van Horn Chevrolet of Plymouth,1,0.0,0.0
+Van Horn Ford of Lomira,8,0.0,0.0
+Van Horn Ford of Oconomowoc,5,0.0,0.0
+Van Horn Ford of Sheboygan,4,0.0,25.0
+Van Horn Hyundai of Fond du Lac,5,0.0,0.0
+Van Horn Hyundai of Sheboygan,6,0.0,33.33333333333333
+Van Horn Kia of Sheboygan,1,100.0,0.0
+Van Horn Mazda of Sheboygan,1,0.0,0.0
+Van Horn Nissan VW of Sheboygan,2,0.0,0.0
+Van Horn Nissan of Stevens Point,1,0.0,0.0
+Van Nuys Alfa Romeo Maserati,16,0.0,6.25
+Van Nuys Chrysler Dodge Jeep Ram,2,0.0,0.0
+Van Nuys Kia,1,0.0,0.0
+Van's Honda,2,0.0,0.0
+VanDevere Auto Outlet,6,0.0,0.0
+VanDevere Chevrolet,3,0.0,0.0
+Vande Hey Brantmeier Chrysler Dodge Jeep Ram,1,100.0,0.0
+Vandergriff Acura,4,0.0,0.0
+Vandergriff Honda,2,0.0,0.0
+Vanguard Volkswagen,5,40.0,0.0
+Vann Dodge Chrysler Jeep RAM,1,0.0,0.0
+Vann York Honda,1,0.0,0.0
+Vaughn Automotive,1,0.0,0.0
+Vegas Auto Gallery,4,0.0,50.0
+Vehicle Clearing House,3,100.0,33.33333333333333
+Vehicles Nashville LLC,2,0.0,50.0
+Veloce Auto Center & Leasing,1,100.0,100.0
+Velocity Auto Sales,12,100.0,0.0
+Venice Honda,1,0.0,0.0
+VerHage Motors,1,100.0,0.0
+Vera Cadillac,1,0.0,0.0
+Vermont Auto Service,1,100.0,0.0
+Versatile Collection,26,0.0,3.8461538461538463
+Vestavia Auto Plaza,2,100.0,0.0
+Vic Bailey Volkswagen,2,0.0,0.0
+Vicksburg Chrysler Dodge Jeep Ram,1,0.0,0.0
+Victorville Chevrolet Cadillac,1,0.0,0.0
+Victory Auto Mall,1,100.0,0.0
+Victory Buick GMC,1,100.0,0.0
+Victory Chevrolet,2,0.0,0.0
+Victory Chevrolet Buick GMC,1,0.0,100.0
+Victory Chevrolet GMC Paola,1,0.0,0.0
+Victory Chevrolet of Savannah,1,0.0,0.0
+Victory Ford,1,0.0,0.0
+Victory Ford of Garnett,1,100.0,0.0
+Victory Honda of Morgan Hill,1,0.0,0.0
+Victory Honda of Plymouth,1,0.0,0.0
+Victory Lane Ford,1,0.0,0.0
+Victory Mitsubishi,1,0.0,0.0
+Victory Motors,1,0.0,0.0
+Victory Motors - Chesterfield,1,100.0,0.0
+Victory Motors - Wyandotte,1,100.0,0.0
+Victory Motors of Colorado,1,0.0,0.0
+Victory Motors- Royal Oak,2,100.0,0.0
+Victory Subaru,1,0.0,0.0
+Victory Toyota of Midtown,1,0.0,0.0
+Villa Ford of Orange,2,0.0,0.0
+Village Ford,1,0.0,0.0
+Village Motors,1,100.0,100.0
+"Vision Automotive Group - Delivery from Rochester, NY for Buffalo, NY",4,100.0,25.0
+"Vision Hankook Motors, Inc.",5,100.0,0.0
+Vision Hyundai Canandaigua,1,0.0,0.0
+Vision Hyundai Webster,1,0.0,0.0
+Vista Motors,2,0.0,0.0
+Vista Volkswagen,1,0.0,0.0
+"Viti, Inc.",2,0.0,50.0
+Viva Nissan,2,0.0,50.0
+Volkswagen Jaguar Cadillac of Hartford,3,100.0,0.0
+Volkswagen Marin,7,0.0,0.0
+Volkswagen North Scottsdale,2,0.0,50.0
+Volkswagen Of Fort Myers,2,0.0,50.0
+Volkswagen Pasadena,4,100.0,50.0
+Volkswagen State College,1,100.0,0.0
+Volkswagen of Alamo Heights,1,0.0,0.0
+Volkswagen of Downtown Chicago,4,0.0,0.0
+Volkswagen of Duluth,2,0.0,0.0
+Volkswagen of Freehold,1,0.0,0.0
+Volkswagen of Garden Grove,2,0.0,0.0
+Volkswagen of Kirkland,5,80.0,20.0
+Volkswagen of Lee's Summit,2,0.0,0.0
+Volkswagen of Marietta,2,0.0,0.0
+Volkswagen of Milwaukee North,3,100.0,0.0
+Volkswagen of Mobile,1,100.0,100.0
+Volkswagen of Murfreesboro,2,100.0,0.0
+Volkswagen of Nanuet,2,0.0,0.0
+Volkswagen of North Nashville,2,0.0,0.0
+Volkswagen of Oak Lawn,2,0.0,0.0
+Volkswagen of Oakland,3,100.0,33.33333333333333
+Volkswagen of Ocala,1,0.0,0.0
+Volkswagen of Old Saybrook,4,100.0,0.0
+Volkswagen of Orland Park,4,0.0,0.0
+Volkswagen of Palatine,2,100.0,0.0
+Volkswagen of Palm Springs,3,0.0,0.0
+Volkswagen of Quad Cities,1,0.0,0.0
+Volkswagen of Salem,25,0.0,0.0
+Volkswagen of South Mississippi,2,0.0,50.0
+Volkswagen of St. Augustine,5,0.0,40.0
+Volkswagen of Streetsboro,4,0.0,25.0
+Volkswagen of Tacoma,1,0.0,0.0
+Volkswagen of Union,1,100.0,0.0
+Volkswagen of Waco,1,0.0,0.0
+Volkswagen of Warner Robins,1,0.0,0.0
+Volunteer Chevrolet,1,100.0,0.0
+Volvo Cars Arrowhead,4,0.0,50.0
+Volvo Cars Bend,4,100.0,0.0
+"Volvo Cars Cape Cod, A Premier Company",1,0.0,100.0
+Volvo Cars Carlsbad,1,100.0,100.0
+Volvo Cars Gilbert,2,0.0,0.0
+Volvo Cars Greensboro,2,100.0,50.0
+Volvo Cars Hudson Valley,1,0.0,0.0
+Volvo Cars Lisle,3,0.0,33.33333333333333
+Volvo Cars Manhattan,1,100.0,100.0
+Volvo Cars Marin,2,100.0,0.0
+Volvo Cars Mission Viejo,3,0.0,66.66666666666666
+Volvo Cars North Miami,4,0.0,0.0
+Volvo Cars Palm Springs,2,100.0,0.0
+Volvo Cars Palo Alto,1,0.0,100.0
+"Volvo Cars Plymouth, A Premier Company",7,0.0,0.0
+Volvo Cars Rochester,2,0.0,50.0
+Volvo Cars Santa Monica,3,100.0,66.66666666666666
+Volvo Cars Silver Spring,1,0.0,0.0
+Volvo Cars South Bay,2,0.0,100.0
+Volvo Cars Tucson,6,0.0,0.0
+Volvo Cars Walnut Creek,1,100.0,100.0
+Volvo Cars West County,1,0.0,0.0
+Volvo Cars West Springfield,1,0.0,0.0
+Volvo Cars Westport,1,0.0,0.0
+Volvo Cars White Plains,2,0.0,100.0
+Volvo Cars of Austin,2,0.0,0.0
+Volvo Cars of Charlottesville,2,100.0,100.0
+Volvo Cars of Cool Springs,1,100.0,100.0
+Volvo Cars of Exeter,2,0.0,0.0
+Volvo Cars of Fredericksburg,1,0.0,0.0
+Volvo Cars of Memphis,1,100.0,0.0
+Volvo Cars of Naples,1,0.0,100.0
+Volvo Cars of Orange County,1,0.0,0.0
+Volvo Village of Danvers,1,0.0,0.0
+Volvo Westlake,2,100.0,0.0
+Vorderman Volkswagen,1,0.0,0.0
+W-K Ford,1,0.0,0.0
+W.I. Simonson Inc.,5,0.0,20.0
+WORLD AUTO,8,100.0,0.0
+Wagner Cadillac,1,100.0,0.0
+Walker Chevrolet,2,0.0,0.0
+Walla Walla Valley Honda,1,0.0,0.0
+Wallace Nissan,1,100.0,0.0
+Wally's Nissan of Latham,2,0.0,0.0
+Walnut Creek Ford,2,0.0,0.0
+Walser Auto Campus Home Delivery,7,100.0,0.0
+Walser Buick GMC Bloomington,1,0.0,0.0
+Walser Buick GMC Roseville,1,0.0,0.0
+Walser Chrysler Jeep Dodge RAM,1,0.0,0.0
+Walser Honda,3,0.0,0.0
+Walser Hyundai,1,0.0,0.0
+Walser Mazda,1,0.0,0.0
+Walser Nissan Burnsville,1,0.0,0.0
+Walser Nissan Coon Rapids,1,0.0,0.0
+Walser Nissan Wayzata,2,0.0,0.0
+Walser Subaru,1,0.0,100.0
+Walser Subaru St. Paul,1,0.0,0.0
+Walser Toyota,7,0.0,0.0
+Walt Sweeney Ford,5,0.0,0.0
+Walter's Mercedes-Benz of Riverside,2,0.0,50.0
+Wasatch Front Kia,1,0.0,0.0
+Washington Ford,1,0.0,0.0
+Watertown Ford,1,100.0,0.0
+Watseka Ford Lincoln,2,100.0,0.0
+Watson's Manistee Chrysler,1,0.0,0.0
+Watsonville Cadillac Buick GMC,1,100.0,0.0
+Watsonville Ford,1,0.0,0.0
+Waxahachie Dodge Chrysler Jeep,2,0.0,0.0
+Way Scarff Ford in Auburn,1,0.0,0.0
+Wayland Automotive,1,100.0,0.0
+Wayne Akers Ford,2,0.0,0.0
+Wayne Automall Hyundai,1,0.0,0.0
+Wayne County Ford,1,100.0,0.0
+Wayne Ford,1,0.0,0.0
+Weathers Motors,1,0.0,0.0
+Weaver Brothers Volvo Cars,1,100.0,100.0
+Webb Hyundai Merrillville,2,0.0,0.0
+Weber Auto Group,1,0.0,0.0
+Weber Chevrolet Columbia,1,0.0,0.0
+Weeks Pre-Owned Center,4,0.0,0.0
+Weelborg Ford,1,0.0,0.0
+"Weikert Ford, Inc.",2,0.0,0.0
+Weir Canyon Honda,2,0.0,0.0
+Wellesley Toyota,1,0.0,0.0
+Wellesley Volkswagen,3,0.0,0.0
+Wells Auto Group,2,0.0,0.0
+Wernet Enterprises,1,100.0,0.0
+Wesley Chapel Nissan,1,0.0,0.0
+West Broad Volkswagen,1,100.0,0.0
+West Coast Auto Gallery,1,100.0,0.0
+West Coast Autoworks - Edmonds,1,0.0,0.0
+West Coast Exotic Cars,3,100.0,66.66666666666666
+West Coast Motorcars,1,100.0,0.0
+West Herr Acura of Buffalo,1,0.0,0.0
+West Herr Chevrolet of Rochester,2,0.0,0.0
+West Herr Chrysler Dodge Ram,1,0.0,0.0
+West Herr Ford Lincoln,2,0.0,0.0
+West Herr Ford of Hamburg,3,0.0,0.0
+West Herr Ford of Rochester,1,0.0,0.0
+West Herr Ford of Webster,4,0.0,0.0
+West Herr Hyundai,3,0.0,0.0
+West Herr Jeep,1,0.0,0.0
+West Herr Nissan Orchard Park,3,0.0,0.0
+West Herr Nissan of Williamsville,1,0.0,0.0
+West Herr Volkswagen,1,100.0,0.0
+West Hills Ford,1,0.0,0.0
+West International Auto Sales,1,100.0,100.0
+Westboro Toyota,3,0.0,0.0
+Westbury Toyota,2,0.0,0.0
+Westcoast Auto Sales,29,0.0,3.4482758620689653
+Western Avenue Nissan,4,0.0,0.0
+Western Motors Merced,2,100.0,0.0
+Westfield Ford,4,0.0,0.0
+Westgate Chevrolet,2,0.0,0.0
+Westgate Chrysler Dodge Jeep RAM of Burgaw,1,100.0,0.0
+Westgate Chrysler Jeep Dodge Ram,20,0.0,5.0
+Westgate Kia of Wake Forest,1,0.0,0.0
+Westgate Pre-Owned,2,0.0,0.0
+Westshore Honda,7,0.0,0.0
+Westshore Mazda,1,0.0,0.0
+Wetzel Auto,1,100.0,0.0
+Whaling City Ford,1,0.0,0.0
+Wheels by RT,1,100.0,0.0
+Where Luxury Meets,2,0.0,0.0
+Whips,3,100.0,0.0
+White Allen European Auto Group,1,0.0,0.0
+White Bear Lincoln,2,0.0,0.0
+White Bear Mitsubishi,1,0.0,0.0
+White Bear Subaru,1,0.0,0.0
+White Plains Volkswagen,1,0.0,0.0
+White River Toyota,1,0.0,0.0
+White's Toyota,1,0.0,0.0
+Whitehead Auto Sales,1,100.0,0.0
+Whitewater Motors Inc.,1,0.0,0.0
+Whitmoyer Auto Group,4,0.0,0.0
+Whitney Motors,1,100.0,0.0
+Wholesale Investments inc,1,100.0,0.0
+Wholesale Luxury Cars LLC,1,0.0,100.0
+Wickstrom Auto Group,1,0.0,0.0
+Widrick Auto Sales,1,100.0,0.0
+Wild West Cars and Trucks,1,0.0,0.0
+Wile Hyundai,1,0.0,0.0
+Willis Automotive,2,0.0,0.0
+Willoughby Chrysler Jeep Dodge RAM,1,100.0,0.0
+Wilsonville Subaru,1,0.0,0.0
+Wilsonville Toyota,1,0.0,0.0
+Windy City Motors,1,100.0,0.0
+Winn Volkswagen,4,0.0,0.0
+Winners Circle Chrysler Dodge Jeep Ram,3,0.0,0.0
+Winners Circle Mazda,10,0.0,0.0
+Winners Circle Nissan of Hampton,3,0.0,0.0
+Wires Only,1,0.0,100.0
+Wise Chrysler Dodge Jeep Ram,1,100.0,0.0
+Wissler Motors,4,100.0,0.0
+Withnell Hyundai,2,100.0,0.0
+Wiz Autos,1,0.0,0.0
+Wolfchase Nissan,1,0.0,0.0
+Wood Ford Carthage,4,100.0,0.0
+Wood Nissan of Kansas City,7,0.0,0.0
+Woodbridge Ford,1,0.0,0.0
+Woodbury Nissan,1,0.0,0.0
+Woodfield Lexus,2,0.0,50.0
+Woodfield Nissan,2,0.0,100.0
+Woodhouse Ford of Omaha,1,0.0,0.0
+Woodhouse Maserati of Omaha,1,100.0,0.0
+Woodhouse Place Nissan,1,100.0,0.0
+Woodhouse.com,6,100.0,0.0
+Woodmen Nissan,1,0.0,0.0
+Woody Folsom Chevrolet Buick GMC,1,0.0,0.0
+Woody's Dodge Jeep Chrysler RAM,5,0.0,0.0
+Woolwine Chrysler Dodge Jeep Ram Inc,1,0.0,0.0
+World Auto,1,100.0,0.0
+World Auto Inc.,6,0.0,0.0
+World Class Motors,2,100.0,0.0
+World Imports USA,1,100.0,0.0
+World Volkswagen of Neptune,1,0.0,0.0
+Wright Chevrolet Buick GMC,1,0.0,0.0
+Wright Nissan,4,0.0,0.0
+Wyatt Johnson Ford Nashville,3,0.0,0.0
+Wynn Volkswagen,1,0.0,0.0
+Xoticars,1,100.0,0.0
+YID Autos Sales,1,100.0,0.0
+Yalcars,2,0.0,0.0
+Yark Chrysler Dodge Jeep Ram,1,0.0,0.0
+Yates Buick GMC,1,0.0,0.0
+Yemm Chevrolet Buick GMC Chrysler Dodge Jeep Ram,2,0.0,0.0
+Younger Nissan,1,0.0,0.0
+Younker Nissan,1,100.0,100.0
+Your Choice Auto Sales of Joliet,1,0.0,0.0
+Z Motor Company Inc.,1,0.0,0.0
+ZAG Motors Everett,5,0.0,0.0
+ZAG Motors Lynnwood,2,100.0,0.0
+Zeigler Buick GMC of Lincolnwood,2,0.0,0.0
+Zeigler Cadillac of Lincolnwood,1,0.0,0.0
+Zeigler Chevrolet,1,0.0,0.0
+Zeigler Fiat Maserati Alfa Romeo of Schaumburg,1,0.0,0.0
+Zeigler Ford of Lowell,2,0.0,0.0
+Zeigler Ford of Plainwell,3,0.0,33.33333333333333
+Zeigler Hyundai of Racine,1,0.0,0.0
+Zeigler Nissan of Gurnee,2,0.0,0.0
+Zeigler Nissan of Orland Park,4,0.0,0.0
+Zeller Ford,1,0.0,0.0
+Zimbrick Hyundai Eastside,1,0.0,0.0
+Zoellner Ford Lincoln Beatrice,1,100.0,0.0
+carneed,1,100.0,100.0
+eCarOne,9,0.0,22.22222222222222
+eLeaseReturns.com,3,100.0,33.33333333333333
+iAuto,2,0.0,0.0
+iAuto of Santa Ana,1,100.0,0.0
+iDeal Auto Imports,4,100.0,0.0
+iDeal Motors,20,100.0,5.0
+iDrive Autohaus Ltd.,1,100.0,0.0
+iDrive Motors,1,0.0,0.0
+iDrive Motorsport,1,100.0,0.0
+iDrive1 Motorcars,32,100.0,0.0
+xDrive Motors Inc.,3,0.0,0.0
+,501,100.0,7.18562874251497

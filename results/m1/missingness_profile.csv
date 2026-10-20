@@ -1,0 +1,42 @@
+field,missing_count,missing_pct,mechanism_hypothesis,explanation
+price_drop_raw,5614,37.043879907621246,Structural absence or MAR/MNAR; unverified,Project assumes absent recorded reduction = zero. Original values and missing indicator retained; no causal or future-price-cut claim.
+seller_rating,3539,23.352029033322335,MAR/MNAR hypotheses,"Rates differ across observed seller/brand groups; seller size is not measured, so small sellers cannot be asserted as the cause."
+driver_rating,1630,10.755526228967337,MAR/MNAR hypotheses,Inspect driver_reviews_num and model-year; no reviews and new models may lack ratings.
+interior_color,1231,8.12273177169251,MAR/MNAR hypotheses,Optional seller description or extraction gap; mechanism unconfirmed.
+one_owner,975,6.433520290333224,MAR/MNAR hypotheses,History reporting may depend on seller/listing; unknown is not equivalent to multiple owners.
+condition_score,817,5.390960079181788,Undetermined,No filling at handover; downstream preprocessing fits only on training data.
+personal_use_only,813,5.364566149785549,MAR/MNAR hypotheses,History reporting may depend on seller/listing; unknown use history must remain missing.
+accidents_or_damage,811,5.35136918508743,MAR/MNAR hypotheses,History unavailable/not disclosed are possible; missing is not equivalent to no accident.
+clean_history_flag,811,5.35136918508743,Undetermined,No filling at handover; downstream preprocessing fits only on training data.
+seller_name,501,3.305839656878918,Undetermined,No filling at handover; downstream preprocessing fits only on training data.
+exterior_color,249,1.6430221049158693,MAR/MNAR hypotheses,Optional seller description or extraction gap; mechanism unconfirmed.
+engine,115,0.7588254701418674,MAR/MNAR hypotheses,Specifications not supplied or not extracted; no evidence to distinguish mechanisms.
+drivetrain,112,0.7390300230946882,MAR/MNAR hypotheses,"Not supplied, unknown, or not extracted; evaluate by model/seller; preserve missing."
+transmission,45,0.29693170570768723,Undetermined,No filling at handover; downstream preprocessing fits only on training data.
+mileage,6,0.0395908940943583,MAR/MNAR hypotheses,Very few gaps; missing odometer information may depend on listing process. Mechanism cannot be determined from these data.
+high_mileage_flag,6,0.0395908940943583,Undetermined,No filling at handover; downstream preprocessing fits only on training data.
+mileage_band,6,0.0395908940943583,Undetermined,No filling at handover; downstream preprocessing fits only on training data.
+low_mileage_for_age_flag,6,0.0395908940943583,Undetermined,No filling at handover; downstream preprocessing fits only on training data.
+very_low_mileage_flag,6,0.0395908940943583,Undetermined,No filling at handover; downstream preprocessing fits only on training data.
+battery_wear_proxy,6,0.0395908940943583,Undetermined,No filling at handover; downstream preprocessing fits only on training data.
+miles_per_year,6,0.0395908940943583,Undetermined,No filling at handover; downstream preprocessing fits only on training data.
+near_new_flag,4,0.026393929396238865,Undetermined,No filling at handover; downstream preprocessing fits only on training data.
+manufacturer,0,0.0,No missing values,No filling at handover; downstream preprocessing fits only on training data.
+year,0,0.0,No missing values,No filling at handover; downstream preprocessing fits only on training data.
+listing_id,0,0.0,No missing values,No filling at handover; downstream preprocessing fits only on training data.
+model,0,0.0,No missing values,No filling at handover; downstream preprocessing fits only on training data.
+model_line_review_flag,0,0.0,No missing values,No filling at handover; downstream preprocessing fits only on training data.
+source_excel_row,0,0.0,No missing values,No filling at handover; downstream preprocessing fits only on training data.
+age,0,0.0,No missing values,No filling at handover; downstream preprocessing fits only on training data.
+price,0,0.0,No missing values,No filling at handover; downstream preprocessing fits only on training data.
+price_drop,0,0.0,No missing values,No filling at handover; downstream preprocessing fits only on training data.
+driver_reviews_num,0,0.0,No missing values,No filling at handover; downstream preprocessing fits only on training data.
+model_line,0,0.0,No missing values,No filling at handover; downstream preprocessing fits only on training data.
+price_cut_flag,0,0.0,No missing values,No filling at handover; downstream preprocessing fits only on training data.
+log_price,0,0.0,No missing values,No filling at handover; downstream preprocessing fits only on training data.
+price_drop_was_missing,0,0.0,No missing values,No filling at handover; downstream preprocessing fits only on training data.
+initial_price,0,0.0,No missing values,No filling at handover; downstream preprocessing fits only on training data.
+premium_brand_flag,0,0.0,No missing values,No filling at handover; downstream preprocessing fits only on training data.
+age_band,0,0.0,No missing values,No filling at handover; downstream preprocessing fits only on training data.
+bev_status_review_flag,0,0.0,No missing values,No filling at handover; downstream preprocessing fits only on training data.
+bev_status_review_reason,0,0.0,No missing values,No filling at handover; downstream preprocessing fits only on training data.

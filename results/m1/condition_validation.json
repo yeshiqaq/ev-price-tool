@@ -1,0 +1,43 @@
+{
+  "rows": 15155,
+  "columns": 48,
+  "new_features": [
+    "low_mileage_for_age_flag",
+    "near_new_flag",
+    "clean_history_flag",
+    "condition_score",
+    "battery_wear_proxy",
+    "age_band",
+    "mileage_band"
+  ],
+  "ids_unchanged": true,
+  "original_fields_preserved": true,
+  "missing_history_preserved": true,
+  "boundary_checks_passed": true,
+  "preprocessor_shapes": {
+    "False": [
+      [
+        12123,
+        56
+      ],
+      [
+        3031,
+        56
+      ]
+    ],
+    "True": [
+      [
+        12123,
+        70
+      ],
+      [
+        3031,
+        70
+      ]
+    ]
+  },
+  "cleaning_notebook_code_cells_executed": 8,
+  "predictive_ablation": "Not run; M5 responsibility",
+  "near_new_count": 2275,
+  "low_mileage_count": 8051
+}

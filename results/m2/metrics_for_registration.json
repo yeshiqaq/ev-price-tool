@@ -1,0 +1,152 @@
+{
+  "package_version": "M2_v5_2026-10-18",
+  "price_model": "price_model_v3.joblib",
+  "prep_version": "v5",
+  "selected_classifier": "decision_tree",
+  "selection_rule": "Mean AUC over unchanged five development folds; no test-based reselection",
+  "threshold_policy": "Minimum 80% recall; lowest false-positive rate on pooled development CV scores. Scores reuse folds used for tuning; this is not an unbiased threshold-performance estimate.",
+  "selected_parameters": {
+    "ccp_alpha": 0.001,
+    "criterion": "entropy",
+    "max_depth": 8,
+    "min_samples_leaf": 20
+  },
+  "threshold": 0.4821645328711008,
+  "validation": {
+    "roc_auc": 0.6354533208612934,
+    "accuracy": 0.6489317825620721,
+    "balanced_accuracy": 0.5925610960215015,
+    "precision": 0.6863767472820058,
+    "recall": 0.8123686974789915,
+    "f1": 0.7440769693325315,
+    "tn": 1680,
+    "fp": 2827,
+    "fn": 1429,
+    "tp": 6187,
+    "mean_fold_auc": 0.6337923750942916,
+    "confusion_matrix_labels": [
+      0,
+      1
+    ],
+    "confusion_matrix": [
+      [
+        1680,
+        2827
+      ],
+      [
+        1429,
+        6187
+      ]
+    ]
+  },
+  "test": {
+    "roc_auc": 0.6295904276555271,
+    "accuracy": 0.6364236225668096,
+    "precision": 0.7040158651462568,
+    "recall": 0.7376623376623377,
+    "f1": 0.7204464738711314,
+    "tn": 509,
+    "fp": 597,
+    "fn": 505,
+    "tp": 1420,
+    "rows": 3031,
+    "confusion_matrix_labels": [
+      0,
+      1
+    ],
+    "confusion_matrix": [
+      [
+        509,
+        597
+      ],
+      [
+        505,
+        1420
+      ]
+    ],
+    "recall_target_met": false
+  },
+  "comparison": [
+    {
+      "model": "logistic_regression",
+      "threshold": 0.4700308142479177,
+      "mean_cv_auc": 0.6311309301118275,
+      "roc_auc": 0.6520739296869495,
+      "accuracy": 0.652259980204553,
+      "balanced_accuracy": 0.5979434489561072,
+      "precision": 0.6975056689342404,
+      "recall": 0.798961038961039,
+      "f1": 0.7447941888619855,
+      "tn": 439,
+      "fp": 667,
+      "fn": 387,
+      "tp": 1538
+    },
+    {
+      "model": "decision_tree",
+      "threshold": 0.4821645328711008,
+      "mean_cv_auc": 0.6337923750942916,
+      "roc_auc": 0.6295904276555271,
+      "accuracy": 0.6364236225668096,
+      "balanced_accuracy": 0.5989396679270097,
+      "precision": 0.7040158651462568,
+      "recall": 0.7376623376623377,
+      "f1": 0.7204464738711314,
+      "tn": 509,
+      "fp": 597,
+      "fn": 505,
+      "tp": 1420
+    },
+    {
+      "model": "majority_baseline",
+      "threshold": 0.5,
+      "mean_cv_auc": 0.5,
+      "roc_auc": 0.5,
+      "accuracy": 0.6351039260969977,
+      "balanced_accuracy": 0.5,
+      "precision": 0.6351039260969977,
+      "recall": 1.0,
+      "f1": 0.7768361581920904,
+      "tn": 0,
+      "fp": 1106,
+      "fn": 0,
+      "tp": 1925
+    }
+  ],
+  "input_columns": [
+    "make",
+    "model_line",
+    "trim_name",
+    "drivetrain",
+    "year",
+    "mileage",
+    "accidents_or_damage",
+    "one_owner",
+    "personal_use_only",
+    "seller_rating",
+    "driver_rating",
+    "complaints_per_listing",
+    "avg_sentiment",
+    "battery_charging_share",
+    "braking_assist_share",
+    "software_screen_share",
+    "crash_fire_share",
+    "ask_gap_pct"
+  ],
+  "excluded_fields": [
+    "price",
+    "price_drop",
+    "price_drop_raw",
+    "price_cut_flag",
+    "initial_price (used only to calculate ask_gap_pct)"
+  ],
+  "score_is_calibrated_probability": false,
+  "registration_status": "Ready for Hyunbin/M5 to register as ev_price_cut_model in the shared registry.",
+  "limitations": [
+    "M1 treated missing price drops as no recorded cut.",
+    "Existing test labels have been inspected in earlier pilot runs. This rerun does not provide a fresh prospective validation.",
+    "Initial asking prices are reconstructed in a single historical snapshot. The gap can retain outcome-related information; results do not establish future price-cut prediction.",
+    "M5 generation code reviewed: each outer training block uses inner out-of-fold prices and validation cars are priced from the other folds. Price-model hyperparameters were chosen upstream on the overall training data; this is not a fully nested assessment of price-model selection.",
+    "M5 supplied final price_model_v3 (XGBoost without condition features); M2 classifier retains its previous condition-feature settings."
+  ]
+}

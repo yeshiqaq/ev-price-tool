@@ -1,0 +1,22 @@
+{
+  "model_file": "models/price_model_v3.joblib",
+  "family": "XGBoost",
+  "condition": "none",
+  "params": {
+    "colsample_bytree": 0.6346363645439445,
+    "learning_rate": 0.028873387331471604,
+    "max_depth": 6,
+    "min_child_weight": 2,
+    "n_estimators": 1321,
+    "reg_lambda": 1.0968217207529523,
+    "subsample": 0.8186841117373118
+  },
+  "prep_version": "v5",
+  "mlflow": {
+    "registered_model": "ev_price_model",
+    "version": 2,
+    "alias": "champion",
+    "run_id": "047008bd45c34d11af0330ad5dd40e12",
+    "benchmark_cv_mape": 9.745604196342137
+  }
+}

@@ -1,0 +1,76 @@
+manufacturer,model,year,mileage,engine,transmission,drivetrain,fuel_type,mpg,exterior_color,interior_color,accidents_or_damage,one_owner,personal_use_only,seller_name,seller_rating,driver_rating,driver_reviews_num,price_drop,price,source_excel_row
+Chevrolet,Bolt EV 1LT,2022,5011.0,Electric,1-Speed Automatic,Front-wheel Drive,Electric,,Gray Ghost Metallic,Black,0.0,1.0,1.0,Service Chevrolet Cadillac,2.1,,0,,29000,99402
+Ford,Focus SE,2016,67103.0,107kW Electric Motor,Automatic,Front-wheel Drive,Electric,,,,0.0,0.0,1.0,Land Rover Jaguar Cerritos,,4.4,193,1000.0,13500,191920
+Ford,Mustang Mach-E GT,2021,12548.0,PRFM/88KWH USABLE EXT BTTRY,SINGLE-SPEED TRANSMISSION,,Electric,,DARK MATTER GRAY METALLIC,PRFM GRAY ACTIVEX SEAT MTRL,0.0,1.0,1.0,Freeway Ford,3.6,4.4,20,,57500,212373
+Ford,Mustang Mach-E GT,2022,12374.0,Electric,Automatic,All-wheel Drive,Electric,,,,0.0,1.0,1.0,Covert Chevrolet Bastrop,4.1,4.9,4,,58903,213087
+Ford,Mustang Mach-E Premium,2021,27320.0,Electric,1-Speed Automatic,Rear-wheel Drive,Electric,,Rapid Red Metallic Tinted Clearcoat,,0.0,1.0,1.0,AutoNation USA Austin,,4.4,20,,45945,213185
+Hyundai,IONIQ 5 SE,2022,8507.0,Electric,1-Speed Automatic,Rear-wheel Drive,Electric,,Teal,Gray,0.0,1.0,1.0,Hyundai of Silsbee,4.4,5.0,6,,45999,345025
+Kia,Niro EV EX,2020,12011.0,Electric,1-Speed Automatic,Front-wheel Drive,Electric,,Gravity Blue,Charcoal,0.0,1.0,1.0,Country Hyundai,4.8,4.4,9,593.0,30870,445577
+Mercedes-Benz,EQS 450+ Base,2023,16.0,Electric,Automatic,Rear-wheel Drive,Electric,,Polar White,Macchiato Beige,0.0,,1.0,Mercedes-Benz of Scottsdale,3.3,5.0,1,5000.0,94994,544816
+Nissan,Leaf SL PLUS,2021,10398.0,Electric,1-Speed Automatic,Front-wheel Drive,Electric,,Deep Blue Pearl,,1.0,1.0,1.0,LeSueur Car Company,5.0,,0,,33777,568041
+Nissan,Leaf SV,2019,14700.0,Electric,1-Speed Automatic,Front-wheel Drive,Electric,,White,,1.0,0.0,1.0,Integrity Auto Sales,,4.5,24,,21991,568420
+Nissan,Leaf SL,2019,29847.0,Electric,1-Speed Automatic,Front-wheel Drive,Electric,,White,Light Gray,0.0,0.0,1.0,Future Nissan of Folsom,4.8,4.5,24,,22988,568877
+Nissan,Leaf SL PLUS,2020,19692.0,Electric,1-Speed Automatic,Front-wheel Drive,Electric,,White,Light Gray,0.0,0.0,1.0,AutoLenders Voorhees,4.5,4.3,8,,31115,568931
+Nissan,Leaf S,2015,41930.0,Electric,1-Speed Automatic,FWD,Electric,,Gun Metallic,Black,0.0,0.0,1.0,1st Choice Autos,2.7,4.5,49,499.0,9999,569239
+Nissan,ARIYA ENGAGE,2023,1500.0,Electric,Automatic,Front-wheel Drive,Electric,,Gun Metallic,Charcoal,0.0,0.0,0.0,Tonkin Wilsonville Nissan,4.5,4.9,3,,44690,584370
+Tesla,Model S Plaid,2021,6917.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Black,Black,0.0,0.0,1.0,Arrowhead Jaguar Land Rover,1.0,,0,3322.0,94674,662169
+Tesla,Model S PERFORMANCE W/LUDICROUS,2020,25108.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Pearl White Multi,Black,0.0,1.0,0.0,North Bay Imports,4.5,4.2,5,2000.0,69995,662773
+Tesla,Model S P85D,2014,30498.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,White,,1.0,0.0,0.0,Auto Buying Service,3.3,4.8,43,1000.0,38995,662906
+Tesla,Model S Long Range,2020,52867.0,Electric,1-Speed Automatic,AWD,Electric,,Deep Blue Metallic,Black,0.0,1.0,1.0,Temecula Hyundai,4.9,4.2,5,7000.0,55000,662917
+Tesla,Model S P85D,2014,106545.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Black,,,,,Beaman Dodge Chrysler Jeep RAM,2.6,4.8,43,1823.0,29990,663031
+Tesla,Model S Performance,2020,59200.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Black,,0.0,1.0,1.0,O'Meara GMC,4.0,4.2,5,,64595,663066
+Tesla,Model S 85D,2015,27140.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Gray,,0.0,0.0,1.0,Auto Buying Service,3.3,4.8,55,1000.0,35786,663530
+Tesla,Model S 75D,2017,67435.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Black,Tan,0.0,0.0,1.0,Benji Auto Sales Orlando,1.4,4.6,38,,40595,663568
+Tesla,Model Y Long Range,2022,18283.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,White,,0.0,1.0,1.0,Perkins Motor Plex,4.6,3.9,11,,50995,663930
+Tesla,Model Y Long Range,2021,14566.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Black,Black,0.0,1.0,1.0,ALM Mall of GA,4.6,3.8,20,,48990,663964
+Tesla,Model Y Standard Range,2021,2012.0,Electric,1-Speed Automatic,Rear-wheel Drive,Electric,,,,0.0,1.0,1.0,Porsche Downtown LA,4.5,3.8,20,1000.0,45898,664007
+Tesla,Model Y Performance,2022,19511.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Midnight Silver Metallic,Black,0.0,1.0,1.0,INFINITI of Lynnwood,4.5,3.9,11,,57888,664026
+Tesla,Model Y Long Range Dual Motor All-Wheel Drive,2021,30993.0,L Electric Motor,Automatic,All-wheel Drive,Electric,,GRAY,,0.0,1.0,1.0,SJL Motors of Miami,,3.8,20,,45885,664342
+Tesla,Model Y Long Range Dual Motor All-Wheel Drive,2022,87.0,Electric Motor,Automatic,All-wheel Drive,Electric,,Blue,Black,0.0,1.0,1.0,Ilusso Miami,,3.9,11,,74000,664445
+Tesla,Model Y Long Range,2021,26229.0,Electric,Automatic,All-wheel Drive,Electric,,White,Black,0.0,0.0,1.0,Covert Ford,2.4,3.8,20,,51995,664525
+Tesla,Model Y Long Range,2021,2115.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Pearl White Multi,Black,1.0,1.0,1.0,Autolocity Motors,4.3,3.8,20,505.0,46995,664545
+Tesla,Model 3 Performance,2022,26017.0,Electric,Automatic,All-wheel Drive,Electric,,Black,,0.0,1.0,1.0,Sunset Ford,4.6,4.7,5,500.0,47000,665018
+Tesla,Model 3 Standard Range Plus,2020,40069.0,Electric,1-Speed Automatic,Rear-wheel Drive,Electric,,Pearl White Multi,White / Black,0.0,1.0,1.0,Premium Autos,1.3,4.2,19,,29999,665028
+Tesla,Model 3 Mid Range,2019,45700.0,Electric,1-Speed Automatic,Rear-wheel Drive,Electric,,White,Black,0.0,0.0,1.0,Fred's Executive Auto,4.4,4.9,33,,29997,665049
+Tesla,Model 3 Long Range,2019,62980.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Black,Black,0.0,1.0,1.0,Highline Auto Sales,4.5,4.9,33,,33995,665098
+Tesla,Model 3 Long Range,2019,25283.0,Electric,1-Speed Automatic,Rear-wheel Drive,Electric,,Pearl White Multi,Black,0.0,1.0,1.0,Drive A Dream,4.7,4.9,33,,35000,665295
+Tesla,Model 3 Standard Range Plus,2019,32191.0,Electric,1-Speed Automatic,RWD,Electric,,Deep Blue Metallic,Black,0.0,1.0,1.0,Highline Auto Sales,4.5,4.9,33,,31995,665345
+Tesla,Model 3 Performance,2020,36706.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Gray,Black,0.0,1.0,1.0,SC Motors II,1.6,4.2,19,800.0,37688,665361
+Tesla,Model 3 Base,2022,15967.0,Electric,1-Speed Automatic,Rear-wheel Drive,Electric,,Pearl White,White / Black,0.0,0.0,1.0,Cutter Chevrolet,3.7,4.7,5,800.0,41995,665362
+Tesla,Model 3 Long Range,2020,48718.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Gray,Black,0.0,0.0,1.0,Alpha Motorsports Manassas,4.5,4.2,19,500.0,34000,665363
+Tesla,Model 3 Base,2022,1026.0,Electric,1-Speed Automatic,Rear-wheel Drive,Electric,,Deep Blue Metallic,White / Black,0.0,1.0,1.0,Nissan of Mission Hills,2.4,4.7,5,1589.0,38615,665378
+Tesla,Model 3 Base,2023,9402.0,Electric,1-Speed Automatic,Rear-wheel Drive,Electric,,Midnight Silver Metallic,,,,,Country Chevrolet,4.9,3.6,3,500.0,42999,665390
+Tesla,Model 3 Standard Range Plus,2019,34383.0,Electric,1-Speed Automatic,Rear-wheel Drive,Electric,,Blue,,0.0,1.0,0.0,Towne Ford,4.9,4.9,33,500.0,31992,665549
+Tesla,Model 3 Long Range,2020,36937.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Red Multi,Black,1.0,1.0,1.0,Automotive Avenues,4.8,4.2,19,,34995,665613
+Tesla,Model 3 Performance,2022,10823.0,Electric,1-Speed Automatic,AWD,Electric,,Black,,,,,SweetCars,5.0,4.7,5,,50995,665730
+Tesla,Model 3 Long Range,2018,54934.0,Electric,1-Speed Automatic,Rear-wheel Drive,Electric,,Silver,Black,,,,CarMax Murrieta - Offering Express Pickup and Home Delivery,,4.6,117,,32998,665811
+Tesla,Model 3 Standard Range Plus,2021,49748.0,Electric,1-Speed Automatic,Rear-wheel Drive,Electric,,Pearl White Multi,,0.0,1.0,1.0,BMW MINI of Arlington,3.9,4.3,5,,35901,665838
+Tesla,Model 3 Long Range,2019,44536.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,White,Black,0.0,0.0,1.0,J C L Automotive,,4.9,33,,38500,665840
+Tesla,Model 3 Standard Range Plus,2019,22946.0,Electric,1-Speed Automatic,Rear-wheel Drive,Electric,,Red Multi,Black,1.0,1.0,1.0,Alpha Motorsports Manassas,4.5,4.9,33,600.0,30400,665873
+Tesla,Model 3 Standard Range Plus,2021,23645.0,Electric,1-Speed Automatic,Rear-wheel Drive,Electric,,Pearl White Multi,Black,0.0,1.0,1.0,Adams North Charlotte,4.1,4.3,5,,38995,665878
+Tesla,Model 3 Long Range,2019,60362.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Midnight Silver Metallic,Black,0.0,0.0,1.0,Corvette Country,,4.9,33,,38900,666016
+Tesla,Model 3 Standard Range Plus,2019,35651.0,Electric,1-Speed Automatic,Rear-wheel Drive,Electric,,Red Multi,Black,0.0,1.0,1.0,Mark Allen Buick GMC,4.8,4.9,33,384.0,36872,666072
+Tesla,Model 3 Standard Range,2020,18518.0,Electric,1-Speed Automatic,Rear-wheel Drive,Electric,,Pearl White Multi,White / Black,0.0,1.0,1.0,Audi Clearwater,4.9,4.2,19,1768.0,36489,666077
+Tesla,Model 3 Performance,2020,29635.0,Dual Electric Motors,Automatic,All-wheel Drive,Electric,,Black,Black,1.0,1.0,1.0,AutoMatch Utah,2.0,4.2,19,2000.0,35995,666142
+Tesla,Model 3 Standard Range Plus,2021,9399.0,Electric,1-Speed Automatic,Rear-wheel Drive,Electric,,White,Black,0.0,0.0,0.0,Brians Auto Center,4.1,4.3,5,1000.0,44900,666191
+Tesla,Model 3 Standard Range Plus,2020,20000.0,Electric,1-Speed Automatic,RWD,Electric,,White,White / Black,1.0,1.0,1.0,Fred's Executive Auto,4.4,4.2,19,,34997,666259
+Tesla,Model 3 Long Range,2019,32109.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,White,White / Black,1.0,1.0,1.0,The Internet Car Lot,4.6,4.9,33,,32995,666384
+Tesla,Model 3 Standard Range Plus,2021,6990.0,Electric,1-Speed Automatic,Rear-wheel Drive,Electric,,White,White / Black,0.0,1.0,1.0,Mercedes-Benz of Rochester,,4.3,5,429.0,38184,666405
+Tesla,Model 3 Standard Range Plus,2019,52687.0,Electric,1-Speed Automatic,Rear-wheel Drive,Electric,,Black,Black,0.0,1.0,1.0,Van Nuys Alfa Romeo Maserati,4.6,4.9,33,,29985,666412
+Tesla,Model 3 Long Range,2018,69952.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Deep Blue Metallic,White,0.0,1.0,1.0,Eastbay Motorcars,,4.6,117,1000.0,31800,666428
+Tesla,Model 3 Long Range,2020,19581.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Pearl White Multi,Black,1.0,1.0,1.0,Premium Autos,1.3,4.2,19,,35900,666480
+Tesla,Model 3 Long Range,2019,8772.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Pearl White Multi,Black,0.0,1.0,1.0,Dean Team Volkswagen Subaru of Ballwin,4.9,4.9,33,,41797,666482
+Tesla,Model 3 Long Range,2020,53904.0,Electric,1-Speed Automatic,AWD,Electric,,Black,White / Black,0.0,1.0,1.0,Fontana Motors Direct,2.2,4.2,19,150.0,34999,666483
+Tesla,Model 3 Base,2022,25160.0,271.0HP Electric Motor Electric Fuel System,A/T,Rear-wheel Drive,Electric,,Blue,Black,,,,,,4.7,5,,36000,666542
+Tesla,Model 3 Long Range,2020,38000.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Black,White / Black,1.0,1.0,1.0,Fred's Executive Auto,4.4,4.2,19,2000.0,35997,666635
+Tesla,Model 3 Standard Range,2023,10274.0,Electric ZEV 271hp,1-Speed Automatic,Rear-wheel Drive,Electric,,Gray,,0.0,1.0,1.0,Jidd Motors Mitsubishi,4.8,3.6,3,,41985,666654
+Tesla,Model 3 Long Range,2020,96627.0,,Automatic,All-wheel Drive,Electric,,BLACK,,0.0,1.0,1.0,SJL Motors of Miami,,4.2,19,,28882,666724
+Tesla,Model 3 Long Range,2020,24670.0,Electric,1-Speed Automatic,AWD,Electric,,Pearl White,Black,0.0,1.0,1.0,Huber's Auto Group,,4.2,19,,40770,666734
+Tesla,Model 3 Standard Range Plus,2019,40000.0,Electric,1-Speed Automatic,RWD,Electric,,Black,Black,1.0,1.0,1.0,Fred's Executive Auto,4.4,4.9,33,,33997,666755
+Tesla,Model 3 Standard Range Plus,2020,42431.0,Electric,1-Speed Automatic,Rear-wheel Drive,Electric,,Pearl White Multi,Black,1.0,1.0,1.0,Automotive Avenues,4.8,4.2,19,,30995,666760
+Tesla,Model X 75D,2018,42855.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Silver,Black,1.0,1.0,1.0,Porsche Stratham,,4.5,15,4008.0,49987,666878
+Tesla,Model X Long Range,2020,52507.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Pearl White Multi,Black,0.0,1.0,1.0,Laguna Niguel Cadillac,,4.2,5,130.0,65491,667282
+Tesla,Model X P90D,2016,53107.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Midnight Silver Metallic,Black,,,,J & S Autohaus,4.2,4.7,21,,50995,667357
+Tesla,Model X 75D,2017,31165.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Red Multi,Black,0.0,1.0,1.0,Langdale Hyundai of South Georgia,2.9,4.7,27,699.0,49991,667753
+Tesla,Model X Plaid,2022,6140.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Black,Black,0.0,1.0,0.0,Genesis Santa Monica,4.8,,0,1510.0,107489,667785
+Volkswagen,e-Golf SEL Premium,2015,85895.0,Electric,1-Speed Automatic,Front-wheel Drive,Electric,,Pure White,Titan Black,1.0,0.0,1.0,Volkswagen of Salem,4.3,4.8,9,1207.0,13990,752049

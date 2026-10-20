@@ -1,0 +1,5 @@
+step,rows_before,rows_removed,rows_after,reason
+01 Electric filter,762091,745899,16192,Keep fuel_type Electric; extraction from supplied cars.xlsx
+02 Non-BEV exclusions,16192,962,15230,Explicit project non-BEV model-name rule; retain removal evidence
+03 Exact duplicates,15230,75,15155,Exact original-field duplicates; provenance column excluded from duplicate key
+04 Category and feature preparation,15155,0,15155,Standardise drivetrains and model families; preserve gaps; preserve all price outliers

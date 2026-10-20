@@ -1,0 +1,55 @@
+{
+  "input_checks": {
+    "warehouse_rows": 15155,
+    "train_rows": 12123,
+    "test_rows": 3031,
+    "excluded_training_ids": [
+      13975
+    ],
+    "M1_split_matches_M5": true,
+    "M4_features_match_warehouse": true,
+    "fold_checks": [
+      {
+        "fold": 0,
+        "train_rows": 9698,
+        "validation_rows": 2425
+      },
+      {
+        "fold": 1,
+        "train_rows": 9698,
+        "validation_rows": 2425
+      },
+      {
+        "fold": 2,
+        "train_rows": 9698,
+        "validation_rows": 2425
+      },
+      {
+        "fold": 3,
+        "train_rows": 9699,
+        "validation_rows": 2424
+      },
+      {
+        "fold": 4,
+        "train_rows": 9699,
+        "validation_rows": 2424
+      }
+    ],
+    "nested_test_IDs_present": false,
+    "no_complaint_listings": 306,
+    "M5_provenance_limit": "M5 generation code reviewed: each outer training block uses inner out-of-fold prices and validation cars are priced from the other folds. Price-model hyperparameters were chosen upstream on the overall training data; this is not a fully nested assessment of price-model selection."
+  },
+  "saved_model_predictions_reproduced": {
+    "logistic_regression": true,
+    "decision_tree": true,
+    "majority_baseline": true
+  },
+  "shared_prep_unchanged": true,
+  "target_columns_do_not_affect_predictions": true,
+  "full_price_and_cut_scoring_tested": true,
+  "zero_asking_price_rejected": true,
+  "no_complaint_and_unseen_model_inputs_tested": true,
+  "M5_test_prices_match_saved_price_model_to_rounding": true,
+  "maximum_price_difference_USD": 0.0,
+  "note": "The helper rounds fair prices to whole dollars, matching M5 CSVs. End-to-end scores match all exported test scores."
+}

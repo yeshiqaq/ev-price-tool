@@ -1,0 +1,23 @@
+{
+  "selected_method": "median",
+  "criterion": "Lower mean 5-fold validation MAE on log price; development 80% only",
+  "development_rows": 12124,
+  "held_out_test_rows": 3031,
+  "test_performance_evaluated": false,
+  "numeric_fields": [
+    "age",
+    "mileage",
+    "seller_rating",
+    "driver_rating"
+  ],
+  "binary_fields": [
+    "accidents_or_damage",
+    "one_owner",
+    "personal_use_only"
+  ],
+  "binary_imputation": "most frequent for both methods",
+  "scaler_fit": "training fold only, before numeric imputer",
+  "seed": 42,
+  "knn_neighbors": 5,
+  "ridge_alpha": 1.0
+}

@@ -1,0 +1,8 @@
+field,non_missing,missing,min,max,mean
+low_mileage_for_age_flag,15149,6,0.0,1.0,0.5314542214007525
+near_new_flag,15151,4,0.0,1.0,0.1501551052735793
+clean_history_flag,14344,811,0.0,1.0,0.8871305075292806
+condition_score,14338,817,0.0,3.0,1.5741386525317338
+battery_wear_proxy,15149,6,0.0,22.3338,2.579370889167602
+age_band,15155,0,,,
+mileage_band,15149,6,,,

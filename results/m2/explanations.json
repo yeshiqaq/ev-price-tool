@@ -1,0 +1,4 @@
+{
+  "ask_gap_odds_ratio_per_10_percentage_points": 1.1158135700840786,
+  "note": "Adjusted association, holding other engineered inputs fixed. Not causal; outputs are class-weighted scores, not calibrated probabilities."
+}

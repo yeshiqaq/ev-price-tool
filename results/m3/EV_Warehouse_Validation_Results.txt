@@ -1,0 +1,59 @@
+EV RESALE VALUE PROJECT - DATA WAREHOUSE VALIDATION RESULTS
+==========================================================
+
+Database: ev_dw
+Schema: Star schema (one fact table, five dimension tables)
+Fact table grain: One row per EV listing
+Source: Actual MySQL Workbench query results
+
+1. TABLE ROW COUNTS
+-------------------
+Table                  Actual Rows
+stg_listings                15,155
+dim_vehicle                    374
+dim_model_year                  14
+dim_seller                   5,730
+dim_history                     14
+dim_reliability                159
+fact_listing                15,155
+
+2. LISTING COMPLETENESS AND UNIQUENESS
+--------------------------------------
+Metric                         Actual Result   Status
+Total fact listings                  15,155     PASS
+Unique listing keys                 15,155     PASS
+Duplicate listing keys                   0     PASS
+Staging listings missing in fact         0     PASS
+
+3. FOREIGN KEY VALIDATION
+-------------------------
+Check                          Invalid References   Status
+Vehicle foreign key                             0   PASS
+Model-year foreign key                          0   PASS
+Seller foreign key                              0   PASS
+History foreign key                             0   PASS
+Reliability foreign key                         0   PASS
+
+4. CONCLUSION
+-------------
+The warehouse contains 15,155 staging EV listings and 15,155 fact
+listings. The checks found no duplicate listing keys, no staging
+listings missing from the fact table, and no invalid foreign-key
+references in the five tested dimensions.
+
+Overall status: PASS for the validation checks performed.
+
+Notes:
+- The project guide's approximately 15,150 EV listings is an estimate,
+  not an exact expected count. The actual loaded count is 15,155.
+- The reliability foreign-key test excludes NULL reliability keys;
+  therefore, this result does not establish that every listing has a
+  matched reliability summary.
+- These checks do not verify all non-key field values, source-to-target
+  transformations, or other business rules.
+
+Evidence screenshots:
+01_Warehouse_Table_Row_Counts.png
+02_Warehouse_Primary_Key_Validation.png
+03_Warehouse_Listing_Completeness.png
+04_Warehouse_Foreign_Key_Validation.png

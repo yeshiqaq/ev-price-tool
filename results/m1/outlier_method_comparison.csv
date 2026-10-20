@@ -1,0 +1,3 @@
+method,flagged,removed_from_clean,decision
+Within-group log-price IQR,248,0,Primary explainable review screen; whole-model fallback for groups under 10
+Isolation Forest,152,0,"Complementary multi-variable review; .01 contamination controls rate, not error certainty"

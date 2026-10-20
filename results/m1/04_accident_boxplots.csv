@@ -1,0 +1,13 @@
+model_line,accidents_or_damage,listings,median_price
+Tesla Model 3,0,1715,36999.0
+Tesla Model 3,1,239,34995.0
+Nissan Leaf,0,1487,22988.0
+Nissan Leaf,1,215,16998.0
+Tesla Model S,0,1224,43995.0
+Tesla Model S,1,270,36399.5
+Ford Mustang Mach-E,0,1116,48643.5
+Ford Mustang Mach-E,1,94,42995.0
+Tesla Model X,0,902,62989.5
+Tesla Model X,1,156,53997.0
+Tesla Model Y,0,718,51899.5
+Tesla Model Y,1,73,45950.0

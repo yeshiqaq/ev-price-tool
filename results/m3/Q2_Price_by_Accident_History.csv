@@ -1,0 +1,46 @@
+model_line,accidents_or_damage,listing_count,avg_price
+"Audi e-tron",0,487,55222.54
+"Audi e-tron",1,67,50153.79
+"Audi e-tron GT",0,37,129174.89
+"BMW i3",0,203,20619.42
+"BMW i3",1,40,17636.18
+"BMW i4",0,40,65647.40
+"BMW iX",0,90,92650.42
+"Chevrolet Bolt EUV",0,167,34131.20
+"Chevrolet Bolt EV",0,584,25427.03
+"Chevrolet Bolt EV",1,69,23521.58
+"Chevrolet Spark EV",0,79,12073.67
+"Ford E-Transit",0,48,57292.52
+"Ford F-150 Lightning",0,398,82581.94
+"Ford Focus Electric",0,52,12610.88
+"Ford Mustang Mach-E",0,1116,50293.99
+"Ford Mustang Mach-E",1,94,43510.69
+"Hyundai IONIQ 5",0,174,46618.75
+"Hyundai IONIQ EV",0,31,22818.55
+"Hyundai Kona EV",0,184,31820.45
+"Hyundai Kona EV",1,77,29870.18
+"Jaguar I-PACE",0,44,48150.84
+"Kia EV6",0,360,47804.93
+"Kia Niro EV",0,347,32638.86
+"Kia Soul EV",0,77,16469.81
+"Mercedes-Benz EQB",0,55,56111.95
+"Mercedes-Benz EQS",0,266,101931.58
+"Nissan Leaf",0,1487,21566.64
+"Nissan Leaf",1,215,16872.87
+"Porsche Taycan",0,621,116844.92
+"Porsche Taycan",1,40,100580.43
+"Tesla Model 3",0,1715,38512.60
+"Tesla Model 3",1,239,35753.82
+"Tesla Model S",0,1224,51700.45
+"Tesla Model S",1,270,38910.93
+"Tesla Model X",0,902,68611.99
+"Tesla Model X",1,156,57005.92
+"Tesla Model Y",0,718,52227.55
+"Tesla Model Y",1,73,47499.19
+"Toyota bZ4X",0,64,48976.09
+"Volkswagen e-Golf",0,249,18823.89
+"Volkswagen e-Golf",1,51,17354.55
+"Volkswagen ID.4",0,498,39378.73
+"Volkswagen ID.4",1,51,38676.35
+"Volvo C40 Recharge",0,57,50703.35
+"Volvo XC40 Recharge",0,173,48404.97

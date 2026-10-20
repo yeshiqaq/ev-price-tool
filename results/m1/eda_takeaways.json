@@ -1,0 +1,44 @@
+[
+  {
+    "file": "01_price_and_log_price.png",
+    "title": "Price before and after taking the log",
+    "takeaway_en": "Raw-price skewness is 1.75; log-price skewness is -0.25. Log transformation reduces the high-price tail, but does not itself prove better predictive accuracy. All 15,155 listings, including the project-designated error, are shown.",
+    "takeaway_zh": "原价偏度为 1.75，取对数后为 -0.25。高价尾部缩短，但是否提高预测精度仍需模型验证。图中保留全部 15,155 条记录。"
+  },
+  {
+    "file": "02_price_by_age_top6.png",
+    "title": "Median price by age, top six model families",
+    "takeaway_en": "Prices vary substantially by model family and age. These are comparisons of different cars in April 2023, not measurements of how one car loses value each year. Sparse points with fewer than five listings are omitted.",
+    "takeaway_zh": "不同车型、车龄对应的价格差别较大。这是同一时点不同车辆的对比，不能直接当成一辆车每年的贬值率。少于5辆的点不画。"
+  },
+  {
+    "file": "03_price_vs_mileage.png",
+    "title": "Price versus mileage, coloured by brand",
+    "takeaway_en": "The pooled price–mileage rank correlation is -0.49. Brand and model differences remain visible, so this pooled association should not be interpreted as a mileage-only price effect.",
+    "takeaway_zh": "价格与里程的整体秩相关系数为 -0.49。品牌和车型差异也明显，不能把整体关系理解为仅由里程造成的价格变化。"
+  },
+  {
+    "file": "04_accident_boxplots.png",
+    "title": "Accident versus no accident recorded",
+    "takeaway_en": "Compare accident histories within model families rather than across all brands. Age, mileage, trim and damage severity remain uncontrolled; unknown histories are excluded, and boxplot fliers are hidden only for readability.",
+    "takeaway_zh": "先在相同车型内比较事故记录。车龄、里程、配置和事故程度仍未控制；未知事故记录不纳入两组，箱线图仅为易读而隐藏散点。"
+  },
+  {
+    "file": "05_brand_price_and_count.png",
+    "title": "Median price and listing count by brand",
+    "takeaway_en": "Tesla accounts for 5,812 listings (38.4% of the cohort). Brand median prices also reflect differences in model mix, age and mileage; they are not rankings of resale-value retention.",
+    "takeaway_zh": "Tesla 有 5,812 条，占样本 38.4%。品牌中位价格也受车型、车龄和里程组成影响，不是保值率排名。"
+  },
+  {
+    "file": "06_price_cut_share_by_brand.png",
+    "title": "Share of listings with a recorded price cut",
+    "takeaway_en": "63.0% of listings have a positive recorded price reduction. Missing price_drop values are treated as zero under the project assumption; this is neither a forecast of future cuts nor proof that a dealer originally overpriced a car.",
+    "takeaway_zh": "63.0% 的记录有降价金额。按项目假设将缺失金额视为0；这既不是未来降价预测，也不能证明经销商一开始定价过高。"
+  },
+  {
+    "file": "07_summary_statistics.png",
+    "title": "Summary statistics",
+    "takeaway_en": "The cohort contains 15,155 listings. Median asking price is $42,834; median mileage is 19,721 miles. Missing values remain missing, and unusual observations remain in the handover.",
+    "takeaway_zh": "样本共 15,155 条，中位挂牌价 $42,834，中位里程 19,721 英里。交接数据保留缺失和异常记录。"
+  }
+]

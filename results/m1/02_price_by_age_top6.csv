@@ -1,0 +1,48 @@
+model_line,age,median_price,listings
+Ford Mustang Mach-E,0,55987.0,27
+Ford Mustang Mach-E,1,52995.0,509
+Ford Mustang Mach-E,2,45861.0,709
+Nissan Leaf,0,27921.0,51
+Nissan Leaf,1,26888.0,187
+Nissan Leaf,2,25978.5,214
+Nissan Leaf,3,24797.0,426
+Nissan Leaf,4,21360.5,252
+Nissan Leaf,5,19833.0,162
+Nissan Leaf,6,13499.0,61
+Nissan Leaf,7,12990.0,80
+Nissan Leaf,8,10997.0,138
+Nissan Leaf,9,9997.0,30
+Nissan Leaf,10,9234.5,72
+Nissan Leaf,11,7675.0,55
+Nissan Leaf,12,7495.0,13
+Tesla Model 3,0,43849.5,28
+Tesla Model 3,1,47490.0,291
+Tesla Model 3,2,39998.5,304
+Tesla Model 3,3,36997.0,523
+Tesla Model 3,4,34988.0,610
+Tesla Model 3,5,34564.5,406
+Tesla Model 3,6,29742.0,8
+Tesla Model S,0,96999.0,11
+Tesla Model S,1,90701.0,102
+Tesla Model S,2,89994.0,159
+Tesla Model S,3,60494.0,109
+Tesla Model S,4,55700.0,99
+Tesla Model S,5,46895.0,184
+Tesla Model S,6,42775.0,165
+Tesla Model S,7,38979.0,268
+Tesla Model S,8,33790.0,218
+Tesla Model S,9,29999.0,162
+Tesla Model S,10,26609.0,139
+Tesla Model S,11,29880.0,15
+Tesla Model X,0,102995.0,37
+Tesla Model X,1,102999.0,157
+Tesla Model X,2,79493.5,54
+Tesla Model X,3,70861.0,163
+Tesla Model X,4,64999.5,122
+Tesla Model X,5,56991.0,194
+Tesla Model X,6,51883.0,168
+Tesla Model X,7,48890.0,238
+Tesla Model Y,0,58495.0,40
+Tesla Model Y,1,55960.0,287
+Tesla Model Y,2,48998.0,387
+Tesla Model Y,3,47777.0,161

@@ -1,0 +1,181 @@
+{
+  "status": "M2 completed against supplied M3/M4/M5 files",
+  "winner": "decision_tree",
+  "threshold": 0.4821645328711008,
+  "threshold_policy": "Minimum 80% recall; lowest false-positive rate on pooled development CV scores. Scores reuse folds used for tuning; this is not an unbiased threshold-performance estimate.",
+  "checks": {
+    "warehouse_rows": 15155,
+    "train_rows": 12123,
+    "test_rows": 3031,
+    "excluded_training_ids": [
+      13975
+    ],
+    "M1_split_matches_M5": true,
+    "M4_features_match_warehouse": true,
+    "fold_checks": [
+      {
+        "fold": 0,
+        "train_rows": 9698,
+        "validation_rows": 2425
+      },
+      {
+        "fold": 1,
+        "train_rows": 9698,
+        "validation_rows": 2425
+      },
+      {
+        "fold": 2,
+        "train_rows": 9698,
+        "validation_rows": 2425
+      },
+      {
+        "fold": 3,
+        "train_rows": 9699,
+        "validation_rows": 2424
+      },
+      {
+        "fold": 4,
+        "train_rows": 9699,
+        "validation_rows": 2424
+      }
+    ],
+    "nested_test_IDs_present": false,
+    "no_complaint_listings": 306,
+    "M5_provenance_limit": "M5 generation code reviewed: each outer training block uses inner out-of-fold prices and validation cars are priced from the other folds. Price-model hyperparameters were chosen upstream on the overall training data; this is not a fully nested assessment of price-model selection."
+  },
+  "models": {
+    "logistic_regression": {
+      "params": {
+        "C": 0.1,
+        "l1_ratio": 0,
+        "max_iter": 500
+      },
+      "mean_cv_auc": 0.6311309301118275,
+      "mean_fold_train_auc": 0.6651209722735942,
+      "threshold": 0.47003081424791776,
+      "pooled_cv_metrics": {
+        "roc_auc": 0.6308966397741702,
+        "accuracy": 0.6483543677307597,
+        "balanced_accuracy": 0.5960415305183533,
+        "precision": 0.6897996150798144,
+        "recall": 0.8000262605042017,
+        "f1": 0.7408353091373335,
+        "tn": 1767,
+        "fp": 2740,
+        "fn": 1523,
+        "tp": 6093
+      }
+    },
+    "decision_tree": {
+      "params": {
+        "ccp_alpha": 0.001,
+        "criterion": "entropy",
+        "max_depth": 8,
+        "min_samples_leaf": 20
+      },
+      "mean_cv_auc": 0.6337923750942916,
+      "mean_fold_train_auc": 0.6537583626600489,
+      "threshold": 0.4821645328711008,
+      "pooled_cv_metrics": {
+        "roc_auc": 0.6354533208612934,
+        "accuracy": 0.6489317825620721,
+        "balanced_accuracy": 0.5925610960215015,
+        "precision": 0.6863767472820058,
+        "recall": 0.8123686974789915,
+        "f1": 0.7440769693325315,
+        "tn": 1680,
+        "fp": 2827,
+        "fn": 1429,
+        "tp": 6187
+      }
+    }
+  },
+  "test_results": [
+    {
+      "model": "logistic_regression",
+      "threshold": 0.47003081424791776,
+      "mean_cv_auc": 0.6311309301118275,
+      "roc_auc": 0.6520739296869495,
+      "accuracy": 0.652259980204553,
+      "balanced_accuracy": 0.5979434489561072,
+      "precision": 0.6975056689342404,
+      "recall": 0.798961038961039,
+      "f1": 0.7447941888619855,
+      "tn": 439,
+      "fp": 667,
+      "fn": 387,
+      "tp": 1538
+    },
+    {
+      "model": "decision_tree",
+      "threshold": 0.4821645328711008,
+      "mean_cv_auc": 0.6337923750942916,
+      "roc_auc": 0.6295904276555271,
+      "accuracy": 0.6364236225668096,
+      "balanced_accuracy": 0.5989396679270097,
+      "precision": 0.7040158651462568,
+      "recall": 0.7376623376623377,
+      "f1": 0.7204464738711314,
+      "tn": 509,
+      "fp": 597,
+      "fn": 505,
+      "tp": 1420
+    },
+    {
+      "model": "majority_baseline",
+      "threshold": 0.5,
+      "mean_cv_auc": 0.5,
+      "roc_auc": 0.5,
+      "accuracy": 0.6351039260969977,
+      "balanced_accuracy": 0.5,
+      "precision": 0.6351039260969977,
+      "recall": 1.0,
+      "f1": 0.7768361581920904,
+      "tn": 0,
+      "fp": 1106,
+      "fn": 0,
+      "tp": 1925
+    }
+  ],
+  "registry": {
+    "name": "ev_price_cut_model",
+    "status": "ready_for_M5_registration",
+    "run_id": "38a05f6230da4c42900c8502574f5ab9",
+    "scope": "Local tracking only; M5 owns registration in the shared registry."
+  },
+  "explanations": {
+    "ask_gap_odds_ratio_per_10_percentage_points": 1.1158135700840786,
+    "note": "Adjusted association, holding other engineered inputs fixed. Not causal; outputs are class-weighted scores, not calibrated probabilities."
+  },
+  "inputs": {
+    "data\\input\\model_dataset.csv": "55c698396ca60d833c0e72a00ac19da4d24b7f64e7e53049a24ea7443e41333a",
+    "sources\\M5_received\\Data\\oof_fair_price_v3.csv": "2682ddc0793f25b09d862170d9ac34380331a57f961d03b425eb10efe1264ece",
+    "sources\\M5_received\\Data\\fair_price_nested_v3.csv": "23cf91554aef78aee5fac0f663c736414ab4d107d4ff84a0fb128883e23e2be9",
+    "src\\prep.py": "ac887b2d306a1eb0867bd28ac73cbeb55b513562b279a449294e0ac2d9c1530c",
+    "src\\condition_features.py": "f59ac6591ccd83b290b5f6b118382ade248858abce487b60e6c6ce128dec17a6",
+    "sources\\M5_received\\src\\make_fair_prices.py": "1e1b12bff7e547bf8dcd93adb5eb7577eaf0944c4514f81a3f9bb0707530656c"
+  },
+  "versions": {
+    "python": "3.12.14",
+    "pandas": "2.2.3",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "sklearn": "1.8.0",
+    "joblib": "1.6.0",
+    "mlflow": "3.3.2"
+  },
+  "limitations": [
+    "M1 treated missing price drops as no recorded cut.",
+    "Existing test labels have been inspected in earlier pilot runs. This rerun does not provide a fresh prospective validation.",
+    "Initial asking prices are reconstructed in a single historical snapshot. The gap can retain outcome-related information; results do not establish future price-cut prediction.",
+    "M5 generation code reviewed: each outer training block uses inner out-of-fold prices and validation cars are priced from the other folds. Price-model hyperparameters were chosen upstream on the overall training data; this is not a fully nested assessment of price-model selection.",
+    "M5 supplied final price_model_v3 (XGBoost without condition features); M2 classifier retains its previous condition-feature settings."
+  ],
+  "previous_settings_check": {
+    "same_selected_parameters": true,
+    "same_search_grids": true,
+    "same_folds": true,
+    "same_threshold_rule": true,
+    "thresholds_refreshed_using_development_CV_only": true
+  }
+}
