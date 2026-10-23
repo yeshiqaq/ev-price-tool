@@ -25,7 +25,7 @@ from sklearn.preprocessing import FunctionTransformer, OneHotEncoder, StandardSc
 
 from src import condition_features as m1_rules
 
-VERSION = "v5"           # v5 (16 Oct): rules="m1" option for M1's condition features
+VERSION = "v6"           # v6 (17 Oct): add_lookups() for the API; v5: rules="m1" option
 SNAPSHOT_YEAR = 2023     # listings collected April 2023
 RANDOM_STATE = 42
 TARGET = "price"
@@ -160,3 +160,34 @@ def add_reliability(df, rel):
     rel = rel[["make", "model_line", "year"] + COMPLAINT_RAW]
     return df.drop(columns=[c for c in COMPLAINT_RAW if c in df.columns]).merge(
         rel, on=["make", "model_line", "year"], how="left")
+
+
+def add_lookups(df, models_dir="models"):
+    """Everything the API must add before model.predict (v6). Use it in the app:
+
+        X = prep.add_lookups(pd.DataFrame([request_dict]))
+        price = float(model.predict(X)[0])          # US$, no np.exp
+
+    1. driver_rating is Cars.com's rating of the vehicle: one fixed value per trim and year,
+       so it is looked up, never typed by the dealer. Leaving it blank makes the model treat
+       the car like a new, unreviewed luxury model (about +40% on a 2020 Model 3).
+    2. M4's complaint summary is joined by make + model_line + year (add_reliability).
+    Both tables ship in models/, so the Docker image needs no data folder."""
+    from pathlib import Path
+    d = Path(models_dir)
+    df = pd.DataFrame(df).rename(columns=RENAME)
+    dr = pd.read_csv(d / "driver_rating_lookup_v1.csv")
+    keys = ["model_line", "trim_name", "year"]
+    if "driver_rating" not in df.columns:
+        df["driver_rating"] = np.nan
+    df["driver_rating"] = pd.to_numeric(df["driver_rating"], errors="coerce")
+    hit = df[keys].merge(dr.assign(_known=True), on=keys, how="left")
+    df["driver_rating"] = df["driver_rating"].fillna(pd.Series(hit["driver_rating"].to_numpy(), index=df.index))
+    # Trim missing or not in the data: fall back to the model line + year median. A known
+    # trim-year with no rating stays blank, exactly as in training.
+    unknown = pd.Series(hit["_known"].isna().to_numpy(), index=df.index)
+    by_line = dr.groupby(["model_line", "year"], as_index=False)["driver_rating"].median()
+    fb = df[["model_line", "year"]].merge(by_line, on=["model_line", "year"], how="left")["driver_rating"]
+    df.loc[unknown, "driver_rating"] = df.loc[unknown, "driver_rating"].fillna(
+        pd.Series(fb.to_numpy(), index=df.index)[unknown])
+    return add_reliability(df, pd.read_csv(d / "reliability_lookup_v1.csv"))
